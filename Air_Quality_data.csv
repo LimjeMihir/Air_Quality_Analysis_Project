@@ -1,0 +1,1837 @@
+id,country,state,city,station,pollutant_id,last_update,pollutant_min,pollutant_max,pollutant_avg
+6,India,Andhra_Pradesh,Amaravati,"Secretariat, Amaravati - APPCB",CO,21-10-2021 01:00,15,45,32
+13,India,Andhra_Pradesh,Rajamahendravaram,"Anand Kala Kshetram, Rajamahendravaram - APPCB",CO,21-10-2021 01:00,2,52,20
+20,India,Andhra_Pradesh,Tirupati,"Tirumala, Tirupati - APPCB",CO,21-10-2021 01:00,39,68,51
+27,India,Andhra_Pradesh,Visakhapatnam,"GVM Corporation, Visakhapatnam - APPCB",CO,21-10-2021 01:00,25,154,46
+33,India,Assam,Guwahati,"Pan Bazaar, Guwahati - APCB",CO,21-10-2021 01:00,1,28,7
+40,India,Assam,Guwahati,"Railway Colony, Guwahati - APCB",CO,21-10-2021 01:00,10,19,11
+45,India,Bihar,Gaya,"Collectorate, Gaya - BSPCB",CO,21-10-2021 01:00,55,67,59
+52,India,Bihar,Gaya,"SFTI Kusdihra, Gaya - BSPCB",CO,21-10-2021 01:00,38,54,42
+59,India,Bihar,Hajipur,"Industrial Area, Hajipur - BSPCB",CO,21-10-2021 01:00,36,80,72
+66,India,Bihar,Muzaffarpur,"Buddha Colony, Muzaffarpur - BSPCB",CO,21-10-2021 01:00,13,58,46
+71,India,Bihar,Muzaffarpur,"Muzaffarpur Collectorate, Muzaffarpur - BSPCB",CO,21-10-2021 01:00,32,72,52
+78,India,Bihar,Patna,"DRM Office Danapur, Patna - BSPCB",CO,21-10-2021 01:00,25,100,45
+85,India,Bihar,Patna,"Govt. High School Shikarpur, Patna - BSPCB",CO,21-10-2021 01:00,16,56,40
+92,India,Bihar,Patna,"Muradpur, Patna - BSPCB",CO,21-10-2021 01:00,57,112,98
+99,India,Bihar,Patna,"Rajbansi Nagar, Patna - BSPCB",CO,21-10-2021 01:00,22,81,44
+106,India,Bihar,Patna,"Samanpura, Patna - BSPCB",CO,21-10-2021 01:00,19,36,28
+113,India,Chandigarh,Chandigarh,"Sector 22, Chandigarh - CPCC",CO,21-10-2021 01:00,34,104,40
+120,India,Chandigarh,Chandigarh,"Sector-25, Chandigarh - CPCC",CO,21-10-2021 01:00,36,86,41
+126,India,Chhattisgarh,Bilaspur,"Mangala, Bilaspur - NTPC",CO,21-10-2021 01:00,7,75,55
+132,India,Delhi,Delhi,"Alipur, Delhi - DPCC",CO,21-10-2021 01:00,30,83,38
+139,India,Delhi,Delhi,"Anand Vihar, Delhi - DPCC",CO,21-10-2021 01:00,NA,NA,NA
+146,India,Delhi,Delhi,"Ashok Vihar, Delhi - DPCC",CO,21-10-2021 01:00,10,130,27
+151,India,Delhi,Delhi,"Aya Nagar, Delhi - IMD",CO,21-10-2021 01:00,2,122,7
+158,India,Delhi,Delhi,"Bawana, Delhi - DPCC",CO,21-10-2021 01:00,18,95,31
+163,India,Delhi,Delhi,"CRRI Mathura Road, Delhi - IMD",CO,21-10-2021 01:00,102,161,105
+170,India,Delhi,Delhi,"Chandni Chowk, Delhi - IITM",CO,21-10-2021 01:00,75,123,87
+177,India,Delhi,Delhi,"DTU, Delhi - CPCB",CO,21-10-2021 01:00,29,122,49
+184,India,Delhi,Delhi,"Dr. Karni Singh Shooting Range, Delhi - DPCC",CO,21-10-2021 01:00,22,119,32
+191,India,Delhi,Delhi,"Dwarka-Sector 8, Delhi - DPCC ",CO,21-10-2021 01:00,5,124,41
+196,India,Delhi,Delhi,"IGI Airport (T3), Delhi - IMD",CO,21-10-2021 01:00,90,108,105
+203,India,Delhi,Delhi,"IHBAS, Dilshad Garden, Delhi - CPCB",CO,21-10-2021 01:00,22,110,84
+209,India,Delhi,Delhi,"ITO, Delhi - CPCB",CO,21-10-2021 01:00,34,178,43
+214,India,Delhi,Delhi,"Jahangirpuri, Delhi - DPCC",CO,21-10-2021 01:00,22,60,41
+221,India,Delhi,Delhi,"Jawaharlal Nehru Stadium, Delhi - DPCC",CO,21-10-2021 01:00,5,122,13
+228,India,Delhi,Delhi,"Lodhi Road, Delhi - IITM",CO,21-10-2021 01:00,58,70,65
+233,India,Delhi,Delhi,"Lodhi Road, Delhi - IMD",CO,21-10-2021 01:00,18,75,22
+240,India,Delhi,Delhi,"Major Dhyan Chand National Stadium, Delhi - DPCC",CO,21-10-2021 01:00,20,125,31
+247,India,Delhi,Delhi,"Mandir Marg, Delhi - DPCC",CO,21-10-2021 01:00,38,105,43
+254,India,Delhi,Delhi,"Mundka, Delhi - DPCC",CO,21-10-2021 01:00,23,103,35
+261,India,Delhi,Delhi,"NSIT Dwarka, Delhi - CPCB",CO,21-10-2021 01:00,18,123,77
+268,India,Delhi,Delhi,"Najafgarh, Delhi - DPCC",CO,21-10-2021 01:00,10,48,21
+275,India,Delhi,Delhi,"Narela, Delhi - DPCC",CO,21-10-2021 01:00,55,70,58
+282,India,Delhi,Delhi,"Nehru Nagar, Delhi - DPCC",CO,21-10-2021 01:00,38,148,53
+287,India,Delhi,Delhi,"North Campus, DU, Delhi - IMD",CO,21-10-2021 01:00,24,118,35
+294,India,Delhi,Delhi,"Okhla Phase-2, Delhi - DPCC",CO,21-10-2021 01:00,5,128,28
+301,India,Delhi,Delhi,"Patparganj, Delhi - DPCC",CO,21-10-2021 01:00,5,143,21
+308,India,Delhi,Delhi,"Punjabi Bagh, Delhi - DPCC",CO,21-10-2021 01:00,13,104,17
+315,India,Delhi,Delhi,"Pusa, Delhi - DPCC",CO,21-10-2021 01:00,8,126,36
+320,India,Delhi,Delhi,"Pusa, Delhi - IMD",CO,21-10-2021 01:00,51,104,72
+327,India,Delhi,Delhi,"R K Puram, Delhi - DPCC",CO,21-10-2021 01:00,5,105,12
+334,India,Delhi,Delhi,"Rohini, Delhi - DPCC",CO,21-10-2021 01:00,42,113,64
+341,India,Delhi,Delhi,"Shadipur, Delhi - CPCB",CO,21-10-2021 01:00,23,141,49
+348,India,Delhi,Delhi,"Sirifort, Delhi - CPCB",CO,21-10-2021 01:00,36,134,56
+355,India,Delhi,Delhi,"Sonia Vihar, Delhi - DPCC",CO,21-10-2021 01:00,20,103,42
+362,India,Delhi,Delhi,"Sri Aurobindo Marg, Delhi - DPCC",CO,21-10-2021 01:00,17,63,22
+369,India,Delhi,Delhi,"Vivek Vihar, Delhi - DPCC",CO,21-10-2021 01:00,52,125,73
+376,India,Delhi,Delhi,"Wazirpur, Delhi - DPCC",CO,21-10-2021 01:00,5,112,11
+382,India,Gujarat,Ahmedabad,"Gyaspur, Ahmedabad - IITM",CO,21-10-2021 01:00,1,55,3
+388,India,Gujarat,Ahmedabad,"Maninagar, Ahmedabad - GPCB",CO,21-10-2021 01:00,3,133,29
+393,India,Gujarat,Ahmedabad,"Rakhial, Ahmedabad - IITM",CO,21-10-2021 01:00,32,72,37
+399,India,Gujarat,Ahmedabad,"SAC ISRO Bopal, Ahmedabad - IITM",CO,21-10-2021 01:00,NA,NA,NA
+406,India,Gujarat,Ahmedabad,"SAC ISRO Satellite, Ahmedabad - IITM",CO,21-10-2021 01:00,10,105,22
+413,India,Gujarat,Ahmedabad,"SVPI Airport Hansol, Ahmedabad - IITM",CO,21-10-2021 01:00,13,92,23
+420,India,Gujarat,Ankleshwar,"GIDC, Ankleshwar - GPCB",CO,21-10-2021 01:00,54,118,73
+427,India,Gujarat,Gandhinagar,"GIFT City, Gandhinagar - IITM",CO,21-10-2021 01:00,58,100,62
+434,India,Gujarat,Gandhinagar,"IIPHG Lekawada, Gandhinagar - IITM",CO,21-10-2021 01:00,2,36,23
+441,India,Gujarat,Gandhinagar,"Sector-10, Gandhinagar - GPCB",CO,21-10-2021 01:00,8,69,13
+447,India,Gujarat,Nandesari,"GIDC, Nandesari - Nandesari Ind. Association",CO,21-10-2021 01:00,50,100,65
+452,India,Gujarat,Vapi,"Phase-1 GIDC, Vapi - GPCB",CO,21-10-2021 01:00,57,71,62
+458,India,Gujarat,Vatva,"Phase-4 GIDC, Vatva - GPCB",CO,21-10-2021 01:00,22,78,34
+465,India,Haryana,Ambala,"Patti Mehar, Ambala - HSPCB",CO,21-10-2021 01:00,39,84,47
+472,India,Haryana,Bahadurgarh,"Arya Nagar, Bahadurgarh - HSPCB",CO,21-10-2021 01:00,14,68,27
+479,India,Haryana,Ballabgarh,"Nathu Colony, Ballabgarh - HSPCB",CO,21-10-2021 01:00,33,148,51
+486,India,Haryana,Bhiwani,"H.B. Colony, Bhiwani - HSPCB",CO,21-10-2021 01:00,14,102,22
+493,India,Haryana,Charkhi Dadri,"Mini Secretariat, Charkhi Dadri - HSPCB",CO,21-10-2021 01:00,23,68,35
+500,India,Haryana,Dharuhera,"Municipal Corporation Office, Dharuhera -  HSPCB",CO,21-10-2021 01:00,2,73,18
+507,India,Haryana,Faridabad,"New Industrial Town, Faridabad - HSPCB",CO,21-10-2021 01:00,20,104,31
+514,India,Haryana,Faridabad,"Sector 11, Faridabad - HSPCB",CO,21-10-2021 01:00,16,98,45
+521,India,Haryana,Faridabad,"Sector 30, Faridabad - HSPCB",CO,21-10-2021 01:00,51,120,55
+526,India,Haryana,Faridabad,"Sector- 16A, Faridabad - HSPCB",CO,21-10-2021 01:00,22,117,48
+533,India,Haryana,Fatehabad,"Huda Sector, Fatehabad - HSPCB",CO,21-10-2021 01:00,16,68,31
+538,India,Haryana,Gurugram,"NISE Gwal Pahari, Gurugram - IMD",CO,21-10-2021 01:00,35,74,42
+545,India,Haryana,Gurugram,"Sector-51, Gurugram - HSPCB",CO,21-10-2021 01:00,2,129,47
+552,India,Haryana,Gurugram,"Teri Gram, Gurugram - HSPCB",CO,21-10-2021 01:00,29,55,46
+557,India,Haryana,Gurugram,"Vikas Sadan, Gurugram - HSPCB",CO,21-10-2021 01:00,30,108,74
+564,India,Haryana,Hisar,"Urban Estate-II, Hisar - HSPCB",CO,21-10-2021 01:00,14,104,17
+571,India,Haryana,Jind,"Police Lines, Jind - HSPCB",CO,21-10-2021 01:00,36,60,46
+578,India,Haryana,Kaithal,"Rishi Nagar, Kaithal - HSPCB",CO,21-10-2021 01:00,4,86,14
+585,India,Haryana,Karnal,"Sector-12, Karnal - HSPCB",CO,21-10-2021 01:00,34,117,48
+592,India,Haryana,Kurukshetra,"Sector-7, Kurukshetra - HSPCB",CO,21-10-2021 01:00,24,93,41
+599,India,Haryana,Mandikhera,"General Hospital, Mandikhera - HSPCB",CO,21-10-2021 01:00,21,84,25
+606,India,Haryana,Manesar,"Sector-2 IMT, Manesar - HSPCB",CO,21-10-2021 01:00,11,101,13
+613,India,Haryana,Narnaul,"Shastri Nagar, Narnaul - HSPCB",CO,21-10-2021 01:00,6,22,11
+620,India,Haryana,Palwal,"Shyam Nagar, Palwal - HSPCB",CO,21-10-2021 01:00,5,46,32
+625,India,Haryana,Panchkula,"Sector-6, Panchkula - HSPCB ",CO,21-10-2021 01:00,1,6,3
+632,India,Haryana,Panipat,"Sector-18, Panipat - HSPCB",CO,21-10-2021 01:00,NA,NA,NA
+637,India,Haryana,Rohtak,"MD University, Rohtak - HSPCB",CO,21-10-2021 01:00,44,106,66
+644,India,Haryana,Sirsa,"F-Block, Sirsa - HSPCB",CO,21-10-2021 01:00,15,73,39
+651,India,Haryana,Sonipat,"Murthal, Sonipat - HSPCB",CO,21-10-2021 01:00,14,33,27
+658,India,Haryana,Yamunanagar,"Gobind Pura, Yamuna Nagar - HSPCB",CO,21-10-2021 01:00,18,57,31
+665,India,Jammu_&_Kashmir,Srinagar,"Rajbagh, Srinagar - JKSPCB",CO,21-10-2021 01:00,1,59,30
+674,India,Karnataka,Bagalkot,"Vidayagiri, Bagalkot - KSPCB",CO,21-10-2021 01:00,16,26,25
+681,India,Karnataka,Bengaluru,"BWSSB Kadabesanahalli, Bengaluru - CPCB",CO,21-10-2021 01:00,7,12,10
+688,India,Karnataka,Bengaluru,"Bapuji Nagar, Bengaluru - KSPCB",CO,21-10-2021 01:00,22,101,51
+693,India,Karnataka,Bengaluru,"City Railway Station, Bengaluru - KSPCB",CO,21-10-2021 01:00,50,124,118
+699,India,Karnataka,Bengaluru,"Hebbal, Bengaluru - KSPCB",CO,21-10-2021 01:00,18,33,28
+706,India,Karnataka,Bengaluru,"Hombegowda Nagar, Bengaluru - KSPCB",CO,21-10-2021 01:00,18,58,25
+713,India,Karnataka,Bengaluru,"Jayanagar 5th Block, Bengaluru - KSPCB",CO,21-10-2021 01:00,6,53,23
+719,India,Karnataka,Bengaluru,"Peenya, Bengaluru - CPCB",CO,21-10-2021 01:00,45,100,59
+724,India,Karnataka,Bengaluru,"Sanegurava Halli, Bengaluru - KSPCB",CO,21-10-2021 01:00,19,48,33
+730,India,Karnataka,Bengaluru,"Silk Board, Bengaluru - KSPCB",CO,21-10-2021 01:00,16,49,32
+737,India,Karnataka,Chamarajanagar,"Urban, Chamarajanagar - KSPCB",CO,21-10-2021 01:00,14,28,15
+744,India,Karnataka,Chikkaballapur,"Chikkaballapur Rural, Chikkaballapur - KSPCB",CO,21-10-2021 01:00,28,31,29
+751,India,Karnataka,Chikkamagaluru,"Kalyana Nagara, Chikkamagaluru - KSPCB",CO,21-10-2021 01:00,16,36,25
+758,India,Karnataka,Davanagere,"Devaraj Urs Badavane, Davanagere - KSPCB",CO,21-10-2021 01:00,23,34,27
+765,India,Karnataka,Hassan,"B.Katihalli, Hassan - KSPCB",CO,21-10-2021 01:00,10,106,20
+772,India,Karnataka,Hubballi,"Deshpande Nagar, Hubballi - KSPCB",CO,21-10-2021 01:00,28,58,38
+777,India,Karnataka,Kalaburgi,"Lal Bahadur Shastri Nagar, Kalaburagi - KSPCB",CO,21-10-2021 01:00,16,60,28
+784,India,Karnataka,Kolar,"Tamaka Ind. Area, Kolar - KSPCB",CO,21-10-2021 01:00,42,70,57
+791,India,Karnataka,Koppal,"Diwator Nagar, Koppal - KSPCB",CO,21-10-2021 01:00,42,54,48
+798,India,Karnataka,Manglore,"Kadri, Mangalore - KSPCB",CO,21-10-2021 01:00,57,68,62
+805,India,Karnataka,Medikeri,"Stuart Hill, Madikeri - KSPCB",CO,21-10-2021 01:00,20,30,22
+812,India,Karnataka,Mysuru,"Hebbal 1st Stage, Mysuru - KSPCB",CO,21-10-2021 01:00,2,84,23
+819,India,Karnataka,Raichur,"Haji Colony, Raichur - KSPCB",CO,21-10-2021 01:00,8,49,19
+826,India,Karnataka,Ramanagara,"Vijay Nagar, Ramanagara - KSPCB",CO,21-10-2021 01:00,9,29,17
+833,India,Karnataka,Shivamogga,"Vinoba Nagara, Shivamogga - KSPCB",CO,21-10-2021 01:00,17,61,34
+839,India,Karnataka,Udupi,"Brahmagiri, Udupi - KSPCB",CO,21-10-2021 01:00,94,114,105
+846,India,Karnataka,Vijayapura,"Ibrahimpur, Vijayapura - KSPCB",CO,21-10-2021 01:00,37,113,38
+853,India,Karnataka,Yadgir,"Collector Office, Yadgir - KSPCB",CO,21-10-2021 01:00,1,44,10
+860,India,Kerala,Eloor,"Udyogamandal, Eloor - Kerala PCB",CO,21-10-2021 01:00,44,53,49
+867,India,Kerala,Ernakulam,"Kacheripady, Ernakulam - Kerala PCB",CO,21-10-2021 01:00,43,45,44
+873,India,Kerala,Kannur,"Thavakkara, Kannur - Kerala PCB",CO,21-10-2021 01:00,26,60,43
+880,India,Kerala,Kochi,"Vyttila, Kochi - Kerala PCB",CO,21-10-2021 01:00,21,72,37
+886,India,Kerala,Kollam,"Polayathode, Kollam - Kerala PCB",CO,21-10-2021 01:00,85,92,89
+893,India,Kerala,Kozhikode,"Palayam, Kozhikode - Kerala PCB",CO,21-10-2021 01:00,2,47,23
+900,India,Kerala,Thiruvananthapuram,"Kariavattom, Thiruvananthapuram - Kerala PCB",CO,21-10-2021 01:00,15,49,20
+907,India,Kerala,Thiruvananthapuram,"Plammoodu, Thiruvananthapuram - Kerala PCB",CO,21-10-2021 01:00,14,88,30
+914,India,Madhya Pradesh,Bhopal,"T T Nagar, Bhopal - MPPCB",CO,21-10-2021 01:00,29,111,39
+919,India,Madhya Pradesh,Damoh,"Shrivastav Colony, Damoh - MPPCB",CO,21-10-2021 01:00,14,15,14
+925,India,Madhya Pradesh,Dewas,"Bhopal Chauraha, Dewas - MPPCB",CO,21-10-2021 01:00,12,108,29
+932,India,Madhya Pradesh,Gwalior,"City Center, Gwalior - MPPCB",CO,21-10-2021 01:00,16,112,22
+936,India,Madhya Pradesh,Gwalior,"Phool Bagh, Gwalior - Mondelez Ind. Food",CO,21-10-2021 01:00,4,111,26
+942,India,Madhya Pradesh,Indore,"Chhoti Gwaltoli, Indore - MPPCB",CO,21-10-2021 01:00,19,168,44
+949,India,Madhya Pradesh,Jabalpur,"Marhatal, Jabalpur - MPPCB",CO,21-10-2021 01:00,16,108,24
+956,India,Madhya Pradesh,Katni,"Gole Bazar, Katni - MPPCB",CO,21-10-2021 01:00,24,122,41
+963,India,Madhya Pradesh,Mandideep,"Sector-D Industrial Area, Mandideep - MPPCB",CO,21-10-2021 01:00,12,82,14
+970,India,Madhya Pradesh,Pithampur,"Sector-2 Industrial Area, Pithampur - MPPCB",CO,21-10-2021 01:00,25,53,35
+980,India,Madhya Pradesh,Sagar,"Deen Dayal Nagar, Sagar - MPPCB",CO,21-10-2021 01:00,1,28,14
+984,India,Madhya Pradesh,Satna,"Bandhavgar Colony, Satna - Birla Cement",CO,21-10-2021 01:00,8,11,9
+990,India,Madhya Pradesh,Singrauli,"Suryakiran Bhawan NCL, Singrauli - MPPCB",CO,21-10-2021 01:00,28,104,64
+997,India,Madhya Pradesh,Ujjain,"Mahakaleshwar Temple, Ujjain - MPPCB",CO,21-10-2021 01:00,15,100,30
+1004,India,Maharashtra,Aurangabad,"More Chowk Waluj, Aurangabad - MPCB",CO,21-10-2021 01:00,30,101,57
+1011,India,Maharashtra,Chandrapur,"Chandrapur, Chandrapur - MPCB",CO,21-10-2021 01:00,5,64,16
+1018,India,Maharashtra,Chandrapur,"MIDC Khutala, Chandrapur - MPCB",CO,21-10-2021 01:00,24,81,39
+1024,India,Maharashtra,Kalyan,"Khadakpada, Kalyan - MPCB",CO,21-10-2021 01:00,44,46,45
+1031,India,Maharashtra,Mumbai,"Bandra Kurla Complex, Mumbai - IITM",CO,21-10-2021 01:00,1,28,4
+1036,India,Maharashtra,Mumbai,"Bandra, Mumbai - MPCB",CO,21-10-2021 01:00,2,2,2
+1042,India,Maharashtra,Mumbai,"Borivali East, Mumbai - IITM",CO,21-10-2021 01:00,15,44,26
+1048,India,Maharashtra,Mumbai,"Borivali East, Mumbai - MPCB",CO,21-10-2021 01:00,13,22,15
+1055,India,Maharashtra,Mumbai,"Chakala-Andheri East, Mumbai - IITM",CO,21-10-2021 01:00,1,43,40
+1062,India,Maharashtra,Mumbai,"Chhatrapati Shivaji Intl. Airport (T2), Mumbai - MPCB",CO,21-10-2021 01:00,91,102,96
+1067,India,Maharashtra,Mumbai,"Colaba, Mumbai - MPCB",CO,21-10-2021 01:00,33,50,45
+1074,India,Maharashtra,Mumbai,"Deonar, Mumbai - IITM",CO,21-10-2021 01:00,1,66,7
+1081,India,Maharashtra,Mumbai,"Kandivali East, Mumbai - MPCB",CO,21-10-2021 01:00,21,46,28
+1088,India,Maharashtra,Mumbai,"Khindipada-Bhandup West, Mumbai - IITM",CO,21-10-2021 01:00,63,104,99
+1095,India,Maharashtra,Mumbai,"Mazgaon, Mumbai - IITM",CO,21-10-2021 01:00,5,49,19
+1102,India,Maharashtra,Mumbai,"Mulund West, Mumbai - MPCB",CO,21-10-2021 01:00,15,38,29
+1109,India,Maharashtra,Mumbai,"Powai, Mumbai - MPCB",CO,21-10-2021 01:00,41,68,58
+1114,India,Maharashtra,Mumbai,"Siddharth Nagar-Worli, Mumbai - IITM",CO,21-10-2021 01:00,13,31,24
+1121,India,Maharashtra,Mumbai,"Sion, Mumbai - MPCB",CO,21-10-2021 01:00,26,66,47
+1127,India,Maharashtra,Mumbai,"Vasai West, Mumbai - MPCB",CO,21-10-2021 01:00,42,62,49
+1132,India,Maharashtra,Mumbai,"Vile Parle West, Mumbai - MPCB",CO,21-10-2021 01:00,31,51,42
+1138,India,Maharashtra,Mumbai,"Worli, Mumbai - MPCB",CO,21-10-2021 01:00,71,90,79
+1145,India,Maharashtra,Nashik,"Gangapur Road, Nashik - MPCB",CO,21-10-2021 01:00,13,102,28
+1152,India,Maharashtra,Navi Mumbai,"Mahape, Navi Mumbai - MPCB",CO,21-10-2021 01:00,26,60,37
+1159,India,Maharashtra,Navi Mumbai,"Nerul, Navi Mumbai - MPCB",CO,21-10-2021 01:00,26,53,43
+1165,India,Maharashtra,Navi Mumbai,"Sector-19A Nerul, Navi Mumbai - IITM",CO,21-10-2021 01:00,22,110,56
+1173,India,Maharashtra,Pune,"Hadapsar, Pune - IITM",CO,21-10-2021 01:00,16,48,32
+1179,India,Maharashtra,Pune,"Karve Road, Pune - MPCB",CO,21-10-2021 01:00,47,68,56
+1184,India,Maharashtra,Pune,"MIT-Kothrud, Pune - IITM",CO,21-10-2021 01:00,48,55,51
+1190,India,Maharashtra,Pune,"Revenue Colony-Shivajinagar, Pune - IITM",CO,21-10-2021 01:00,28,107,62
+1196,India,Maharashtra,Thane,"Pimpleshwar Mandir, Thane - MPCB",CO,21-10-2021 01:00,1,9,3
+1209,India,Mizoram,Aizawl,"Sikulpuikawn, Aizawl - Mizoram PCB",CO,21-10-2021 01:00,5,18,9
+1216,India,Nagaland,Kohima,"PWD Juction, Kohima - NPCB",CO,21-10-2021 01:00,6,26,16
+1222,India,Odisha,Brajrajnagar,"GM Office, Brajrajnagar - OSPCB",CO,21-10-2021 01:00,43,47,45
+1229,India,Odisha,Talcher,"Talcher Coalfields,Talcher - OSPCB",CO,21-10-2021 01:00,15,42,30
+1236,India,Puducherry,Puducherry,"Jawahar Nagar, Puducherry - PPCC",CO,21-10-2021 01:00,26,58,43
+1243,India,Punjab,Amritsar,"Golden Temple, Amritsar - PPCB",CO,21-10-2021 01:00,13,41,34
+1249,India,Punjab,Bathinda,"Hardev Nagar, Bathinda - PPCB",CO,21-10-2021 01:00,16,45,41
+1255,India,Punjab,Jalandhar,"Civil Line, Jalandhar - PPCB",CO,21-10-2021 01:00,2,122,25
+1262,India,Punjab,Khanna,"Kalal Majra, Khanna - PPCB",CO,21-10-2021 01:00,8,80,57
+1269,India,Punjab,Ludhiana,"Punjab Agricultural University, Ludhiana - PPCB",CO,21-10-2021 01:00,12,55,42
+1276,India,Punjab,Mandi Gobindgarh,"RIMT University, Mandi Gobindgarh - PPCB",CO,21-10-2021 01:00,36,78,64
+1283,India,Punjab,Patiala,"Model Town, Patiala - PPCB",CO,21-10-2021 01:00,24,54,43
+1288,India,Punjab,Rupnagar,"Ratanpura, Rupnagar - Ambuja Cements",CO,21-10-2021 01:00,14,35,24
+1294,India,Rajasthan,Ajmer,"Civil Lines,  Ajmer - RSPCB",CO,21-10-2021 01:00,5,105,21
+1301,India,Rajasthan,Alwar,"Moti Doongri, Alwar - RSPCB",CO,21-10-2021 01:00,4,101,41
+1308,India,Rajasthan,Bhiwadi,"RIICO Ind. Area III, Bhiwadi - RSPCB",CO,21-10-2021 01:00,20,83,33
+1315,India,Rajasthan,Jaipur,"Adarsh Nagar, Jaipur - RSPCB",CO,21-10-2021 01:00,15,140,24
+1322,India,Rajasthan,Jaipur,"Police Commissionerate, Jaipur - RSPCB",CO,21-10-2021 01:00,2,100,41
+1329,India,Rajasthan,Jaipur,"Shastri Nagar, Jaipur - RSPCB",CO,21-10-2021 01:00,13,141,33
+1335,India,Rajasthan,Jodhpur,"Collectorate, Jodhpur - RSPCB",CO,21-10-2021 01:00,11,102,44
+1342,India,Rajasthan,Kota,"Shrinath Puram, Kota - RSPCB",CO,21-10-2021 01:00,3,56,21
+1349,India,Rajasthan,Pali,"Indira Colony Vistar, Pali - RSPCB",CO,21-10-2021 01:00,28,77,42
+1356,India,Rajasthan,Udaipur,"Ashok Nagar, Udaipur - RSPCB",CO,21-10-2021 01:00,7,106,30
+1363,India,TamilNadu,Chennai,"Alandur Bus Depot, Chennai - CPCB",CO,21-10-2021 01:00,33,37,35
+1373,India,TamilNadu,Chennai,"Kodungaiyur, Chennai - TNPCB",CO,21-10-2021 01:00,16,67,28
+1380,India,TamilNadu,Chennai,"Manali, Chennai - CPCB",CO,21-10-2021 01:00,14,104,40
+1387,India,TamilNadu,Chennai,"Perungudi, Chennai - TNPCB",CO,21-10-2021 01:00,5,47,31
+1394,India,TamilNadu,Chennai,"Royapuram, Chennai - TNPCB",CO,21-10-2021 01:00,48,101,75
+1400,India,TamilNadu,Chennai,"Velachery Res. Area, Chennai - CPCB",CO,21-10-2021 01:00,22,51,38
+1410,India,TamilNadu,Thoothukudi,"Meelavittan, Thoothukudi - TNPCB",CO,21-10-2021 01:00,3,42,15
+1417,India,Telangana,Hyderabad,"Bollaram Industrial Area, Hyderabad - TSPCB",CO,21-10-2021 01:00,24,54,37
+1424,India,Telangana,Hyderabad,"Central University, Hyderabad - TSPCB",CO,21-10-2021 01:00,14,42,22
+1431,India,Telangana,Hyderabad,"ICRISAT Patancheru, Hyderabad - TSPCB",CO,21-10-2021 01:00,8,38,23
+1438,India,Telangana,Hyderabad,"IDA Pashamylaram, Hyderabad - TSPCB",CO,21-10-2021 01:00,20,56,30
+1443,India,Telangana,Hyderabad,"Sanathnagar, Hyderabad - TSPCB",CO,21-10-2021 01:00,24,71,29
+1450,India,Telangana,Hyderabad,"Zoo Park, Hyderabad - TSPCB",CO,21-10-2021 01:00,6,80,24
+1457,India,Tripura,Agartala,"Kunjaban, Agartala - Tripura SPCB",CO,21-10-2021 01:00,5,16,16
+1464,India,Uttar_Pradesh,Agra,"Manoharpur, Agra - UPPCB",CO,21-10-2021 01:00,12,85,27
+1470,India,Uttar_Pradesh,Agra,"Sanjay Palace, Agra - UPPCB",CO,21-10-2021 01:00,16,168,29
+1477,India,Uttar_Pradesh,Agra,"Sector-3B Avas Vikas Colony, Agra - UPPCB",CO,21-10-2021 01:00,18,131,29
+1484,India,Uttar_Pradesh,Agra,"Shahjahan Garden, Agra - UPPCB",CO,21-10-2021 01:00,22,115,34
+1491,India,Uttar_Pradesh,Agra,"Shastripuram, Agra - UPPCB",CO,21-10-2021 01:00,18,74,29
+1498,India,Uttar_Pradesh,Baghpat,"New Collectorate, Baghpat - UPPCB",CO,21-10-2021 01:00,14,65,22
+1505,India,Uttar_Pradesh,Bulandshahr,"Yamunapuram, Bulandshahr - UPPCB",CO,21-10-2021 01:00,19,78,47
+1512,India,Uttar_Pradesh,Firozabad,"Nagla Bhau, Firozabad - UPPCB",CO,21-10-2021 01:00,26,86,46
+1519,India,Uttar_Pradesh,Ghaziabad,"Indirapuram, Ghaziabad - UPPCB",CO,21-10-2021 01:00,39,169,49
+1526,India,Uttar_Pradesh,Ghaziabad,"Loni, Ghaziabad - UPPCB",CO,21-10-2021 01:00,44,121,64
+1533,India,Uttar_Pradesh,Ghaziabad,"Sanjay Nagar, Ghaziabad - UPPCB",CO,21-10-2021 01:00,20,138,43
+1540,India,Uttar_Pradesh,Ghaziabad,"Vasundhara, Ghaziabad - UPPCB",CO,21-10-2021 01:00,28,136,50
+1547,India,Uttar_Pradesh,Gorakhpur,"Madan Mohan Malaviya University of Technology, Gorakhpur - UPPCB",CO,21-10-2021 01:00,24,36,36
+1554,India,Uttar_Pradesh,Greater Noida,"Knowledge Park - III, Greater Noida - UPPCB",CO,21-10-2021 01:00,38,125,53
+1561,India,Uttar_Pradesh,Greater Noida,"Knowledge Park - V, Greater Noida - UPPCB",CO,21-10-2021 01:00,23,113,41
+1568,India,Uttar_Pradesh,Hapur,"Anand Vihar, Hapur - UPPCB",CO,21-10-2021 01:00,48,114,74
+1575,India,Uttar_Pradesh,Kanpur,"FTI Kidwai Nagar, Kanpur - UPPCB",CO,21-10-2021 01:00,26,57,34
+1578,India,Uttar_Pradesh,Kanpur,"IITK, Kanpur - IITK",CO,21-10-2021 01:00,18,54,28
+1585,India,Uttar_Pradesh,Kanpur,"NSI Kalyanpur, Kanpur - UPPCB",CO,21-10-2021 01:00,37,61,44
+1590,India,Uttar_Pradesh,Kanpur,"Nehru Nagar, Kanpur - UPPCB",CO,21-10-2021 01:00,1,164,136
+1597,India,Uttar_Pradesh,Lucknow,"B R Ambedkar University, Lucknow - UPPCB",CO,21-10-2021 01:00,22,38,29
+1604,India,Uttar_Pradesh,Lucknow,"Central School, Lucknow - CPCB",CO,21-10-2021 01:00,3,106,24
+1610,India,Uttar_Pradesh,Lucknow,"Gomti Nagar, Lucknow - UPPCB",CO,21-10-2021 01:00,19,112,59
+1617,India,Uttar_Pradesh,Lucknow,"Kukrail Picnic Spot-1, Lucknow - UPPCB",CO,21-10-2021 01:00,32,78,46
+1624,India,Uttar_Pradesh,Lucknow,"Lalbagh, Lucknow - CPCB",CO,21-10-2021 01:00,49,102,57
+1631,India,Uttar_Pradesh,Lucknow,"Talkatora District Industries Center, Lucknow - CPCB",CO,21-10-2021 01:00,13,134,57
+1644,India,Uttar_Pradesh,Meerut,"Jai Bhim Nagar, Meerut - UPPCB",CO,21-10-2021 01:00,28,89,53
+1651,India,Uttar_Pradesh,Meerut,"Pallavpuram Phase 2, Meerut - UPPCB",CO,21-10-2021 01:00,5,107,73
+1658,India,Uttar_Pradesh,Moradabad,"Lajpat Nagar, Moradabad - UPPCB",CO,21-10-2021 01:00,12,116,54
+1665,India,Uttar_Pradesh,Muzaffarnagar,"New Mandi, Muzaffarnagar - UPPCB",CO,21-10-2021 01:00,89,121,104
+1672,India,Uttar_Pradesh,Noida,"Sector - 125, Noida - UPPCB",CO,21-10-2021 01:00,14,21,17
+1677,India,Uttar_Pradesh,Noida,"Sector - 62, Noida - IMD",CO,21-10-2021 01:00,65,140,90
+1684,India,Uttar_Pradesh,Noida,"Sector-1, Noida - UPPCB",CO,21-10-2021 01:00,13,116,22
+1691,India,Uttar_Pradesh,Noida,"Sector-116, Noida - UPPCB",CO,21-10-2021 01:00,76,146,113
+1698,India,Uttar_Pradesh,Prayagraj,"Jhunsi, Prayagraj - UPPCB",CO,21-10-2021 01:00,15,38,16
+1705,India,Uttar_Pradesh,Prayagraj,"Motilal Nehru NIT, Prayagraj - UPPCB",CO,21-10-2021 01:00,22,56,24
+1712,India,Uttar_Pradesh,Prayagraj,"Nagar Nigam, Prayagraj - UPPCB",CO,21-10-2021 01:00,22,105,25
+1718,India,Uttar_Pradesh,Varanasi,"Ardhali Bazar, Varanasi - UPPCB",CO,21-10-2021 01:00,16,42,27
+1725,India,Uttar_Pradesh,Varanasi,"Bhelupur, Varanasi - UPPCB",CO,21-10-2021 01:00,28,55,30
+1732,India,Uttar_Pradesh,Varanasi,"IESD Banaras Hindu University, Varanasi - UPPCB",CO,21-10-2021 01:00,19,42,25
+1739,India,Uttar_Pradesh,Varanasi,"Maldahiya, Varanasi - UPPCB",CO,21-10-2021 01:00,18,46,21
+1746,India,Uttar_Pradesh,Vrindavan,"Omex Eternity, Vrindavan - UPPCB",CO,21-10-2021 01:00,18,100,39
+1753,India,West_Bengal,Asansol,"Asansol Court Area, Asansol - WBPCB",CO,21-10-2021 01:00,19,52,25
+1765,India,West_Bengal,Haldia,"Haldia, Haldia - WBPCB",CO,21-10-2021 01:00,30,54,38
+1772,India,West_Bengal,Howrah,"Belur Math, Howrah - WBPCB",CO,21-10-2021 01:00,67,111,74
+1779,India,West_Bengal,Howrah,"Ghusuri, Howrah - WBPCB",CO,21-10-2021 01:00,34,104,80
+1786,India,West_Bengal,Howrah,"Padmapukur, Howrah - WBPCB",CO,21-10-2021 01:00,16,60,27
+1793,India,West_Bengal,Kolkata,"Ballygunge, Kolkata - WBPCB",CO,21-10-2021 01:00,19,73,28
+1800,India,West_Bengal,Kolkata,"Bidhannagar, Kolkata - WBPCB",CO,21-10-2021 01:00,29,91,38
+1807,India,West_Bengal,Kolkata,"Fort William, Kolkata - WBPCB",CO,21-10-2021 01:00,NA,NA,NA
+1814,India,West_Bengal,Kolkata,"Jadavpur, Kolkata - WBPCB",CO,21-10-2021 01:00,4,47,12
+1821,India,West_Bengal,Kolkata,"Rabindra Bharati University, Kolkata - WBPCB",CO,21-10-2021 01:00,19,74,24
+1828,India,West_Bengal,Kolkata,"Rabindra Sarobar, Kolkata - WBPCB",CO,21-10-2021 01:00,31,85,39
+1835,India,West_Bengal,Kolkata,"Victoria, Kolkata - WBPCB",CO,21-10-2021 01:00,34,92,41
+4,India,Andhra_Pradesh,Amaravati,"Secretariat, Amaravati - APPCB",NH3,21-10-2021 01:00,4,5,4
+11,India,Andhra_Pradesh,Rajamahendravaram,"Anand Kala Kshetram, Rajamahendravaram - APPCB",NH3,21-10-2021 01:00,2,6,4
+18,India,Andhra_Pradesh,Tirupati,"Tirumala, Tirupati - APPCB",NH3,21-10-2021 01:00,1,3,2
+25,India,Andhra_Pradesh,Visakhapatnam,"GVM Corporation, Visakhapatnam - APPCB",NH3,21-10-2021 01:00,2,9,4
+31,India,Assam,Guwahati,"Pan Bazaar, Guwahati - APCB",NH3,21-10-2021 01:00,1,4,2
+38,India,Assam,Guwahati,"Railway Colony, Guwahati - APCB",NH3,21-10-2021 01:00,1,1,1
+50,India,Bihar,Gaya,"SFTI Kusdihra, Gaya - BSPCB",NH3,21-10-2021 01:00,1,4,2
+57,India,Bihar,Hajipur,"Industrial Area, Hajipur - BSPCB",NH3,21-10-2021 01:00,1,3,1
+64,India,Bihar,Muzaffarpur,"Buddha Colony, Muzaffarpur - BSPCB",NH3,21-10-2021 01:00,3,4,4
+76,India,Bihar,Patna,"DRM Office Danapur, Patna - BSPCB",NH3,21-10-2021 01:00,2,54,12
+83,India,Bihar,Patna,"Govt. High School Shikarpur, Patna - BSPCB",NH3,21-10-2021 01:00,2,3,2
+90,India,Bihar,Patna,"Muradpur, Patna - BSPCB",NH3,21-10-2021 01:00,4,32,6
+97,India,Bihar,Patna,"Rajbansi Nagar, Patna - BSPCB",NH3,21-10-2021 01:00,3,4,4
+104,India,Bihar,Patna,"Samanpura, Patna - BSPCB",NH3,21-10-2021 01:00,4,28,5
+111,India,Chandigarh,Chandigarh,"Sector 22, Chandigarh - CPCC",NH3,21-10-2021 01:00,4,7,5
+118,India,Chandigarh,Chandigarh,"Sector-25, Chandigarh - CPCC",NH3,21-10-2021 01:00,8,23,12
+130,India,Delhi,Delhi,"Alipur, Delhi - DPCC",NH3,21-10-2021 01:00,NA,NA,NA
+137,India,Delhi,Delhi,"Anand Vihar, Delhi - DPCC",NH3,21-10-2021 01:00,3,9,6
+144,India,Delhi,Delhi,"Ashok Vihar, Delhi - DPCC",NH3,21-10-2021 01:00,3,5,4
+156,India,Delhi,Delhi,"Bawana, Delhi - DPCC",NH3,21-10-2021 01:00,5,6,5
+168,India,Delhi,Delhi,"Chandni Chowk, Delhi - IITM",NH3,21-10-2021 01:00,7,8,8
+175,India,Delhi,Delhi,"DTU, Delhi - CPCB",NH3,21-10-2021 01:00,10,35,19
+182,India,Delhi,Delhi,"Dr. Karni Singh Shooting Range, Delhi - DPCC",NH3,21-10-2021 01:00,3,6,4
+189,India,Delhi,Delhi,"Dwarka-Sector 8, Delhi - DPCC ",NH3,21-10-2021 01:00,1,13,10
+201,India,Delhi,Delhi,"IHBAS, Dilshad Garden, Delhi - CPCB",NH3,21-10-2021 01:00,7,29,15
+207,India,Delhi,Delhi,"ITO, Delhi - CPCB",NH3,21-10-2021 01:00,7,9,8
+213,India,Delhi,Delhi,"Jahangirpuri, Delhi - DPCC",NH3,21-10-2021 01:00,NA,NA,NA
+219,India,Delhi,Delhi,"Jawaharlal Nehru Stadium, Delhi - DPCC",NH3,21-10-2021 01:00,4,6,5
+226,India,Delhi,Delhi,"Lodhi Road, Delhi - IITM",NH3,21-10-2021 01:00,10,23,15
+238,India,Delhi,Delhi,"Major Dhyan Chand National Stadium, Delhi - DPCC",NH3,21-10-2021 01:00,7,11,9
+245,India,Delhi,Delhi,"Mandir Marg, Delhi - DPCC",NH3,21-10-2021 01:00,3,3,3
+252,India,Delhi,Delhi,"Mundka, Delhi - DPCC",NH3,21-10-2021 01:00,7,13,9
+259,India,Delhi,Delhi,"NSIT Dwarka, Delhi - CPCB",NH3,21-10-2021 01:00,6,8,7
+266,India,Delhi,Delhi,"Najafgarh, Delhi - DPCC",NH3,21-10-2021 01:00,3,9,6
+273,India,Delhi,Delhi,"Narela, Delhi - DPCC",NH3,21-10-2021 01:00,7,12,10
+280,India,Delhi,Delhi,"Nehru Nagar, Delhi - DPCC",NH3,21-10-2021 01:00,6,8,7
+292,India,Delhi,Delhi,"Okhla Phase-2, Delhi - DPCC",NH3,21-10-2021 01:00,6,8,7
+299,India,Delhi,Delhi,"Patparganj, Delhi - DPCC",NH3,21-10-2021 01:00,5,8,6
+306,India,Delhi,Delhi,"Punjabi Bagh, Delhi - DPCC",NH3,21-10-2021 01:00,3,5,4
+313,India,Delhi,Delhi,"Pusa, Delhi - DPCC",NH3,21-10-2021 01:00,10,18,14
+325,India,Delhi,Delhi,"R K Puram, Delhi - DPCC",NH3,21-10-2021 01:00,2,5,3
+332,India,Delhi,Delhi,"Rohini, Delhi - DPCC",NH3,21-10-2021 01:00,7,10,9
+339,India,Delhi,Delhi,"Shadipur, Delhi - CPCB",NH3,21-10-2021 01:00,4,6,6
+346,India,Delhi,Delhi,"Sirifort, Delhi - CPCB",NH3,21-10-2021 01:00,6,8,6
+353,India,Delhi,Delhi,"Sonia Vihar, Delhi - DPCC",NH3,21-10-2021 01:00,4,8,6
+360,India,Delhi,Delhi,"Sri Aurobindo Marg, Delhi - DPCC",NH3,21-10-2021 01:00,2,4,3
+367,India,Delhi,Delhi,"Vivek Vihar, Delhi - DPCC",NH3,21-10-2021 01:00,6,10,8
+374,India,Delhi,Delhi,"Wazirpur, Delhi - DPCC",NH3,21-10-2021 01:00,6,9,8
+397,India,Gujarat,Ahmedabad,"SAC ISRO Bopal, Ahmedabad - IITM",NH3,21-10-2021 01:00,2,2,2
+404,India,Gujarat,Ahmedabad,"SAC ISRO Satellite, Ahmedabad - IITM",NH3,21-10-2021 01:00,6,6,6
+411,India,Gujarat,Ahmedabad,"SVPI Airport Hansol, Ahmedabad - IITM",NH3,21-10-2021 01:00,2,10,5
+418,India,Gujarat,Ankleshwar,"GIDC, Ankleshwar - GPCB",NH3,21-10-2021 01:00,2,25,11
+425,India,Gujarat,Gandhinagar,"GIFT City, Gandhinagar - IITM",NH3,21-10-2021 01:00,2,2,2
+432,India,Gujarat,Gandhinagar,"IIPHG Lekawada, Gandhinagar - IITM",NH3,21-10-2021 01:00,4,4,4
+439,India,Gujarat,Gandhinagar,"Sector-10, Gandhinagar - GPCB",NH3,21-10-2021 01:00,2,5,3
+450,India,Gujarat,Vapi,"Phase-1 GIDC, Vapi - GPCB",NH3,21-10-2021 01:00,2,2,2
+456,India,Gujarat,Vatva,"Phase-4 GIDC, Vatva - GPCB",NH3,21-10-2021 01:00,3,13,9
+463,India,Haryana,Ambala,"Patti Mehar, Ambala - HSPCB",NH3,21-10-2021 01:00,3,9,8
+470,India,Haryana,Bahadurgarh,"Arya Nagar, Bahadurgarh - HSPCB",NH3,21-10-2021 01:00,17,19,17
+477,India,Haryana,Ballabgarh,"Nathu Colony, Ballabgarh - HSPCB",NH3,21-10-2021 01:00,5,9,6
+484,India,Haryana,Bhiwani,"H.B. Colony, Bhiwani - HSPCB",NH3,21-10-2021 01:00,6,26,9
+491,India,Haryana,Charkhi Dadri,"Mini Secretariat, Charkhi Dadri - HSPCB",NH3,21-10-2021 01:00,2,10,5
+498,India,Haryana,Dharuhera,"Municipal Corporation Office, Dharuhera -  HSPCB",NH3,21-10-2021 01:00,6,6,6
+505,India,Haryana,Faridabad,"New Industrial Town, Faridabad - HSPCB",NH3,21-10-2021 01:00,2,5,4
+512,India,Haryana,Faridabad,"Sector 11, Faridabad - HSPCB",NH3,21-10-2021 01:00,1,1,1
+519,India,Haryana,Faridabad,"Sector 30, Faridabad - HSPCB",NH3,21-10-2021 01:00,4,4,4
+531,India,Haryana,Fatehabad,"Huda Sector, Fatehabad - HSPCB",NH3,21-10-2021 01:00,2,5,4
+543,India,Haryana,Gurugram,"Sector-51, Gurugram - HSPCB",NH3,21-10-2021 01:00,6,6,6
+550,India,Haryana,Gurugram,"Teri Gram, Gurugram - HSPCB",NH3,21-10-2021 01:00,7,11,8
+562,India,Haryana,Hisar,"Urban Estate-II, Hisar - HSPCB",NH3,21-10-2021 01:00,15,19,17
+569,India,Haryana,Jind,"Police Lines, Jind - HSPCB",NH3,21-10-2021 01:00,9,12,10
+576,India,Haryana,Kaithal,"Rishi Nagar, Kaithal - HSPCB",NH3,21-10-2021 01:00,5,11,6
+583,India,Haryana,Karnal,"Sector-12, Karnal - HSPCB",NH3,21-10-2021 01:00,7,7,7
+590,India,Haryana,Kurukshetra,"Sector-7, Kurukshetra - HSPCB",NH3,21-10-2021 01:00,4,7,6
+597,India,Haryana,Mandikhera,"General Hospital, Mandikhera - HSPCB",NH3,21-10-2021 01:00,11,14,12
+604,India,Haryana,Manesar,"Sector-2 IMT, Manesar - HSPCB",NH3,21-10-2021 01:00,1,3,2
+611,India,Haryana,Narnaul,"Shastri Nagar, Narnaul - HSPCB",NH3,21-10-2021 01:00,6,6,6
+618,India,Haryana,Palwal,"Shyam Nagar, Palwal - HSPCB",NH3,21-10-2021 01:00,6,7,6
+630,India,Haryana,Panipat,"Sector-18, Panipat - HSPCB",NH3,21-10-2021 01:00,2,2,2
+642,India,Haryana,Sirsa,"F-Block, Sirsa - HSPCB",NH3,21-10-2021 01:00,12,13,12
+649,India,Haryana,Sonipat,"Murthal, Sonipat - HSPCB",NH3,21-10-2021 01:00,8,9,8
+656,India,Haryana,Yamunanagar,"Gobind Pura, Yamuna Nagar - HSPCB",NH3,21-10-2021 01:00,6,14,13
+663,India,Jammu_&_Kashmir,Srinagar,"Rajbagh, Srinagar - JKSPCB",NH3,21-10-2021 01:00,NA,NA,NA
+672,India,Karnataka,Bagalkot,"Vidayagiri, Bagalkot - KSPCB",NH3,21-10-2021 01:00,1,2,1
+679,India,Karnataka,Bengaluru,"BWSSB Kadabesanahalli, Bengaluru - CPCB",NH3,21-10-2021 01:00,5,5,5
+686,India,Karnataka,Bengaluru,"Bapuji Nagar, Bengaluru - KSPCB",NH3,21-10-2021 01:00,10,21,15
+697,India,Karnataka,Bengaluru,"Hebbal, Bengaluru - KSPCB",NH3,21-10-2021 01:00,1,2,1
+704,India,Karnataka,Bengaluru,"Hombegowda Nagar, Bengaluru - KSPCB",NH3,21-10-2021 01:00,3,4,3
+711,India,Karnataka,Bengaluru,"Jayanagar 5th Block, Bengaluru - KSPCB",NH3,21-10-2021 01:00,2,2,2
+717,India,Karnataka,Bengaluru,"Peenya, Bengaluru - CPCB",NH3,21-10-2021 01:00,1,1,1
+728,India,Karnataka,Bengaluru,"Silk Board, Bengaluru - KSPCB",NH3,21-10-2021 01:00,2,9,4
+735,India,Karnataka,Chamarajanagar,"Urban, Chamarajanagar - KSPCB",NH3,21-10-2021 01:00,4,4,4
+742,India,Karnataka,Chikkaballapur,"Chikkaballapur Rural, Chikkaballapur - KSPCB",NH3,21-10-2021 01:00,1,1,1
+749,India,Karnataka,Chikkamagaluru,"Kalyana Nagara, Chikkamagaluru - KSPCB",NH3,21-10-2021 01:00,4,6,5
+756,India,Karnataka,Davanagere,"Devaraj Urs Badavane, Davanagere - KSPCB",NH3,21-10-2021 01:00,1,1,1
+763,India,Karnataka,Hassan,"B.Katihalli, Hassan - KSPCB",NH3,21-10-2021 01:00,1,8,4
+770,India,Karnataka,Hubballi,"Deshpande Nagar, Hubballi - KSPCB",NH3,21-10-2021 01:00,2,4,3
+776,India,Karnataka,Kalaburgi,"Lal Bahadur Shastri Nagar, Kalaburagi - KSPCB",NH3,21-10-2021 01:00,1,1,1
+782,India,Karnataka,Kolar,"Tamaka Ind. Area, Kolar - KSPCB",NH3,21-10-2021 01:00,1,4,1
+789,India,Karnataka,Koppal,"Diwator Nagar, Koppal - KSPCB",NH3,21-10-2021 01:00,5,8,6
+796,India,Karnataka,Manglore,"Kadri, Mangalore - KSPCB",NH3,21-10-2021 01:00,8,17,12
+803,India,Karnataka,Medikeri,"Stuart Hill, Madikeri - KSPCB",NH3,21-10-2021 01:00,NA,NA,NA
+810,India,Karnataka,Mysuru,"Hebbal 1st Stage, Mysuru - KSPCB",NH3,21-10-2021 01:00,1,10,4
+817,India,Karnataka,Raichur,"Haji Colony, Raichur - KSPCB",NH3,21-10-2021 01:00,2,2,2
+824,India,Karnataka,Ramanagara,"Vijay Nagar, Ramanagara - KSPCB",NH3,21-10-2021 01:00,1,2,1
+831,India,Karnataka,Shivamogga,"Vinoba Nagara, Shivamogga - KSPCB",NH3,21-10-2021 01:00,2,6,5
+837,India,Karnataka,Udupi,"Brahmagiri, Udupi - KSPCB",NH3,21-10-2021 01:00,1,2,2
+844,India,Karnataka,Vijayapura,"Ibrahimpur, Vijayapura - KSPCB",NH3,21-10-2021 01:00,1,2,1
+851,India,Karnataka,Yadgir,"Collector Office, Yadgir - KSPCB",NH3,21-10-2021 01:00,1,2,1
+858,India,Kerala,Eloor,"Udyogamandal, Eloor - Kerala PCB",NH3,21-10-2021 01:00,NA,NA,NA
+865,India,Kerala,Ernakulam,"Kacheripady, Ernakulam - Kerala PCB",NH3,21-10-2021 01:00,NA,NA,NA
+871,India,Kerala,Kannur,"Thavakkara, Kannur - Kerala PCB",NH3,21-10-2021 01:00,2,2,2
+878,India,Kerala,Kochi,"Vyttila, Kochi - Kerala PCB",NH3,21-10-2021 01:00,4,5,5
+891,India,Kerala,Kozhikode,"Palayam, Kozhikode - Kerala PCB",NH3,21-10-2021 01:00,1,1,1
+898,India,Kerala,Thiruvananthapuram,"Kariavattom, Thiruvananthapuram - Kerala PCB",NH3,21-10-2021 01:00,1,6,2
+905,India,Kerala,Thiruvananthapuram,"Plammoodu, Thiruvananthapuram - Kerala PCB",NH3,21-10-2021 01:00,3,3,3
+912,India,Madhya Pradesh,Bhopal,"T T Nagar, Bhopal - MPPCB",NH3,21-10-2021 01:00,2,3,3
+923,India,Madhya Pradesh,Dewas,"Bhopal Chauraha, Dewas - MPPCB",NH3,21-10-2021 01:00,3,6,5
+930,India,Madhya Pradesh,Gwalior,"City Center, Gwalior - MPPCB",NH3,21-10-2021 01:00,2,4,3
+940,India,Madhya Pradesh,Indore,"Chhoti Gwaltoli, Indore - MPPCB",NH3,21-10-2021 01:00,3,8,5
+947,India,Madhya Pradesh,Jabalpur,"Marhatal, Jabalpur - MPPCB",NH3,21-10-2021 01:00,1,4,3
+954,India,Madhya Pradesh,Katni,"Gole Bazar, Katni - MPPCB",NH3,21-10-2021 01:00,3,5,4
+961,India,Madhya Pradesh,Mandideep,"Sector-D Industrial Area, Mandideep - MPPCB",NH3,21-10-2021 01:00,NA,NA,NA
+968,India,Madhya Pradesh,Pithampur,"Sector-2 Industrial Area, Pithampur - MPPCB",NH3,21-10-2021 01:00,5,6,5
+988,India,Madhya Pradesh,Singrauli,"Suryakiran Bhawan NCL, Singrauli - MPPCB",NH3,21-10-2021 01:00,8,14,12
+995,India,Madhya Pradesh,Ujjain,"Mahakaleshwar Temple, Ujjain - MPPCB",NH3,21-10-2021 01:00,2,6,4
+1002,India,Maharashtra,Aurangabad,"More Chowk Waluj, Aurangabad - MPCB",NH3,21-10-2021 01:00,1,1,1
+1009,India,Maharashtra,Chandrapur,"Chandrapur, Chandrapur - MPCB",NH3,21-10-2021 01:00,1,3,2
+1016,India,Maharashtra,Chandrapur,"MIDC Khutala, Chandrapur - MPCB",NH3,21-10-2021 01:00,2,5,3
+1023,India,Maharashtra,Kalyan,"Khadakpada, Kalyan - MPCB",NH3,21-10-2021 01:00,NA,NA,NA
+1029,India,Maharashtra,Mumbai,"Bandra Kurla Complex, Mumbai - IITM",NH3,21-10-2021 01:00,1,1,1
+1041,India,Maharashtra,Mumbai,"Borivali East, Mumbai - IITM",NH3,21-10-2021 01:00,1,2,2
+1046,India,Maharashtra,Mumbai,"Borivali East, Mumbai - MPCB",NH3,21-10-2021 01:00,6,10,8
+1053,India,Maharashtra,Mumbai,"Chakala-Andheri East, Mumbai - IITM",NH3,21-10-2021 01:00,4,7,5
+1060,India,Maharashtra,Mumbai,"Chhatrapati Shivaji Intl. Airport (T2), Mumbai - MPCB",NH3,21-10-2021 01:00,6,11,8
+1066,India,Maharashtra,Mumbai,"Colaba, Mumbai - MPCB",NH3,21-10-2021 01:00,2,2,2
+1072,India,Maharashtra,Mumbai,"Deonar, Mumbai - IITM",NH3,21-10-2021 01:00,3,3,3
+1079,India,Maharashtra,Mumbai,"Kandivali East, Mumbai - MPCB",NH3,21-10-2021 01:00,1,3,2
+1086,India,Maharashtra,Mumbai,"Khindipada-Bhandup West, Mumbai - IITM",NH3,21-10-2021 01:00,2,3,2
+1093,India,Maharashtra,Mumbai,"Mazgaon, Mumbai - IITM",NH3,21-10-2021 01:00,1,2,1
+1100,India,Maharashtra,Mumbai,"Mulund West, Mumbai - MPCB",NH3,21-10-2021 01:00,17,32,28
+1107,India,Maharashtra,Mumbai,"Powai, Mumbai - MPCB",NH3,21-10-2021 01:00,1,2,1
+1119,India,Maharashtra,Mumbai,"Sion, Mumbai - MPCB",NH3,21-10-2021 01:00,2,9,5
+1125,India,Maharashtra,Mumbai,"Vasai West, Mumbai - MPCB",NH3,21-10-2021 01:00,5,6,5
+1131,India,Maharashtra,Mumbai,"Vile Parle West, Mumbai - MPCB",NH3,21-10-2021 01:00,4,8,5
+1136,India,Maharashtra,Mumbai,"Worli, Mumbai - MPCB",NH3,21-10-2021 01:00,1,109,16
+1143,India,Maharashtra,Nashik,"Gangapur Road, Nashik - MPCB",NH3,21-10-2021 01:00,1,2,2
+1150,India,Maharashtra,Navi Mumbai,"Mahape, Navi Mumbai - MPCB",NH3,21-10-2021 01:00,1,2,1
+1157,India,Maharashtra,Navi Mumbai,"Nerul, Navi Mumbai - MPCB",NH3,21-10-2021 01:00,1,2,1
+1163,India,Maharashtra,Navi Mumbai,"Sector-19A Nerul, Navi Mumbai - IITM",NH3,21-10-2021 01:00,1,1,1
+1194,India,Maharashtra,Thane,"Pimpleshwar Mandir, Thane - MPCB",NH3,21-10-2021 01:00,1,34,8
+1201,India,Meghalaya,Shillong,"Lumpyngngad, Shillong - Meghalaya PCB",NH3,21-10-2021 01:00,NA,NA,NA
+1207,India,Mizoram,Aizawl,"Sikulpuikawn, Aizawl - Mizoram PCB",NH3,21-10-2021 01:00,NA,NA,NA
+1214,India,Nagaland,Kohima,"PWD Juction, Kohima - NPCB",NH3,21-10-2021 01:00,1,1,1
+1220,India,Odisha,Brajrajnagar,"GM Office, Brajrajnagar - OSPCB",NH3,21-10-2021 01:00,2,2,2
+1227,India,Odisha,Talcher,"Talcher Coalfields,Talcher - OSPCB",NH3,21-10-2021 01:00,8,11,9
+1234,India,Puducherry,Puducherry,"Jawahar Nagar, Puducherry - PPCC",NH3,21-10-2021 01:00,2,5,3
+1241,India,Punjab,Amritsar,"Golden Temple, Amritsar - PPCB",NH3,21-10-2021 01:00,4,6,5
+1253,India,Punjab,Jalandhar,"Civil Line, Jalandhar - PPCB",NH3,21-10-2021 01:00,1,10,4
+1260,India,Punjab,Khanna,"Kalal Majra, Khanna - PPCB",NH3,21-10-2021 01:00,9,39,24
+1267,India,Punjab,Ludhiana,"Punjab Agricultural University, Ludhiana - PPCB",NH3,21-10-2021 01:00,3,6,5
+1274,India,Punjab,Mandi Gobindgarh,"RIMT University, Mandi Gobindgarh - PPCB",NH3,21-10-2021 01:00,2,2,2
+1281,India,Punjab,Patiala,"Model Town, Patiala - PPCB",NH3,21-10-2021 01:00,3,7,5
+1292,India,Rajasthan,Ajmer,"Civil Lines,  Ajmer - RSPCB",NH3,21-10-2021 01:00,2,7,4
+1299,India,Rajasthan,Alwar,"Moti Doongri, Alwar - RSPCB",NH3,21-10-2021 01:00,8,15,10
+1306,India,Rajasthan,Bhiwadi,"RIICO Ind. Area III, Bhiwadi - RSPCB",NH3,21-10-2021 01:00,5,13,8
+1313,India,Rajasthan,Jaipur,"Adarsh Nagar, Jaipur - RSPCB",NH3,21-10-2021 01:00,6,60,18
+1320,India,Rajasthan,Jaipur,"Police Commissionerate, Jaipur - RSPCB",NH3,21-10-2021 01:00,NA,NA,NA
+1327,India,Rajasthan,Jaipur,"Shastri Nagar, Jaipur - RSPCB",NH3,21-10-2021 01:00,2,67,17
+1340,India,Rajasthan,Kota,"Shrinath Puram, Kota - RSPCB",NH3,21-10-2021 01:00,8,10,9
+1347,India,Rajasthan,Pali,"Indira Colony Vistar, Pali - RSPCB",NH3,21-10-2021 01:00,4,6,5
+1354,India,Rajasthan,Udaipur,"Ashok Nagar, Udaipur - RSPCB",NH3,21-10-2021 01:00,12,24,15
+1361,India,TamilNadu,Chennai,"Alandur Bus Depot, Chennai - CPCB",NH3,21-10-2021 01:00,5,5,5
+1371,India,TamilNadu,Chennai,"Kodungaiyur, Chennai - TNPCB",NH3,21-10-2021 01:00,2,5,3
+1378,India,TamilNadu,Chennai,"Manali, Chennai - CPCB",NH3,21-10-2021 01:00,13,16,13
+1385,India,TamilNadu,Chennai,"Perungudi, Chennai - TNPCB",NH3,21-10-2021 01:00,3,13,7
+1392,India,TamilNadu,Chennai,"Royapuram, Chennai - TNPCB",NH3,21-10-2021 01:00,NA,NA,NA
+1398,India,TamilNadu,Chennai,"Velachery Res. Area, Chennai - CPCB",NH3,21-10-2021 01:00,3,5,4
+1405,India,TamilNadu,Gummidipoondi,"Anthoni Pillai Nagar, Gummidipoondi - TNPCB",NH3,21-10-2021 01:00,2,3,3
+1415,India,Telangana,Hyderabad,"Bollaram Industrial Area, Hyderabad - TSPCB",NH3,21-10-2021 01:00,NA,NA,NA
+1422,India,Telangana,Hyderabad,"Central University, Hyderabad - TSPCB",NH3,21-10-2021 01:00,2,4,2
+1429,India,Telangana,Hyderabad,"ICRISAT Patancheru, Hyderabad - TSPCB",NH3,21-10-2021 01:00,1,3,2
+1436,India,Telangana,Hyderabad,"IDA Pashamylaram, Hyderabad - TSPCB",NH3,21-10-2021 01:00,1,2,1
+1448,India,Telangana,Hyderabad,"Zoo Park, Hyderabad - TSPCB",NH3,21-10-2021 01:00,1,3,1
+1455,India,Tripura,Agartala,"Kunjaban, Agartala - Tripura SPCB",NH3,21-10-2021 01:00,NA,NA,NA
+1462,India,Uttar_Pradesh,Agra,"Manoharpur, Agra - UPPCB",NH3,21-10-2021 01:00,6,7,7
+1475,India,Uttar_Pradesh,Agra,"Sector-3B Avas Vikas Colony, Agra - UPPCB",NH3,21-10-2021 01:00,6,19,10
+1482,India,Uttar_Pradesh,Agra,"Shahjahan Garden, Agra - UPPCB",NH3,21-10-2021 01:00,5,9,7
+1489,India,Uttar_Pradesh,Agra,"Shastripuram, Agra - UPPCB",NH3,21-10-2021 01:00,15,26,21
+1496,India,Uttar_Pradesh,Baghpat,"New Collectorate, Baghpat - UPPCB",NH3,21-10-2021 01:00,6,9,7
+1503,India,Uttar_Pradesh,Bulandshahr,"Yamunapuram, Bulandshahr - UPPCB",NH3,21-10-2021 01:00,3,8,5
+1510,India,Uttar_Pradesh,Firozabad,"Nagla Bhau, Firozabad - UPPCB",NH3,21-10-2021 01:00,10,48,22
+1517,India,Uttar_Pradesh,Ghaziabad,"Indirapuram, Ghaziabad - UPPCB",NH3,21-10-2021 01:00,1,3,2
+1524,India,Uttar_Pradesh,Ghaziabad,"Loni, Ghaziabad - UPPCB",NH3,21-10-2021 01:00,7,14,10
+1531,India,Uttar_Pradesh,Ghaziabad,"Sanjay Nagar, Ghaziabad - UPPCB",NH3,21-10-2021 01:00,4,8,6
+1538,India,Uttar_Pradesh,Ghaziabad,"Vasundhara, Ghaziabad - UPPCB",NH3,21-10-2021 01:00,4,7,5
+1545,India,Uttar_Pradesh,Gorakhpur,"Madan Mohan Malaviya University of Technology, Gorakhpur - UPPCB",NH3,21-10-2021 01:00,1,10,5
+1552,India,Uttar_Pradesh,Greater Noida,"Knowledge Park - III, Greater Noida - UPPCB",NH3,21-10-2021 01:00,2,4,3
+1559,India,Uttar_Pradesh,Greater Noida,"Knowledge Park - V, Greater Noida - UPPCB",NH3,21-10-2021 01:00,5,7,6
+1566,India,Uttar_Pradesh,Hapur,"Anand Vihar, Hapur - UPPCB",NH3,21-10-2021 01:00,1,6,2
+1573,India,Uttar_Pradesh,Kanpur,"FTI Kidwai Nagar, Kanpur - UPPCB",NH3,21-10-2021 01:00,2,6,3
+1583,India,Uttar_Pradesh,Kanpur,"NSI Kalyanpur, Kanpur - UPPCB",NH3,21-10-2021 01:00,2,3,2
+1595,India,Uttar_Pradesh,Lucknow,"B R Ambedkar University, Lucknow - UPPCB",NH3,21-10-2021 01:00,5,8,6
+1602,India,Uttar_Pradesh,Lucknow,"Central School, Lucknow - CPCB",NH3,21-10-2021 01:00,8,28,16
+1615,India,Uttar_Pradesh,Lucknow,"Kukrail Picnic Spot-1, Lucknow - UPPCB",NH3,21-10-2021 01:00,5,9,8
+1622,India,Uttar_Pradesh,Lucknow,"Lalbagh, Lucknow - CPCB",NH3,21-10-2021 01:00,13,13,13
+1629,India,Uttar_Pradesh,Lucknow,"Talkatora District Industries Center, Lucknow - CPCB",NH3,21-10-2021 01:00,3,14,7
+1636,India,Uttar_Pradesh,Meerut,"Ganga Nagar, Meerut - UPPCB",NH3,21-10-2021 01:00,7,10,8
+1642,India,Uttar_Pradesh,Meerut,"Jai Bhim Nagar, Meerut - UPPCB",NH3,21-10-2021 01:00,1,4,2
+1649,India,Uttar_Pradesh,Meerut,"Pallavpuram Phase 2, Meerut - UPPCB",NH3,21-10-2021 01:00,17,42,25
+1656,India,Uttar_Pradesh,Moradabad,"Lajpat Nagar, Moradabad - UPPCB",NH3,21-10-2021 01:00,2,3,3
+1663,India,Uttar_Pradesh,Muzaffarnagar,"New Mandi, Muzaffarnagar - UPPCB",NH3,21-10-2021 01:00,2,3,2
+1670,India,Uttar_Pradesh,Noida,"Sector - 125, Noida - UPPCB",NH3,21-10-2021 01:00,1,2,1
+1682,India,Uttar_Pradesh,Noida,"Sector-1, Noida - UPPCB",NH3,21-10-2021 01:00,6,9,7
+1689,India,Uttar_Pradesh,Noida,"Sector-116, Noida - UPPCB",NH3,21-10-2021 01:00,3,6,4
+1696,India,Uttar_Pradesh,Prayagraj,"Jhunsi, Prayagraj - UPPCB",NH3,21-10-2021 01:00,3,5,4
+1703,India,Uttar_Pradesh,Prayagraj,"Motilal Nehru NIT, Prayagraj - UPPCB",NH3,21-10-2021 01:00,1,1,1
+1710,India,Uttar_Pradesh,Prayagraj,"Nagar Nigam, Prayagraj - UPPCB",NH3,21-10-2021 01:00,1,3,2
+1723,India,Uttar_Pradesh,Varanasi,"Bhelupur, Varanasi - UPPCB",NH3,21-10-2021 01:00,2,4,2
+1730,India,Uttar_Pradesh,Varanasi,"IESD Banaras Hindu University, Varanasi - UPPCB",NH3,21-10-2021 01:00,1,2,1
+1737,India,Uttar_Pradesh,Varanasi,"Maldahiya, Varanasi - UPPCB",NH3,21-10-2021 01:00,5,9,7
+1744,India,Uttar_Pradesh,Vrindavan,"Omex Eternity, Vrindavan - UPPCB",NH3,21-10-2021 01:00,3,31,23
+1751,India,West_Bengal,Asansol,"Asansol Court Area, Asansol - WBPCB",NH3,21-10-2021 01:00,NA,NA,NA
+1758,India,West_Bengal,Durgapur,"Sidhu Kanhu Indoor Stadium, Durgapur - WBPCB",NH3,21-10-2021 01:00,1,6,2
+1763,India,West_Bengal,Haldia,"Haldia, Haldia - WBPCB",NH3,21-10-2021 01:00,4,4,4
+1770,India,West_Bengal,Howrah,"Belur Math, Howrah - WBPCB",NH3,21-10-2021 01:00,2,5,4
+1777,India,West_Bengal,Howrah,"Ghusuri, Howrah - WBPCB",NH3,21-10-2021 01:00,2,14,4
+1784,India,West_Bengal,Howrah,"Padmapukur, Howrah - WBPCB",NH3,21-10-2021 01:00,2,3,3
+1791,India,West_Bengal,Kolkata,"Ballygunge, Kolkata - WBPCB",NH3,21-10-2021 01:00,1,6,3
+1798,India,West_Bengal,Kolkata,"Bidhannagar, Kolkata - WBPCB",NH3,21-10-2021 01:00,1,3,2
+1805,India,West_Bengal,Kolkata,"Fort William, Kolkata - WBPCB",NH3,21-10-2021 01:00,NA,NA,NA
+1812,India,West_Bengal,Kolkata,"Jadavpur, Kolkata - WBPCB",NH3,21-10-2021 01:00,1,5,2
+1819,India,West_Bengal,Kolkata,"Rabindra Bharati University, Kolkata - WBPCB",NH3,21-10-2021 01:00,NA,NA,NA
+1826,India,West_Bengal,Kolkata,"Rabindra Sarobar, Kolkata - WBPCB",NH3,21-10-2021 01:00,6,7,7
+1833,India,West_Bengal,Kolkata,"Victoria, Kolkata - WBPCB",NH3,21-10-2021 01:00,1,3,2
+3,India,Andhra_Pradesh,Amaravati,"Secretariat, Amaravati - APPCB",NO2,21-10-2021 01:00,10,42,19
+10,India,Andhra_Pradesh,Rajamahendravaram,"Anand Kala Kshetram, Rajamahendravaram - APPCB",NO2,21-10-2021 01:00,11,44,23
+17,India,Andhra_Pradesh,Tirupati,"Tirumala, Tirupati - APPCB",NO2,21-10-2021 01:00,14,88,49
+24,India,Andhra_Pradesh,Visakhapatnam,"GVM Corporation, Visakhapatnam - APPCB",NO2,21-10-2021 01:00,13,187,91
+30,India,Assam,Guwahati,"Pan Bazaar, Guwahati - APCB",NO2,21-10-2021 01:00,1,13,5
+37,India,Assam,Guwahati,"Railway Colony, Guwahati - APCB",NO2,21-10-2021 01:00,5,5,5
+43,India,Bihar,Gaya,"Collectorate, Gaya - BSPCB",NO2,21-10-2021 01:00,5,7,6
+49,India,Bihar,Gaya,"SFTI Kusdihra, Gaya - BSPCB",NO2,21-10-2021 01:00,15,42,24
+56,India,Bihar,Hajipur,"Industrial Area, Hajipur - BSPCB",NO2,21-10-2021 01:00,9,11,10
+63,India,Bihar,Muzaffarpur,"Buddha Colony, Muzaffarpur - BSPCB",NO2,21-10-2021 01:00,10,18,13
+69,India,Bihar,Muzaffarpur,"Muzaffarpur Collectorate, Muzaffarpur - BSPCB",NO2,21-10-2021 01:00,2,15,4
+75,India,Bihar,Patna,"DRM Office Danapur, Patna - BSPCB",NO2,21-10-2021 01:00,1,295,64
+82,India,Bihar,Patna,"Govt. High School Shikarpur, Patna - BSPCB",NO2,21-10-2021 01:00,10,38,25
+89,India,Bihar,Patna,"Muradpur, Patna - BSPCB",NO2,21-10-2021 01:00,12,69,26
+96,India,Bihar,Patna,"Rajbansi Nagar, Patna - BSPCB",NO2,21-10-2021 01:00,14,61,32
+103,India,Bihar,Patna,"Samanpura, Patna - BSPCB",NO2,21-10-2021 01:00,4,16,13
+110,India,Chandigarh,Chandigarh,"Sector 22, Chandigarh - CPCC",NO2,21-10-2021 01:00,26,134,58
+117,India,Chandigarh,Chandigarh,"Sector-25, Chandigarh - CPCC",NO2,21-10-2021 01:00,6,86,26
+124,India,Chhattisgarh,Bilaspur,"Mangala, Bilaspur - NTPC",NO2,21-10-2021 01:00,15,20,17
+129,India,Delhi,Delhi,"Alipur, Delhi - DPCC",NO2,21-10-2021 01:00,8,109,48
+136,India,Delhi,Delhi,"Anand Vihar, Delhi - DPCC",NO2,21-10-2021 01:00,75,171,128
+143,India,Delhi,Delhi,"Ashok Vihar, Delhi - DPCC",NO2,21-10-2021 01:00,10,51,30
+150,India,Delhi,Delhi,"Aya Nagar, Delhi - IMD",NO2,21-10-2021 01:00,16,45,28
+155,India,Delhi,Delhi,"Bawana, Delhi - DPCC",NO2,21-10-2021 01:00,3,71,23
+162,India,Delhi,Delhi,"CRRI Mathura Road, Delhi - IMD",NO2,21-10-2021 01:00,21,33,26
+167,India,Delhi,Delhi,"Chandni Chowk, Delhi - IITM",NO2,21-10-2021 01:00,4,84,15
+174,India,Delhi,Delhi,"DTU, Delhi - CPCB",NO2,21-10-2021 01:00,28,138,73
+181,India,Delhi,Delhi,"Dr. Karni Singh Shooting Range, Delhi - DPCC",NO2,21-10-2021 01:00,74,141,106
+188,India,Delhi,Delhi,"Dwarka-Sector 8, Delhi - DPCC ",NO2,21-10-2021 01:00,11,69,36
+195,India,Delhi,Delhi,"IGI Airport (T3), Delhi - IMD",NO2,21-10-2021 01:00,49,110,77
+200,India,Delhi,Delhi,"IHBAS, Dilshad Garden, Delhi - CPCB",NO2,21-10-2021 01:00,65,125,99
+206,India,Delhi,Delhi,"ITO, Delhi - CPCB",NO2,21-10-2021 01:00,22,64,35
+218,India,Delhi,Delhi,"Jawaharlal Nehru Stadium, Delhi - DPCC",NO2,21-10-2021 01:00,31,120,72
+225,India,Delhi,Delhi,"Lodhi Road, Delhi - IITM",NO2,21-10-2021 01:00,30,107,68
+232,India,Delhi,Delhi,"Lodhi Road, Delhi - IMD",NO2,21-10-2021 01:00,10,28,17
+237,India,Delhi,Delhi,"Major Dhyan Chand National Stadium, Delhi - DPCC",NO2,21-10-2021 01:00,18,72,43
+244,India,Delhi,Delhi,"Mandir Marg, Delhi - DPCC",NO2,21-10-2021 01:00,60,82,71
+251,India,Delhi,Delhi,"Mundka, Delhi - DPCC",NO2,21-10-2021 01:00,26,155,79
+258,India,Delhi,Delhi,"NSIT Dwarka, Delhi - CPCB",NO2,21-10-2021 01:00,21,81,42
+265,India,Delhi,Delhi,"Najafgarh, Delhi - DPCC",NO2,21-10-2021 01:00,8,39,21
+272,India,Delhi,Delhi,"Narela, Delhi - DPCC",NO2,21-10-2021 01:00,24,108,67
+279,India,Delhi,Delhi,"Nehru Nagar, Delhi - DPCC",NO2,21-10-2021 01:00,38,166,88
+286,India,Delhi,Delhi,"North Campus, DU, Delhi - IMD",NO2,21-10-2021 01:00,6,7,6
+291,India,Delhi,Delhi,"Okhla Phase-2, Delhi - DPCC",NO2,21-10-2021 01:00,62,143,90
+298,India,Delhi,Delhi,"Patparganj, Delhi - DPCC",NO2,21-10-2021 01:00,20,127,73
+305,India,Delhi,Delhi,"Punjabi Bagh, Delhi - DPCC",NO2,21-10-2021 01:00,36,114,64
+312,India,Delhi,Delhi,"Pusa, Delhi - DPCC",NO2,21-10-2021 01:00,9,135,37
+319,India,Delhi,Delhi,"Pusa, Delhi - IMD",NO2,21-10-2021 01:00,27,166,79
+324,India,Delhi,Delhi,"R K Puram, Delhi - DPCC",NO2,21-10-2021 01:00,23,114,66
+331,India,Delhi,Delhi,"Rohini, Delhi - DPCC",NO2,21-10-2021 01:00,6,71,34
+338,India,Delhi,Delhi,"Shadipur, Delhi - CPCB",NO2,21-10-2021 01:00,34,102,54
+345,India,Delhi,Delhi,"Sirifort, Delhi - CPCB",NO2,21-10-2021 01:00,1,10,5
+352,India,Delhi,Delhi,"Sonia Vihar, Delhi - DPCC",NO2,21-10-2021 01:00,12,116,67
+359,India,Delhi,Delhi,"Sri Aurobindo Marg, Delhi - DPCC",NO2,21-10-2021 01:00,14,57,33
+366,India,Delhi,Delhi,"Vivek Vihar, Delhi - DPCC",NO2,21-10-2021 01:00,22,47,34
+373,India,Delhi,Delhi,"Wazirpur, Delhi - DPCC",NO2,21-10-2021 01:00,24,68,41
+380,India,Gujarat,Ahmedabad,"Gyaspur, Ahmedabad - IITM",NO2,21-10-2021 01:00,NA,NA,NA
+386,India,Gujarat,Ahmedabad,"Maninagar, Ahmedabad - GPCB",NO2,21-10-2021 01:00,20,259,78
+396,India,Gujarat,Ahmedabad,"SAC ISRO Bopal, Ahmedabad - IITM",NO2,21-10-2021 01:00,4,6,5
+403,India,Gujarat,Ahmedabad,"SAC ISRO Satellite, Ahmedabad - IITM",NO2,21-10-2021 01:00,11,12,12
+410,India,Gujarat,Ahmedabad,"SVPI Airport Hansol, Ahmedabad - IITM",NO2,21-10-2021 01:00,6,73,33
+417,India,Gujarat,Ankleshwar,"GIDC, Ankleshwar - GPCB",NO2,21-10-2021 01:00,4,8,5
+424,India,Gujarat,Gandhinagar,"GIFT City, Gandhinagar - IITM",NO2,21-10-2021 01:00,9,10,9
+431,India,Gujarat,Gandhinagar,"IIPHG Lekawada, Gandhinagar - IITM",NO2,21-10-2021 01:00,11,12,12
+438,India,Gujarat,Gandhinagar,"Sector-10, Gandhinagar - GPCB",NO2,21-10-2021 01:00,9,30,16
+445,India,Gujarat,Nandesari,"GIDC, Nandesari - Nandesari Ind. Association",NO2,21-10-2021 01:00,2,2,2
+455,India,Gujarat,Vatva,"Phase-4 GIDC, Vatva - GPCB",NO2,21-10-2021 01:00,74,404,195
+462,India,Haryana,Ambala,"Patti Mehar, Ambala - HSPCB",NO2,21-10-2021 01:00,1,14,7
+469,India,Haryana,Bahadurgarh,"Arya Nagar, Bahadurgarh - HSPCB",NO2,21-10-2021 01:00,29,33,31
+476,India,Haryana,Ballabgarh,"Nathu Colony, Ballabgarh - HSPCB",NO2,21-10-2021 01:00,32,81,47
+483,India,Haryana,Bhiwani,"H.B. Colony, Bhiwani - HSPCB",NO2,21-10-2021 01:00,21,76,38
+490,India,Haryana,Charkhi Dadri,"Mini Secretariat, Charkhi Dadri - HSPCB",NO2,21-10-2021 01:00,13,33,21
+497,India,Haryana,Dharuhera,"Municipal Corporation Office, Dharuhera -  HSPCB",NO2,21-10-2021 01:00,34,36,35
+504,India,Haryana,Faridabad,"New Industrial Town, Faridabad - HSPCB",NO2,21-10-2021 01:00,4,64,17
+511,India,Haryana,Faridabad,"Sector 11, Faridabad - HSPCB",NO2,21-10-2021 01:00,1,4,3
+518,India,Haryana,Faridabad,"Sector 30, Faridabad - HSPCB",NO2,21-10-2021 01:00,7,8,8
+524,India,Haryana,Faridabad,"Sector- 16A, Faridabad - HSPCB",NO2,21-10-2021 01:00,60,182,114
+530,India,Haryana,Fatehabad,"Huda Sector, Fatehabad - HSPCB",NO2,21-10-2021 01:00,11,82,35
+537,India,Haryana,Gurugram,"NISE Gwal Pahari, Gurugram - IMD",NO2,21-10-2021 01:00,14,43,27
+542,India,Haryana,Gurugram,"Sector-51, Gurugram - HSPCB",NO2,21-10-2021 01:00,6,6,6
+549,India,Haryana,Gurugram,"Teri Gram, Gurugram - HSPCB",NO2,21-10-2021 01:00,10,11,10
+555,India,Haryana,Gurugram,"Vikas Sadan, Gurugram - HSPCB",NO2,21-10-2021 01:00,NA,NA,NA
+561,India,Haryana,Hisar,"Urban Estate-II, Hisar - HSPCB",NO2,21-10-2021 01:00,59,72,67
+568,India,Haryana,Jind,"Police Lines, Jind - HSPCB",NO2,21-10-2021 01:00,22,41,29
+575,India,Haryana,Kaithal,"Rishi Nagar, Kaithal - HSPCB",NO2,21-10-2021 01:00,19,111,44
+582,India,Haryana,Karnal,"Sector-12, Karnal - HSPCB",NO2,21-10-2021 01:00,31,32,31
+589,India,Haryana,Kurukshetra,"Sector-7, Kurukshetra - HSPCB",NO2,21-10-2021 01:00,28,77,45
+596,India,Haryana,Mandikhera,"General Hospital, Mandikhera - HSPCB",NO2,21-10-2021 01:00,16,22,19
+603,India,Haryana,Manesar,"Sector-2 IMT, Manesar - HSPCB",NO2,21-10-2021 01:00,2,12,6
+610,India,Haryana,Narnaul,"Shastri Nagar, Narnaul - HSPCB",NO2,21-10-2021 01:00,40,44,42
+617,India,Haryana,Palwal,"Shyam Nagar, Palwal - HSPCB",NO2,21-10-2021 01:00,18,20,19
+623,India,Haryana,Panchkula,"Sector-6, Panchkula - HSPCB ",NO2,21-10-2021 01:00,20,21,20
+629,India,Haryana,Panipat,"Sector-18, Panipat - HSPCB",NO2,21-10-2021 01:00,11,16,12
+635,India,Haryana,Rohtak,"MD University, Rohtak - HSPCB",NO2,21-10-2021 01:00,34,83,43
+641,India,Haryana,Sirsa,"F-Block, Sirsa - HSPCB",NO2,21-10-2021 01:00,36,40,38
+648,India,Haryana,Sonipat,"Murthal, Sonipat - HSPCB",NO2,21-10-2021 01:00,16,19,17
+655,India,Haryana,Yamunanagar,"Gobind Pura, Yamuna Nagar - HSPCB",NO2,21-10-2021 01:00,11,34,23
+662,India,Jammu_&_Kashmir,Srinagar,"Rajbagh, Srinagar - JKSPCB",NO2,21-10-2021 01:00,NA,NA,NA
+671,India,Karnataka,Bagalkot,"Vidayagiri, Bagalkot - KSPCB",NO2,21-10-2021 01:00,10,11,10
+678,India,Karnataka,Bengaluru,"BWSSB Kadabesanahalli, Bengaluru - CPCB",NO2,21-10-2021 01:00,44,46,45
+685,India,Karnataka,Bengaluru,"Bapuji Nagar, Bengaluru - KSPCB",NO2,21-10-2021 01:00,13,44,26
+691,India,Karnataka,Bengaluru,"City Railway Station, Bengaluru - KSPCB",NO2,21-10-2021 01:00,23,24,24
+696,India,Karnataka,Bengaluru,"Hebbal, Bengaluru - KSPCB",NO2,21-10-2021 01:00,16,58,33
+703,India,Karnataka,Bengaluru,"Hombegowda Nagar, Bengaluru - KSPCB",NO2,21-10-2021 01:00,14,50,27
+710,India,Karnataka,Bengaluru,"Jayanagar 5th Block, Bengaluru - KSPCB",NO2,21-10-2021 01:00,2,79,18
+716,India,Karnataka,Bengaluru,"Peenya, Bengaluru - CPCB",NO2,21-10-2021 01:00,50,78,58
+722,India,Karnataka,Bengaluru,"Sanegurava Halli, Bengaluru - KSPCB",NO2,21-10-2021 01:00,22,23,23
+727,India,Karnataka,Bengaluru,"Silk Board, Bengaluru - KSPCB",NO2,21-10-2021 01:00,20,66,52
+734,India,Karnataka,Chamarajanagar,"Urban, Chamarajanagar - KSPCB",NO2,21-10-2021 01:00,28,31,29
+741,India,Karnataka,Chikkaballapur,"Chikkaballapur Rural, Chikkaballapur - KSPCB",NO2,21-10-2021 01:00,25,38,30
+748,India,Karnataka,Chikkamagaluru,"Kalyana Nagara, Chikkamagaluru - KSPCB",NO2,21-10-2021 01:00,21,28,24
+755,India,Karnataka,Davanagere,"Devaraj Urs Badavane, Davanagere - KSPCB",NO2,21-10-2021 01:00,21,44,32
+762,India,Karnataka,Hassan,"B.Katihalli, Hassan - KSPCB",NO2,21-10-2021 01:00,8,84,34
+769,India,Karnataka,Hubballi,"Deshpande Nagar, Hubballi - KSPCB",NO2,21-10-2021 01:00,6,68,28
+775,India,Karnataka,Kalaburgi,"Lal Bahadur Shastri Nagar, Kalaburagi - KSPCB",NO2,21-10-2021 01:00,4,97,45
+781,India,Karnataka,Kolar,"Tamaka Ind. Area, Kolar - KSPCB",NO2,21-10-2021 01:00,5,50,25
+788,India,Karnataka,Koppal,"Diwator Nagar, Koppal - KSPCB",NO2,21-10-2021 01:00,5,22,10
+795,India,Karnataka,Manglore,"Kadri, Mangalore - KSPCB",NO2,21-10-2021 01:00,10,34,21
+802,India,Karnataka,Medikeri,"Stuart Hill, Madikeri - KSPCB",NO2,21-10-2021 01:00,2,6,4
+809,India,Karnataka,Mysuru,"Hebbal 1st Stage, Mysuru - KSPCB",NO2,21-10-2021 01:00,8,60,23
+816,India,Karnataka,Raichur,"Haji Colony, Raichur - KSPCB",NO2,21-10-2021 01:00,14,45,26
+823,India,Karnataka,Ramanagara,"Vijay Nagar, Ramanagara - KSPCB",NO2,21-10-2021 01:00,15,55,42
+830,India,Karnataka,Shivamogga,"Vinoba Nagara, Shivamogga - KSPCB",NO2,21-10-2021 01:00,9,23,16
+836,India,Karnataka,Udupi,"Brahmagiri, Udupi - KSPCB",NO2,21-10-2021 01:00,8,57,21
+843,India,Karnataka,Vijayapura,"Ibrahimpur, Vijayapura - KSPCB",NO2,21-10-2021 01:00,13,14,14
+850,India,Karnataka,Yadgir,"Collector Office, Yadgir - KSPCB",NO2,21-10-2021 01:00,7,20,10
+857,India,Kerala,Eloor,"Udyogamandal, Eloor - Kerala PCB",NO2,21-10-2021 01:00,NA,NA,NA
+864,India,Kerala,Ernakulam,"Kacheripady, Ernakulam - Kerala PCB",NO2,21-10-2021 01:00,NA,NA,NA
+870,India,Kerala,Kannur,"Thavakkara, Kannur - Kerala PCB",NO2,21-10-2021 01:00,16,29,22
+877,India,Kerala,Kochi,"Vyttila, Kochi - Kerala PCB",NO2,21-10-2021 01:00,45,54,50
+884,India,Kerala,Kollam,"Polayathode, Kollam - Kerala PCB",NO2,21-10-2021 01:00,18,101,48
+890,India,Kerala,Kozhikode,"Palayam, Kozhikode - Kerala PCB",NO2,21-10-2021 01:00,6,36,19
+897,India,Kerala,Thiruvananthapuram,"Kariavattom, Thiruvananthapuram - Kerala PCB",NO2,21-10-2021 01:00,11,32,21
+904,India,Kerala,Thiruvananthapuram,"Plammoodu, Thiruvananthapuram - Kerala PCB",NO2,21-10-2021 01:00,10,56,14
+911,India,Madhya Pradesh,Bhopal,"T T Nagar, Bhopal - MPPCB",NO2,21-10-2021 01:00,22,106,47
+918,India,Madhya Pradesh,Damoh,"Shrivastav Colony, Damoh - MPPCB",NO2,21-10-2021 01:00,17,19,18
+922,India,Madhya Pradesh,Dewas,"Bhopal Chauraha, Dewas - MPPCB",NO2,21-10-2021 01:00,14,87,40
+929,India,Madhya Pradesh,Gwalior,"City Center, Gwalior - MPPCB",NO2,21-10-2021 01:00,16,108,31
+939,India,Madhya Pradesh,Indore,"Chhoti Gwaltoli, Indore - MPPCB",NO2,21-10-2021 01:00,39,176,96
+946,India,Madhya Pradesh,Jabalpur,"Marhatal, Jabalpur - MPPCB",NO2,21-10-2021 01:00,24,113,53
+953,India,Madhya Pradesh,Katni,"Gole Bazar, Katni - MPPCB",NO2,21-10-2021 01:00,23,81,45
+960,India,Madhya Pradesh,Mandideep,"Sector-D Industrial Area, Mandideep - MPPCB",NO2,21-10-2021 01:00,NA,NA,NA
+967,India,Madhya Pradesh,Pithampur,"Sector-2 Industrial Area, Pithampur - MPPCB",NO2,21-10-2021 01:00,11,38,20
+974,India,Madhya Pradesh,Ratlam,"Shasthri Nagar, Ratlam - IPCA Lab",NO2,21-10-2021 01:00,11,38,21
+978,India,Madhya Pradesh,Sagar,"Deen Dayal Nagar, Sagar - MPPCB",NO2,21-10-2021 01:00,20,21,20
+987,India,Madhya Pradesh,Singrauli,"Suryakiran Bhawan NCL, Singrauli - MPPCB",NO2,21-10-2021 01:00,27,40,33
+994,India,Madhya Pradesh,Ujjain,"Mahakaleshwar Temple, Ujjain - MPPCB",NO2,21-10-2021 01:00,8,93,29
+1001,India,Maharashtra,Aurangabad,"More Chowk Waluj, Aurangabad - MPCB",NO2,21-10-2021 01:00,7,16,10
+1008,India,Maharashtra,Chandrapur,"Chandrapur, Chandrapur - MPCB",NO2,21-10-2021 01:00,19,50,29
+1015,India,Maharashtra,Chandrapur,"MIDC Khutala, Chandrapur - MPCB",NO2,21-10-2021 01:00,10,32,17
+1022,India,Maharashtra,Kalyan,"Khadakpada, Kalyan - MPCB",NO2,21-10-2021 01:00,NA,NA,NA
+1028,India,Maharashtra,Mumbai,"Bandra Kurla Complex, Mumbai - IITM",NO2,21-10-2021 01:00,6,11,8
+1040,India,Maharashtra,Mumbai,"Borivali East, Mumbai - IITM",NO2,21-10-2021 01:00,4,25,12
+1045,India,Maharashtra,Mumbai,"Borivali East, Mumbai - MPCB",NO2,21-10-2021 01:00,NA,NA,NA
+1052,India,Maharashtra,Mumbai,"Chakala-Andheri East, Mumbai - IITM",NO2,21-10-2021 01:00,25,42,34
+1059,India,Maharashtra,Mumbai,"Chhatrapati Shivaji Intl. Airport (T2), Mumbai - MPCB",NO2,21-10-2021 01:00,10,36,24
+1065,India,Maharashtra,Mumbai,"Colaba, Mumbai - MPCB",NO2,21-10-2021 01:00,7,15,10
+1071,India,Maharashtra,Mumbai,"Deonar, Mumbai - IITM",NO2,21-10-2021 01:00,14,30,22
+1078,India,Maharashtra,Mumbai,"Kandivali East, Mumbai - MPCB",NO2,21-10-2021 01:00,15,58,34
+1085,India,Maharashtra,Mumbai,"Khindipada-Bhandup West, Mumbai - IITM",NO2,21-10-2021 01:00,1,19,10
+1092,India,Maharashtra,Mumbai,"Mazgaon, Mumbai - IITM",NO2,21-10-2021 01:00,2,37,9
+1099,India,Maharashtra,Mumbai,"Mulund West, Mumbai - MPCB",NO2,21-10-2021 01:00,21,36,30
+1106,India,Maharashtra,Mumbai,"Powai, Mumbai - MPCB",NO2,21-10-2021 01:00,7,36,18
+1113,India,Maharashtra,Mumbai,"Siddharth Nagar-Worli, Mumbai - IITM",NO2,21-10-2021 01:00,16,17,16
+1118,India,Maharashtra,Mumbai,"Sion, Mumbai - MPCB",NO2,21-10-2021 01:00,10,40,29
+1124,India,Maharashtra,Mumbai,"Vasai West, Mumbai - MPCB",NO2,21-10-2021 01:00,9,39,22
+1130,India,Maharashtra,Mumbai,"Vile Parle West, Mumbai - MPCB",NO2,21-10-2021 01:00,10,34,19
+1135,India,Maharashtra,Mumbai,"Worli, Mumbai - MPCB",NO2,21-10-2021 01:00,4,64,26
+1142,India,Maharashtra,Nashik,"Gangapur Road, Nashik - MPCB",NO2,21-10-2021 01:00,13,86,33
+1149,India,Maharashtra,Navi Mumbai,"Mahape, Navi Mumbai - MPCB",NO2,21-10-2021 01:00,20,59,36
+1156,India,Maharashtra,Navi Mumbai,"Nerul, Navi Mumbai - MPCB",NO2,21-10-2021 01:00,1,12,5
+1162,India,Maharashtra,Navi Mumbai,"Sector-19A Nerul, Navi Mumbai - IITM",NO2,21-10-2021 01:00,2,7,6
+1169,India,Maharashtra,Pune,"Bhosari, Pune - IITM",NO2,21-10-2021 01:00,13,18,15
+1172,India,Maharashtra,Pune,"Hadapsar, Pune - IITM",NO2,21-10-2021 01:00,17,18,18
+1177,India,Maharashtra,Pune,"Karve Road, Pune - MPCB",NO2,21-10-2021 01:00,NA,NA,NA
+1183,India,Maharashtra,Pune,"MIT-Kothrud, Pune - IITM",NO2,21-10-2021 01:00,7,7,7
+1188,India,Maharashtra,Pune,"Revenue Colony-Shivajinagar, Pune - IITM",NO2,21-10-2021 01:00,35,219,118
+1193,India,Maharashtra,Thane,"Pimpleshwar Mandir, Thane - MPCB",NO2,21-10-2021 01:00,NA,NA,NA
+1200,India,Meghalaya,Shillong,"Lumpyngngad, Shillong - Meghalaya PCB",NO2,21-10-2021 01:00,2,4,3
+1206,India,Mizoram,Aizawl,"Sikulpuikawn, Aizawl - Mizoram PCB",NO2,21-10-2021 01:00,NA,NA,NA
+1213,India,Nagaland,Kohima,"PWD Juction, Kohima - NPCB",NO2,21-10-2021 01:00,3,3,3
+1219,India,Odisha,Brajrajnagar,"GM Office, Brajrajnagar - OSPCB",NO2,21-10-2021 01:00,6,6,6
+1226,India,Odisha,Talcher,"Talcher Coalfields,Talcher - OSPCB",NO2,21-10-2021 01:00,21,34,26
+1233,India,Puducherry,Puducherry,"Jawahar Nagar, Puducherry - PPCC",NO2,21-10-2021 01:00,4,28,15
+1240,India,Punjab,Amritsar,"Golden Temple, Amritsar - PPCB",NO2,21-10-2021 01:00,2,164,72
+1247,India,Punjab,Bathinda,"Hardev Nagar, Bathinda - PPCB",NO2,21-10-2021 01:00,12,22,18
+1252,India,Punjab,Jalandhar,"Civil Line, Jalandhar - PPCB",NO2,21-10-2021 01:00,4,96,42
+1259,India,Punjab,Khanna,"Kalal Majra, Khanna - PPCB",NO2,21-10-2021 01:00,14,149,81
+1266,India,Punjab,Ludhiana,"Punjab Agricultural University, Ludhiana - PPCB",NO2,21-10-2021 01:00,9,36,31
+1273,India,Punjab,Mandi Gobindgarh,"RIMT University, Mandi Gobindgarh - PPCB",NO2,21-10-2021 01:00,6,7,7
+1280,India,Punjab,Patiala,"Model Town, Patiala - PPCB",NO2,21-10-2021 01:00,3,18,8
+1286,India,Punjab,Rupnagar,"Ratanpura, Rupnagar - Ambuja Cements",NO2,21-10-2021 01:00,8,9,9
+1291,India,Rajasthan,Ajmer,"Civil Lines,  Ajmer - RSPCB",NO2,21-10-2021 01:00,15,98,52
+1298,India,Rajasthan,Alwar,"Moti Doongri, Alwar - RSPCB",NO2,21-10-2021 01:00,25,76,44
+1305,India,Rajasthan,Bhiwadi,"RIICO Ind. Area III, Bhiwadi - RSPCB",NO2,21-10-2021 01:00,27,67,41
+1312,India,Rajasthan,Jaipur,"Adarsh Nagar, Jaipur - RSPCB",NO2,21-10-2021 01:00,33,157,77
+1319,India,Rajasthan,Jaipur,"Police Commissionerate, Jaipur - RSPCB",NO2,21-10-2021 01:00,NA,NA,NA
+1326,India,Rajasthan,Jaipur,"Shastri Nagar, Jaipur - RSPCB",NO2,21-10-2021 01:00,8,124,54
+1333,India,Rajasthan,Jodhpur,"Collectorate, Jodhpur - RSPCB",NO2,21-10-2021 01:00,23,72,41
+1339,India,Rajasthan,Kota,"Shrinath Puram, Kota - RSPCB",NO2,21-10-2021 01:00,32,34,32
+1346,India,Rajasthan,Pali,"Indira Colony Vistar, Pali - RSPCB",NO2,21-10-2021 01:00,22,66,36
+1353,India,Rajasthan,Udaipur,"Ashok Nagar, Udaipur - RSPCB",NO2,21-10-2021 01:00,18,57,43
+1360,India,TamilNadu,Chennai,"Alandur Bus Depot, Chennai - CPCB",NO2,21-10-2021 01:00,16,17,16
+1370,India,TamilNadu,Chennai,"Kodungaiyur, Chennai - TNPCB",NO2,21-10-2021 01:00,11,43,22
+1377,India,TamilNadu,Chennai,"Manali, Chennai - CPCB",NO2,21-10-2021 01:00,4,15,12
+1384,India,TamilNadu,Chennai,"Perungudi, Chennai - TNPCB",NO2,21-10-2021 01:00,2,26,13
+1391,India,TamilNadu,Chennai,"Royapuram, Chennai - TNPCB",NO2,21-10-2021 01:00,NA,NA,NA
+1397,India,TamilNadu,Chennai,"Velachery Res. Area, Chennai - CPCB",NO2,21-10-2021 01:00,9,11,10
+1404,India,TamilNadu,Gummidipoondi,"Anthoni Pillai Nagar, Gummidipoondi - TNPCB",NO2,21-10-2021 01:00,13,29,19
+1408,India,TamilNadu,Thoothukudi,"Meelavittan, Thoothukudi - TNPCB",NO2,21-10-2021 01:00,21,45,33
+1414,India,Telangana,Hyderabad,"Bollaram Industrial Area, Hyderabad - TSPCB",NO2,21-10-2021 01:00,NA,NA,NA
+1421,India,Telangana,Hyderabad,"Central University, Hyderabad - TSPCB",NO2,21-10-2021 01:00,35,65,52
+1428,India,Telangana,Hyderabad,"ICRISAT Patancheru, Hyderabad - TSPCB",NO2,21-10-2021 01:00,2,33,15
+1435,India,Telangana,Hyderabad,"IDA Pashamylaram, Hyderabad - TSPCB",NO2,21-10-2021 01:00,67,106,85
+1441,India,Telangana,Hyderabad,"Sanathnagar, Hyderabad - TSPCB",NO2,21-10-2021 01:00,14,125,59
+1447,India,Telangana,Hyderabad,"Zoo Park, Hyderabad - TSPCB",NO2,21-10-2021 01:00,36,68,51
+1454,India,Tripura,Agartala,"Kunjaban, Agartala - Tripura SPCB",NO2,21-10-2021 01:00,NA,NA,NA
+1461,India,Uttar_Pradesh,Agra,"Manoharpur, Agra - UPPCB",NO2,21-10-2021 01:00,3,28,12
+1468,India,Uttar_Pradesh,Agra,"Sanjay Palace, Agra - UPPCB",NO2,21-10-2021 01:00,18,133,56
+1474,India,Uttar_Pradesh,Agra,"Sector-3B Avas Vikas Colony, Agra - UPPCB",NO2,21-10-2021 01:00,11,56,28
+1481,India,Uttar_Pradesh,Agra,"Shahjahan Garden, Agra - UPPCB",NO2,21-10-2021 01:00,13,39,26
+1488,India,Uttar_Pradesh,Agra,"Shastripuram, Agra - UPPCB",NO2,21-10-2021 01:00,9,28,17
+1495,India,Uttar_Pradesh,Baghpat,"New Collectorate, Baghpat - UPPCB",NO2,21-10-2021 01:00,14,78,41
+1502,India,Uttar_Pradesh,Bulandshahr,"Yamunapuram, Bulandshahr - UPPCB",NO2,21-10-2021 01:00,19,83,49
+1509,India,Uttar_Pradesh,Firozabad,"Nagla Bhau, Firozabad - UPPCB",NO2,21-10-2021 01:00,41,95,63
+1516,India,Uttar_Pradesh,Ghaziabad,"Indirapuram, Ghaziabad - UPPCB",NO2,21-10-2021 01:00,NA,NA,NA
+1523,India,Uttar_Pradesh,Ghaziabad,"Loni, Ghaziabad - UPPCB",NO2,21-10-2021 01:00,12,102,62
+1530,India,Uttar_Pradesh,Ghaziabad,"Sanjay Nagar, Ghaziabad - UPPCB",NO2,21-10-2021 01:00,43,162,105
+1537,India,Uttar_Pradesh,Ghaziabad,"Vasundhara, Ghaziabad - UPPCB",NO2,21-10-2021 01:00,26,133,81
+1544,India,Uttar_Pradesh,Gorakhpur,"Madan Mohan Malaviya University of Technology, Gorakhpur - UPPCB",NO2,21-10-2021 01:00,2,2,2
+1551,India,Uttar_Pradesh,Greater Noida,"Knowledge Park - III, Greater Noida - UPPCB",NO2,21-10-2021 01:00,14,79,44
+1558,India,Uttar_Pradesh,Greater Noida,"Knowledge Park - V, Greater Noida - UPPCB",NO2,21-10-2021 01:00,41,145,84
+1565,India,Uttar_Pradesh,Hapur,"Anand Vihar, Hapur - UPPCB",NO2,21-10-2021 01:00,4,16,9
+1572,India,Uttar_Pradesh,Kanpur,"FTI Kidwai Nagar, Kanpur - UPPCB",NO2,21-10-2021 01:00,6,39,18
+1582,India,Uttar_Pradesh,Kanpur,"NSI Kalyanpur, Kanpur - UPPCB",NO2,21-10-2021 01:00,3,41,18
+1594,India,Uttar_Pradesh,Lucknow,"B R Ambedkar University, Lucknow - UPPCB",NO2,21-10-2021 01:00,12,28,19
+1601,India,Uttar_Pradesh,Lucknow,"Central School, Lucknow - CPCB",NO2,21-10-2021 01:00,33,102,50
+1608,India,Uttar_Pradesh,Lucknow,"Gomti Nagar, Lucknow - UPPCB",NO2,21-10-2021 01:00,20,87,50
+1614,India,Uttar_Pradesh,Lucknow,"Kukrail Picnic Spot-1, Lucknow - UPPCB",NO2,21-10-2021 01:00,3,20,7
+1621,India,Uttar_Pradesh,Lucknow,"Lalbagh, Lucknow - CPCB",NO2,21-10-2021 01:00,29,81,34
+1628,India,Uttar_Pradesh,Lucknow,"Talkatora District Industries Center, Lucknow - CPCB",NO2,21-10-2021 01:00,17,74,35
+1635,India,Uttar_Pradesh,Meerut,"Ganga Nagar, Meerut - UPPCB",NO2,21-10-2021 01:00,20,66,38
+1641,India,Uttar_Pradesh,Meerut,"Jai Bhim Nagar, Meerut - UPPCB",NO2,21-10-2021 01:00,5,54,25
+1648,India,Uttar_Pradesh,Meerut,"Pallavpuram Phase 2, Meerut - UPPCB",NO2,21-10-2021 01:00,39,101,63
+1655,India,Uttar_Pradesh,Moradabad,"Lajpat Nagar, Moradabad - UPPCB",NO2,21-10-2021 01:00,15,89,41
+1662,India,Uttar_Pradesh,Muzaffarnagar,"New Mandi, Muzaffarnagar - UPPCB",NO2,21-10-2021 01:00,13,23,17
+1669,India,Uttar_Pradesh,Noida,"Sector - 125, Noida - UPPCB",NO2,21-10-2021 01:00,32,52,42
+1676,India,Uttar_Pradesh,Noida,"Sector - 62, Noida - IMD",NO2,21-10-2021 01:00,20,43,28
+1681,India,Uttar_Pradesh,Noida,"Sector-1, Noida - UPPCB",NO2,21-10-2021 01:00,26,148,86
+1688,India,Uttar_Pradesh,Noida,"Sector-116, Noida - UPPCB",NO2,21-10-2021 01:00,19,110,63
+1695,India,Uttar_Pradesh,Prayagraj,"Jhunsi, Prayagraj - UPPCB",NO2,21-10-2021 01:00,1,21,5
+1702,India,Uttar_Pradesh,Prayagraj,"Motilal Nehru NIT, Prayagraj - UPPCB",NO2,21-10-2021 01:00,6,40,19
+1709,India,Uttar_Pradesh,Prayagraj,"Nagar Nigam, Prayagraj - UPPCB",NO2,21-10-2021 01:00,12,73,40
+1716,India,Uttar_Pradesh,Varanasi,"Ardhali Bazar, Varanasi - UPPCB",NO2,21-10-2021 01:00,35,86,56
+1722,India,Uttar_Pradesh,Varanasi,"Bhelupur, Varanasi - UPPCB",NO2,21-10-2021 01:00,4,13,7
+1729,India,Uttar_Pradesh,Varanasi,"IESD Banaras Hindu University, Varanasi - UPPCB",NO2,21-10-2021 01:00,5,8,6
+1736,India,Uttar_Pradesh,Varanasi,"Maldahiya, Varanasi - UPPCB",NO2,21-10-2021 01:00,10,29,19
+1743,India,Uttar_Pradesh,Vrindavan,"Omex Eternity, Vrindavan - UPPCB",NO2,21-10-2021 01:00,5,22,14
+1750,India,West_Bengal,Asansol,"Asansol Court Area, Asansol - WBPCB",NO2,21-10-2021 01:00,NA,NA,NA
+1757,India,West_Bengal,Durgapur,"Sidhu Kanhu Indoor Stadium, Durgapur - WBPCB",NO2,21-10-2021 01:00,19,37,27
+1762,India,West_Bengal,Haldia,"Haldia, Haldia - WBPCB",NO2,21-10-2021 01:00,15,47,22
+1769,India,West_Bengal,Howrah,"Belur Math, Howrah - WBPCB",NO2,21-10-2021 01:00,7,116,61
+1776,India,West_Bengal,Howrah,"Ghusuri, Howrah - WBPCB",NO2,21-10-2021 01:00,NA,NA,NA
+1783,India,West_Bengal,Howrah,"Padmapukur, Howrah - WBPCB",NO2,21-10-2021 01:00,3,10,6
+1790,India,West_Bengal,Kolkata,"Ballygunge, Kolkata - WBPCB",NO2,21-10-2021 01:00,25,64,42
+1797,India,West_Bengal,Kolkata,"Bidhannagar, Kolkata - WBPCB",NO2,21-10-2021 01:00,26,56,41
+1804,India,West_Bengal,Kolkata,"Fort William, Kolkata - WBPCB",NO2,21-10-2021 01:00,NA,NA,NA
+1811,India,West_Bengal,Kolkata,"Jadavpur, Kolkata - WBPCB",NO2,21-10-2021 01:00,3,21,14
+1818,India,West_Bengal,Kolkata,"Rabindra Bharati University, Kolkata - WBPCB",NO2,21-10-2021 01:00,NA,NA,NA
+1825,India,West_Bengal,Kolkata,"Rabindra Sarobar, Kolkata - WBPCB",NO2,21-10-2021 01:00,12,28,19
+1832,India,West_Bengal,Kolkata,"Victoria, Kolkata - WBPCB",NO2,21-10-2021 01:00,10,22,15
+7,India,Andhra_Pradesh,Amaravati,"Secretariat, Amaravati - APPCB",OZONE,21-10-2021 01:00,4,82,42
+14,India,Andhra_Pradesh,Rajamahendravaram,"Anand Kala Kshetram, Rajamahendravaram - APPCB",OZONE,21-10-2021 01:00,2,34,18
+21,India,Andhra_Pradesh,Tirupati,"Tirumala, Tirupati - APPCB",OZONE,21-10-2021 01:00,9,49,25
+28,India,Andhra_Pradesh,Visakhapatnam,"GVM Corporation, Visakhapatnam - APPCB",OZONE,21-10-2021 01:00,5,46,25
+34,India,Assam,Guwahati,"Pan Bazaar, Guwahati - APCB",OZONE,21-10-2021 01:00,13,24,20
+41,India,Assam,Guwahati,"Railway Colony, Guwahati - APCB",OZONE,21-10-2021 01:00,18,21,20
+46,India,Bihar,Gaya,"Collectorate, Gaya - BSPCB",OZONE,21-10-2021 01:00,10,11,11
+53,India,Bihar,Gaya,"SFTI Kusdihra, Gaya - BSPCB",OZONE,21-10-2021 01:00,1,49,17
+60,India,Bihar,Hajipur,"Industrial Area, Hajipur - BSPCB",OZONE,21-10-2021 01:00,3,59,35
+67,India,Bihar,Muzaffarpur,"Buddha Colony, Muzaffarpur - BSPCB",OZONE,21-10-2021 01:00,2,103,50
+72,India,Bihar,Muzaffarpur,"Muzaffarpur Collectorate, Muzaffarpur - BSPCB",OZONE,21-10-2021 01:00,9,15,13
+79,India,Bihar,Patna,"DRM Office Danapur, Patna - BSPCB",OZONE,21-10-2021 01:00,37,42,39
+86,India,Bihar,Patna,"Govt. High School Shikarpur, Patna - BSPCB",OZONE,21-10-2021 01:00,17,49,33
+93,India,Bihar,Patna,"Muradpur, Patna - BSPCB",OZONE,21-10-2021 01:00,37,207,137
+100,India,Bihar,Patna,"Rajbansi Nagar, Patna - BSPCB",OZONE,21-10-2021 01:00,5,61,27
+107,India,Bihar,Patna,"Samanpura, Patna - BSPCB",OZONE,21-10-2021 01:00,5,68,32
+114,India,Chandigarh,Chandigarh,"Sector 22, Chandigarh - CPCC",OZONE,21-10-2021 01:00,11,219,200
+121,India,Chandigarh,Chandigarh,"Sector-25, Chandigarh - CPCC",OZONE,21-10-2021 01:00,3,67,22
+133,India,Delhi,Delhi,"Alipur, Delhi - DPCC",OZONE,21-10-2021 01:00,2,69,19
+140,India,Delhi,Delhi,"Anand Vihar, Delhi - DPCC",OZONE,21-10-2021 01:00,4,47,15
+147,India,Delhi,Delhi,"Ashok Vihar, Delhi - DPCC",OZONE,21-10-2021 01:00,8,147,44
+152,India,Delhi,Delhi,"Aya Nagar, Delhi - IMD",OZONE,21-10-2021 01:00,15,25,20
+159,India,Delhi,Delhi,"Bawana, Delhi - DPCC",OZONE,21-10-2021 01:00,3,62,19
+164,India,Delhi,Delhi,"CRRI Mathura Road, Delhi - IMD",OZONE,21-10-2021 01:00,15,36,18
+171,India,Delhi,Delhi,"Chandni Chowk, Delhi - IITM",OZONE,21-10-2021 01:00,1,32,11
+178,India,Delhi,Delhi,"DTU, Delhi - CPCB",OZONE,21-10-2021 01:00,20,86,31
+185,India,Delhi,Delhi,"Dr. Karni Singh Shooting Range, Delhi - DPCC",OZONE,21-10-2021 01:00,4,168,48
+192,India,Delhi,Delhi,"Dwarka-Sector 8, Delhi - DPCC ",OZONE,21-10-2021 01:00,1,16,6
+197,India,Delhi,Delhi,"IGI Airport (T3), Delhi - IMD",OZONE,21-10-2021 01:00,9,21,10
+204,India,Delhi,Delhi,"IHBAS, Dilshad Garden, Delhi - CPCB",OZONE,21-10-2021 01:00,9,57,12
+210,India,Delhi,Delhi,"ITO, Delhi - CPCB",OZONE,21-10-2021 01:00,10,39,17
+215,India,Delhi,Delhi,"Jahangirpuri, Delhi - DPCC",OZONE,21-10-2021 01:00,3,21,11
+222,India,Delhi,Delhi,"Jawaharlal Nehru Stadium, Delhi - DPCC",OZONE,21-10-2021 01:00,8,9,8
+229,India,Delhi,Delhi,"Lodhi Road, Delhi - IITM",OZONE,21-10-2021 01:00,15,22,17
+234,India,Delhi,Delhi,"Lodhi Road, Delhi - IMD",OZONE,21-10-2021 01:00,15,154,22
+241,India,Delhi,Delhi,"Major Dhyan Chand National Stadium, Delhi - DPCC",OZONE,21-10-2021 01:00,2,80,18
+248,India,Delhi,Delhi,"Mandir Marg, Delhi - DPCC",OZONE,21-10-2021 01:00,7,73,35
+255,India,Delhi,Delhi,"Mundka, Delhi - DPCC",OZONE,21-10-2021 01:00,15,97,27
+262,India,Delhi,Delhi,"NSIT Dwarka, Delhi - CPCB",OZONE,21-10-2021 01:00,20,108,33
+269,India,Delhi,Delhi,"Najafgarh, Delhi - DPCC",OZONE,21-10-2021 01:00,1,91,24
+276,India,Delhi,Delhi,"Narela, Delhi - DPCC",OZONE,21-10-2021 01:00,6,121,41
+283,India,Delhi,Delhi,"Nehru Nagar, Delhi - DPCC",OZONE,21-10-2021 01:00,3,162,26
+288,India,Delhi,Delhi,"North Campus, DU, Delhi - IMD",OZONE,21-10-2021 01:00,31,99,45
+295,India,Delhi,Delhi,"Okhla Phase-2, Delhi - DPCC",OZONE,21-10-2021 01:00,3,110,21
+302,India,Delhi,Delhi,"Patparganj, Delhi - DPCC",OZONE,21-10-2021 01:00,4,163,37
+309,India,Delhi,Delhi,"Punjabi Bagh, Delhi - DPCC",OZONE,21-10-2021 01:00,11,97,34
+316,India,Delhi,Delhi,"Pusa, Delhi - DPCC",OZONE,21-10-2021 01:00,2,52,13
+321,India,Delhi,Delhi,"Pusa, Delhi - IMD",OZONE,21-10-2021 01:00,18,72,32
+328,India,Delhi,Delhi,"R K Puram, Delhi - DPCC",OZONE,21-10-2021 01:00,10,103,34
+335,India,Delhi,Delhi,"Rohini, Delhi - DPCC",OZONE,21-10-2021 01:00,3,77,12
+342,India,Delhi,Delhi,"Shadipur, Delhi - CPCB",OZONE,21-10-2021 01:00,6,43,21
+349,India,Delhi,Delhi,"Sirifort, Delhi - CPCB",OZONE,21-10-2021 01:00,21,100,35
+356,India,Delhi,Delhi,"Sonia Vihar, Delhi - DPCC",OZONE,21-10-2021 01:00,3,130,38
+363,India,Delhi,Delhi,"Sri Aurobindo Marg, Delhi - DPCC",OZONE,21-10-2021 01:00,5,128,35
+370,India,Delhi,Delhi,"Vivek Vihar, Delhi - DPCC",OZONE,21-10-2021 01:00,7,56,19
+377,India,Delhi,Delhi,"Wazirpur, Delhi - DPCC",OZONE,21-10-2021 01:00,4,69,50
+383,India,Gujarat,Ahmedabad,"Gyaspur, Ahmedabad - IITM",OZONE,21-10-2021 01:00,8,14,11
+389,India,Gujarat,Ahmedabad,"Maninagar, Ahmedabad - GPCB",OZONE,21-10-2021 01:00,1,117,20
+400,India,Gujarat,Ahmedabad,"SAC ISRO Bopal, Ahmedabad - IITM",OZONE,21-10-2021 01:00,7,13,9
+407,India,Gujarat,Ahmedabad,"SAC ISRO Satellite, Ahmedabad - IITM",OZONE,21-10-2021 01:00,6,37,18
+414,India,Gujarat,Ahmedabad,"SVPI Airport Hansol, Ahmedabad - IITM",OZONE,21-10-2021 01:00,12,36,20
+421,India,Gujarat,Ankleshwar,"GIDC, Ankleshwar - GPCB",OZONE,21-10-2021 01:00,42,45,43
+428,India,Gujarat,Gandhinagar,"GIFT City, Gandhinagar - IITM",OZONE,21-10-2021 01:00,1,59,42
+435,India,Gujarat,Gandhinagar,"IIPHG Lekawada, Gandhinagar - IITM",OZONE,21-10-2021 01:00,4,17,9
+442,India,Gujarat,Gandhinagar,"Sector-10, Gandhinagar - GPCB",OZONE,21-10-2021 01:00,2,38,15
+459,India,Gujarat,Vatva,"Phase-4 GIDC, Vatva - GPCB",OZONE,21-10-2021 01:00,9,83,27
+466,India,Haryana,Ambala,"Patti Mehar, Ambala - HSPCB",OZONE,21-10-2021 01:00,1,54,1
+473,India,Haryana,Bahadurgarh,"Arya Nagar, Bahadurgarh - HSPCB",OZONE,21-10-2021 01:00,3,205,42
+480,India,Haryana,Ballabgarh,"Nathu Colony, Ballabgarh - HSPCB",OZONE,21-10-2021 01:00,4,56,16
+487,India,Haryana,Bhiwani,"H.B. Colony, Bhiwani - HSPCB",OZONE,21-10-2021 01:00,52,96,74
+494,India,Haryana,Charkhi Dadri,"Mini Secretariat, Charkhi Dadri - HSPCB",OZONE,21-10-2021 01:00,1,12,4
+501,India,Haryana,Dharuhera,"Municipal Corporation Office, Dharuhera -  HSPCB",OZONE,21-10-2021 01:00,1,107,30
+508,India,Haryana,Faridabad,"New Industrial Town, Faridabad - HSPCB",OZONE,21-10-2021 01:00,1,75,58
+515,India,Haryana,Faridabad,"Sector 11, Faridabad - HSPCB",OZONE,21-10-2021 01:00,9,13,11
+522,India,Haryana,Faridabad,"Sector 30, Faridabad - HSPCB",OZONE,21-10-2021 01:00,1,90,11
+527,India,Haryana,Faridabad,"Sector- 16A, Faridabad - HSPCB",OZONE,21-10-2021 01:00,19,238,151
+534,India,Haryana,Fatehabad,"Huda Sector, Fatehabad - HSPCB",OZONE,21-10-2021 01:00,19,124,54
+539,India,Haryana,Gurugram,"NISE Gwal Pahari, Gurugram - IMD",OZONE,21-10-2021 01:00,5,123,32
+546,India,Haryana,Gurugram,"Sector-51, Gurugram - HSPCB",OZONE,21-10-2021 01:00,1,140,25
+553,India,Haryana,Gurugram,"Teri Gram, Gurugram - HSPCB",OZONE,21-10-2021 01:00,18,30,21
+558,India,Haryana,Gurugram,"Vikas Sadan, Gurugram - HSPCB",OZONE,21-10-2021 01:00,2,43,43
+565,India,Haryana,Hisar,"Urban Estate-II, Hisar - HSPCB",OZONE,21-10-2021 01:00,19,21,20
+572,India,Haryana,Jind,"Police Lines, Jind - HSPCB",OZONE,21-10-2021 01:00,8,71,33
+579,India,Haryana,Kaithal,"Rishi Nagar, Kaithal - HSPCB",OZONE,21-10-2021 01:00,35,121,66
+586,India,Haryana,Karnal,"Sector-12, Karnal - HSPCB",OZONE,21-10-2021 01:00,6,35,17
+593,India,Haryana,Kurukshetra,"Sector-7, Kurukshetra - HSPCB",OZONE,21-10-2021 01:00,29,171,71
+600,India,Haryana,Mandikhera,"General Hospital, Mandikhera - HSPCB",OZONE,21-10-2021 01:00,18,23,21
+607,India,Haryana,Manesar,"Sector-2 IMT, Manesar - HSPCB",OZONE,21-10-2021 01:00,13,15,14
+614,India,Haryana,Narnaul,"Shastri Nagar, Narnaul - HSPCB",OZONE,21-10-2021 01:00,1,8,4
+621,India,Haryana,Palwal,"Shyam Nagar, Palwal - HSPCB",OZONE,21-10-2021 01:00,2,66,14
+626,India,Haryana,Panchkula,"Sector-6, Panchkula - HSPCB ",OZONE,21-10-2021 01:00,40,59,46
+633,India,Haryana,Panipat,"Sector-18, Panipat - HSPCB",OZONE,21-10-2021 01:00,38,40,39
+638,India,Haryana,Rohtak,"MD University, Rohtak - HSPCB",OZONE,21-10-2021 01:00,29,87,49
+645,India,Haryana,Sirsa,"F-Block, Sirsa - HSPCB",OZONE,21-10-2021 01:00,1,49,17
+652,India,Haryana,Sonipat,"Murthal, Sonipat - HSPCB",OZONE,21-10-2021 01:00,29,31,30
+659,India,Haryana,Yamunanagar,"Gobind Pura, Yamuna Nagar - HSPCB",OZONE,21-10-2021 01:00,6,87,36
+668,India,Jharkhand,Jorapokhar,"Tata Stadium, Jorapokhar - JSPCB",OZONE,21-10-2021 01:00,19,90,19
+675,India,Karnataka,Bagalkot,"Vidayagiri, Bagalkot - KSPCB",OZONE,21-10-2021 01:00,24,58,32
+682,India,Karnataka,Bengaluru,"BWSSB Kadabesanahalli, Bengaluru - CPCB",OZONE,21-10-2021 01:00,1,61,15
+689,India,Karnataka,Bengaluru,"Bapuji Nagar, Bengaluru - KSPCB",OZONE,21-10-2021 01:00,2,7,5
+700,India,Karnataka,Bengaluru,"Hebbal, Bengaluru - KSPCB",OZONE,21-10-2021 01:00,19,29,23
+707,India,Karnataka,Bengaluru,"Hombegowda Nagar, Bengaluru - KSPCB",OZONE,21-10-2021 01:00,13,81,45
+714,India,Karnataka,Bengaluru,"Jayanagar 5th Block, Bengaluru - KSPCB",OZONE,21-10-2021 01:00,15,75,57
+720,India,Karnataka,Bengaluru,"Peenya, Bengaluru - CPCB",OZONE,21-10-2021 01:00,7,34,17
+731,India,Karnataka,Bengaluru,"Silk Board, Bengaluru - KSPCB",OZONE,21-10-2021 01:00,31,50,31
+738,India,Karnataka,Chamarajanagar,"Urban, Chamarajanagar - KSPCB",OZONE,21-10-2021 01:00,12,43,23
+745,India,Karnataka,Chikkaballapur,"Chikkaballapur Rural, Chikkaballapur - KSPCB",OZONE,21-10-2021 01:00,9,43,27
+752,India,Karnataka,Chikkamagaluru,"Kalyana Nagara, Chikkamagaluru - KSPCB",OZONE,21-10-2021 01:00,16,20,18
+759,India,Karnataka,Davanagere,"Devaraj Urs Badavane, Davanagere - KSPCB",OZONE,21-10-2021 01:00,11,20,17
+766,India,Karnataka,Hassan,"B.Katihalli, Hassan - KSPCB",OZONE,21-10-2021 01:00,8,40,22
+773,India,Karnataka,Hubballi,"Deshpande Nagar, Hubballi - KSPCB",OZONE,21-10-2021 01:00,9,67,41
+778,India,Karnataka,Kalaburgi,"Lal Bahadur Shastri Nagar, Kalaburagi - KSPCB",OZONE,21-10-2021 01:00,42,84,70
+785,India,Karnataka,Kolar,"Tamaka Ind. Area, Kolar - KSPCB",OZONE,21-10-2021 01:00,1,49,14
+792,India,Karnataka,Koppal,"Diwator Nagar, Koppal - KSPCB",OZONE,21-10-2021 01:00,19,54,30
+799,India,Karnataka,Manglore,"Kadri, Mangalore - KSPCB",OZONE,21-10-2021 01:00,8,34,18
+806,India,Karnataka,Medikeri,"Stuart Hill, Madikeri - KSPCB",OZONE,21-10-2021 01:00,52,95,83
+813,India,Karnataka,Mysuru,"Hebbal 1st Stage, Mysuru - KSPCB",OZONE,21-10-2021 01:00,13,72,28
+820,India,Karnataka,Raichur,"Haji Colony, Raichur - KSPCB",OZONE,21-10-2021 01:00,9,20,13
+827,India,Karnataka,Ramanagara,"Vijay Nagar, Ramanagara - KSPCB",OZONE,21-10-2021 01:00,20,91,47
+834,India,Karnataka,Shivamogga,"Vinoba Nagara, Shivamogga - KSPCB",OZONE,21-10-2021 01:00,7,44,16
+840,India,Karnataka,Udupi,"Brahmagiri, Udupi - KSPCB",OZONE,21-10-2021 01:00,34,148,84
+847,India,Karnataka,Vijayapura,"Ibrahimpur, Vijayapura - KSPCB",OZONE,21-10-2021 01:00,3,43,27
+854,India,Karnataka,Yadgir,"Collector Office, Yadgir - KSPCB",OZONE,21-10-2021 01:00,13,27,21
+861,India,Kerala,Eloor,"Udyogamandal, Eloor - Kerala PCB",OZONE,21-10-2021 01:00,27,31,30
+874,India,Kerala,Kannur,"Thavakkara, Kannur - Kerala PCB",OZONE,21-10-2021 01:00,23,47,33
+881,India,Kerala,Kochi,"Vyttila, Kochi - Kerala PCB",OZONE,21-10-2021 01:00,1,1,1
+887,India,Kerala,Kollam,"Polayathode, Kollam - Kerala PCB",OZONE,21-10-2021 01:00,6,41,15
+894,India,Kerala,Kozhikode,"Palayam, Kozhikode - Kerala PCB",OZONE,21-10-2021 01:00,6,7,6
+901,India,Kerala,Thiruvananthapuram,"Kariavattom, Thiruvananthapuram - Kerala PCB",OZONE,21-10-2021 01:00,38,42,41
+908,India,Kerala,Thiruvananthapuram,"Plammoodu, Thiruvananthapuram - Kerala PCB",OZONE,21-10-2021 01:00,13,34,14
+915,India,Madhya Pradesh,Bhopal,"T T Nagar, Bhopal - MPPCB",OZONE,21-10-2021 01:00,27,124,79
+926,India,Madhya Pradesh,Dewas,"Bhopal Chauraha, Dewas - MPPCB",OZONE,21-10-2021 01:00,5,48,38
+933,India,Madhya Pradesh,Gwalior,"City Center, Gwalior - MPPCB",OZONE,21-10-2021 01:00,10,97,59
+943,India,Madhya Pradesh,Indore,"Chhoti Gwaltoli, Indore - MPPCB",OZONE,21-10-2021 01:00,8,114,54
+950,India,Madhya Pradesh,Jabalpur,"Marhatal, Jabalpur - MPPCB",OZONE,21-10-2021 01:00,15,57,30
+957,India,Madhya Pradesh,Katni,"Gole Bazar, Katni - MPPCB",OZONE,21-10-2021 01:00,9,87,48
+964,India,Madhya Pradesh,Mandideep,"Sector-D Industrial Area, Mandideep - MPPCB",OZONE,21-10-2021 01:00,11,44,34
+971,India,Madhya Pradesh,Pithampur,"Sector-2 Industrial Area, Pithampur - MPPCB",OZONE,21-10-2021 01:00,52,102,79
+991,India,Madhya Pradesh,Singrauli,"Suryakiran Bhawan NCL, Singrauli - MPPCB",OZONE,21-10-2021 01:00,6,116,51
+998,India,Madhya Pradesh,Ujjain,"Mahakaleshwar Temple, Ujjain - MPPCB",OZONE,21-10-2021 01:00,8,107,58
+1005,India,Maharashtra,Aurangabad,"More Chowk Waluj, Aurangabad - MPCB",OZONE,21-10-2021 01:00,4,79,35
+1012,India,Maharashtra,Chandrapur,"Chandrapur, Chandrapur - MPCB",OZONE,21-10-2021 01:00,14,33,29
+1019,India,Maharashtra,Chandrapur,"MIDC Khutala, Chandrapur - MPCB",OZONE,21-10-2021 01:00,9,131,53
+1025,India,Maharashtra,Kalyan,"Khadakpada, Kalyan - MPCB",OZONE,21-10-2021 01:00,9,10,9
+1032,India,Maharashtra,Mumbai,"Bandra Kurla Complex, Mumbai - IITM",OZONE,21-10-2021 01:00,1,10,6
+1037,India,Maharashtra,Mumbai,"Bandra, Mumbai - MPCB",OZONE,21-10-2021 01:00,62,145,139
+1049,India,Maharashtra,Mumbai,"Borivali East, Mumbai - MPCB",OZONE,21-10-2021 01:00,5,9,5
+1056,India,Maharashtra,Mumbai,"Chakala-Andheri East, Mumbai - IITM",OZONE,21-10-2021 01:00,1,53,19
+1063,India,Maharashtra,Mumbai,"Chhatrapati Shivaji Intl. Airport (T2), Mumbai - MPCB",OZONE,21-10-2021 01:00,7,102,39
+1068,India,Maharashtra,Mumbai,"Colaba, Mumbai - MPCB",OZONE,21-10-2021 01:00,16,17,16
+1075,India,Maharashtra,Mumbai,"Deonar, Mumbai - IITM",OZONE,21-10-2021 01:00,1,40,15
+1082,India,Maharashtra,Mumbai,"Kandivali East, Mumbai - MPCB",OZONE,21-10-2021 01:00,8,8,8
+1089,India,Maharashtra,Mumbai,"Khindipada-Bhandup West, Mumbai - IITM",OZONE,21-10-2021 01:00,7,26,15
+1096,India,Maharashtra,Mumbai,"Mazgaon, Mumbai - IITM",OZONE,21-10-2021 01:00,3,36,19
+1103,India,Maharashtra,Mumbai,"Mulund West, Mumbai - MPCB",OZONE,21-10-2021 01:00,12,36,21
+1110,India,Maharashtra,Mumbai,"Powai, Mumbai - MPCB",OZONE,21-10-2021 01:00,6,90,36
+1115,India,Maharashtra,Mumbai,"Siddharth Nagar-Worli, Mumbai - IITM",OZONE,21-10-2021 01:00,25,67,37
+1122,India,Maharashtra,Mumbai,"Sion, Mumbai - MPCB",OZONE,21-10-2021 01:00,4,57,18
+1133,India,Maharashtra,Mumbai,"Vile Parle West, Mumbai - MPCB",OZONE,21-10-2021 01:00,5,6,5
+1139,India,Maharashtra,Mumbai,"Worli, Mumbai - MPCB",OZONE,21-10-2021 01:00,4,4,4
+1146,India,Maharashtra,Nashik,"Gangapur Road, Nashik - MPCB",OZONE,21-10-2021 01:00,20,92,60
+1153,India,Maharashtra,Navi Mumbai,"Mahape, Navi Mumbai - MPCB",OZONE,21-10-2021 01:00,7,49,21
+1166,India,Maharashtra,Navi Mumbai,"Sector-19A Nerul, Navi Mumbai - IITM",OZONE,21-10-2021 01:00,1,29,9
+1174,India,Maharashtra,Pune,"Hadapsar, Pune - IITM",OZONE,21-10-2021 01:00,5,32,10
+1180,India,Maharashtra,Pune,"Karve Road, Pune - MPCB",OZONE,21-10-2021 01:00,27,49,40
+1185,India,Maharashtra,Pune,"MIT-Kothrud, Pune - IITM",OZONE,21-10-2021 01:00,5,39,16
+1191,India,Maharashtra,Pune,"Revenue Colony-Shivajinagar, Pune - IITM",OZONE,21-10-2021 01:00,1,25,3
+1197,India,Maharashtra,Thane,"Pimpleshwar Mandir, Thane - MPCB",OZONE,21-10-2021 01:00,3,124,35
+1203,India,Meghalaya,Shillong,"Lumpyngngad, Shillong - Meghalaya PCB",OZONE,21-10-2021 01:00,1,31,16
+1210,India,Mizoram,Aizawl,"Sikulpuikawn, Aizawl - Mizoram PCB",OZONE,21-10-2021 01:00,2,10,6
+1217,India,Nagaland,Kohima,"PWD Juction, Kohima - NPCB",OZONE,21-10-2021 01:00,7,8,8
+1223,India,Odisha,Brajrajnagar,"GM Office, Brajrajnagar - OSPCB",OZONE,21-10-2021 01:00,1,97,34
+1230,India,Odisha,Talcher,"Talcher Coalfields,Talcher - OSPCB",OZONE,21-10-2021 01:00,8,74,20
+1237,India,Puducherry,Puducherry,"Jawahar Nagar, Puducherry - PPCC",OZONE,21-10-2021 01:00,20,78,42
+1244,India,Punjab,Amritsar,"Golden Temple, Amritsar - PPCB",OZONE,21-10-2021 01:00,3,62,31
+1256,India,Punjab,Jalandhar,"Civil Line, Jalandhar - PPCB",OZONE,21-10-2021 01:00,2,83,38
+1263,India,Punjab,Khanna,"Kalal Majra, Khanna - PPCB",OZONE,21-10-2021 01:00,5,79,28
+1270,India,Punjab,Ludhiana,"Punjab Agricultural University, Ludhiana - PPCB",OZONE,21-10-2021 01:00,4,86,33
+1277,India,Punjab,Mandi Gobindgarh,"RIMT University, Mandi Gobindgarh - PPCB",OZONE,21-10-2021 01:00,2,45,8
+1284,India,Punjab,Patiala,"Model Town, Patiala - PPCB",OZONE,21-10-2021 01:00,6,120,42
+1295,India,Rajasthan,Ajmer,"Civil Lines,  Ajmer - RSPCB",OZONE,21-10-2021 01:00,2,62,36
+1302,India,Rajasthan,Alwar,"Moti Doongri, Alwar - RSPCB",OZONE,21-10-2021 01:00,9,91,23
+1309,India,Rajasthan,Bhiwadi,"RIICO Ind. Area III, Bhiwadi - RSPCB",OZONE,21-10-2021 01:00,2,50,13
+1316,India,Rajasthan,Jaipur,"Adarsh Nagar, Jaipur - RSPCB",OZONE,21-10-2021 01:00,9,94,54
+1323,India,Rajasthan,Jaipur,"Police Commissionerate, Jaipur - RSPCB",OZONE,21-10-2021 01:00,12,66,31
+1330,India,Rajasthan,Jaipur,"Shastri Nagar, Jaipur - RSPCB",OZONE,21-10-2021 01:00,6,86,57
+1336,India,Rajasthan,Jodhpur,"Collectorate, Jodhpur - RSPCB",OZONE,21-10-2021 01:00,12,49,29
+1343,India,Rajasthan,Kota,"Shrinath Puram, Kota - RSPCB",OZONE,21-10-2021 01:00,22,73,54
+1350,India,Rajasthan,Pali,"Indira Colony Vistar, Pali - RSPCB",OZONE,21-10-2021 01:00,3,90,10
+1357,India,Rajasthan,Udaipur,"Ashok Nagar, Udaipur - RSPCB",OZONE,21-10-2021 01:00,9,66,28
+1364,India,TamilNadu,Chennai,"Alandur Bus Depot, Chennai - CPCB",OZONE,21-10-2021 01:00,9,18,11
+1374,India,TamilNadu,Chennai,"Kodungaiyur, Chennai - TNPCB",OZONE,21-10-2021 01:00,16,36,21
+1381,India,TamilNadu,Chennai,"Manali, Chennai - CPCB",OZONE,21-10-2021 01:00,22,65,33
+1388,India,TamilNadu,Chennai,"Perungudi, Chennai - TNPCB",OZONE,21-10-2021 01:00,12,51,35
+1401,India,TamilNadu,Chennai,"Velachery Res. Area, Chennai - CPCB",OZONE,21-10-2021 01:00,2,43,18
+1411,India,TamilNadu,Thoothukudi,"Meelavittan, Thoothukudi - TNPCB",OZONE,21-10-2021 01:00,19,53,36
+1418,India,Telangana,Hyderabad,"Bollaram Industrial Area, Hyderabad - TSPCB",OZONE,21-10-2021 01:00,88,90,89
+1425,India,Telangana,Hyderabad,"Central University, Hyderabad - TSPCB",OZONE,21-10-2021 01:00,2,41,19
+1432,India,Telangana,Hyderabad,"ICRISAT Patancheru, Hyderabad - TSPCB",OZONE,21-10-2021 01:00,2,10,5
+1439,India,Telangana,Hyderabad,"IDA Pashamylaram, Hyderabad - TSPCB",OZONE,21-10-2021 01:00,4,20,8
+1444,India,Telangana,Hyderabad,"Sanathnagar, Hyderabad - TSPCB",OZONE,21-10-2021 01:00,7,54,30
+1451,India,Telangana,Hyderabad,"Zoo Park, Hyderabad - TSPCB",OZONE,21-10-2021 01:00,8,23,16
+1458,India,Tripura,Agartala,"Kunjaban, Agartala - Tripura SPCB",OZONE,21-10-2021 01:00,2,51,48
+1465,India,Uttar_Pradesh,Agra,"Manoharpur, Agra - UPPCB",OZONE,21-10-2021 01:00,8,43,16
+1471,India,Uttar_Pradesh,Agra,"Sanjay Palace, Agra - UPPCB",OZONE,21-10-2021 01:00,3,142,50
+1478,India,Uttar_Pradesh,Agra,"Sector-3B Avas Vikas Colony, Agra - UPPCB",OZONE,21-10-2021 01:00,1,25,1
+1485,India,Uttar_Pradesh,Agra,"Shahjahan Garden, Agra - UPPCB",OZONE,21-10-2021 01:00,1,141,38
+1492,India,Uttar_Pradesh,Agra,"Shastripuram, Agra - UPPCB",OZONE,21-10-2021 01:00,1,38,10
+1499,India,Uttar_Pradesh,Baghpat,"New Collectorate, Baghpat - UPPCB",OZONE,21-10-2021 01:00,2,95,39
+1506,India,Uttar_Pradesh,Bulandshahr,"Yamunapuram, Bulandshahr - UPPCB",OZONE,21-10-2021 01:00,4,181,181
+1513,India,Uttar_Pradesh,Firozabad,"Nagla Bhau, Firozabad - UPPCB",OZONE,21-10-2021 01:00,1,64,10
+1520,India,Uttar_Pradesh,Ghaziabad,"Indirapuram, Ghaziabad - UPPCB",OZONE,21-10-2021 01:00,16,158,158
+1527,India,Uttar_Pradesh,Ghaziabad,"Loni, Ghaziabad - UPPCB",OZONE,21-10-2021 01:00,4,122,36
+1534,India,Uttar_Pradesh,Ghaziabad,"Sanjay Nagar, Ghaziabad - UPPCB",OZONE,21-10-2021 01:00,8,139,48
+1541,India,Uttar_Pradesh,Ghaziabad,"Vasundhara, Ghaziabad - UPPCB",OZONE,21-10-2021 01:00,2,121,26
+1548,India,Uttar_Pradesh,Gorakhpur,"Madan Mohan Malaviya University of Technology, Gorakhpur - UPPCB",OZONE,21-10-2021 01:00,1,36,10
+1555,India,Uttar_Pradesh,Greater Noida,"Knowledge Park - III, Greater Noida - UPPCB",OZONE,21-10-2021 01:00,1,169,39
+1562,India,Uttar_Pradesh,Greater Noida,"Knowledge Park - V, Greater Noida - UPPCB",OZONE,21-10-2021 01:00,5,135,29
+1569,India,Uttar_Pradesh,Hapur,"Anand Vihar, Hapur - UPPCB",OZONE,21-10-2021 01:00,2,13,5
+1576,India,Uttar_Pradesh,Kanpur,"FTI Kidwai Nagar, Kanpur - UPPCB",OZONE,21-10-2021 01:00,8,46,15
+1579,India,Uttar_Pradesh,Kanpur,"IITK, Kanpur - IITK",OZONE,21-10-2021 01:00,6,57,28
+1586,India,Uttar_Pradesh,Kanpur,"NSI Kalyanpur, Kanpur - UPPCB",OZONE,21-10-2021 01:00,5,24,12
+1591,India,Uttar_Pradesh,Kanpur,"Nehru Nagar, Kanpur - UPPCB",OZONE,21-10-2021 01:00,4,34,16
+1598,India,Uttar_Pradesh,Lucknow,"B R Ambedkar University, Lucknow - UPPCB",OZONE,21-10-2021 01:00,3,39,11
+1605,India,Uttar_Pradesh,Lucknow,"Central School, Lucknow - CPCB",OZONE,21-10-2021 01:00,12,74,43
+1611,India,Uttar_Pradesh,Lucknow,"Gomti Nagar, Lucknow - UPPCB",OZONE,21-10-2021 01:00,28,82,56
+1618,India,Uttar_Pradesh,Lucknow,"Kukrail Picnic Spot-1, Lucknow - UPPCB",OZONE,21-10-2021 01:00,4,63,28
+1625,India,Uttar_Pradesh,Lucknow,"Lalbagh, Lucknow - CPCB",OZONE,21-10-2021 01:00,15,28,19
+1632,India,Uttar_Pradesh,Lucknow,"Talkatora District Industries Center, Lucknow - CPCB",OZONE,21-10-2021 01:00,19,65,34
+1638,India,Uttar_Pradesh,Meerut,"Ganga Nagar, Meerut - UPPCB",OZONE,21-10-2021 01:00,1,54,2
+1645,India,Uttar_Pradesh,Meerut,"Jai Bhim Nagar, Meerut - UPPCB",OZONE,21-10-2021 01:00,17,248,206
+1652,India,Uttar_Pradesh,Meerut,"Pallavpuram Phase 2, Meerut - UPPCB",OZONE,21-10-2021 01:00,11,101,37
+1659,India,Uttar_Pradesh,Moradabad,"Lajpat Nagar, Moradabad - UPPCB",OZONE,21-10-2021 01:00,4,50,21
+1666,India,Uttar_Pradesh,Muzaffarnagar,"New Mandi, Muzaffarnagar - UPPCB",OZONE,21-10-2021 01:00,20,43,26
+1673,India,Uttar_Pradesh,Noida,"Sector - 125, Noida - UPPCB",OZONE,21-10-2021 01:00,10,210,40
+1678,India,Uttar_Pradesh,Noida,"Sector - 62, Noida - IMD",OZONE,21-10-2021 01:00,3,81,23
+1685,India,Uttar_Pradesh,Noida,"Sector-1, Noida - UPPCB",OZONE,21-10-2021 01:00,3,133,30
+1692,India,Uttar_Pradesh,Noida,"Sector-116, Noida - UPPCB",OZONE,21-10-2021 01:00,3,141,34
+1699,India,Uttar_Pradesh,Prayagraj,"Jhunsi, Prayagraj - UPPCB",OZONE,21-10-2021 01:00,3,25,9
+1706,India,Uttar_Pradesh,Prayagraj,"Motilal Nehru NIT, Prayagraj - UPPCB",OZONE,21-10-2021 01:00,3,56,26
+1713,India,Uttar_Pradesh,Prayagraj,"Nagar Nigam, Prayagraj - UPPCB",OZONE,21-10-2021 01:00,3,52,20
+1719,India,Uttar_Pradesh,Varanasi,"Ardhali Bazar, Varanasi - UPPCB",OZONE,21-10-2021 01:00,8,76,37
+1726,India,Uttar_Pradesh,Varanasi,"Bhelupur, Varanasi - UPPCB",OZONE,21-10-2021 01:00,2,9,5
+1733,India,Uttar_Pradesh,Varanasi,"IESD Banaras Hindu University, Varanasi - UPPCB",OZONE,21-10-2021 01:00,4,8,6
+1740,India,Uttar_Pradesh,Varanasi,"Maldahiya, Varanasi - UPPCB",OZONE,21-10-2021 01:00,3,25,4
+1747,India,Uttar_Pradesh,Vrindavan,"Omex Eternity, Vrindavan - UPPCB",OZONE,21-10-2021 01:00,3,30,21
+1754,India,West_Bengal,Asansol,"Asansol Court Area, Asansol - WBPCB",OZONE,21-10-2021 01:00,23,154,154
+1766,India,West_Bengal,Haldia,"Haldia, Haldia - WBPCB",OZONE,21-10-2021 01:00,12,27,17
+1773,India,West_Bengal,Howrah,"Belur Math, Howrah - WBPCB",OZONE,21-10-2021 01:00,8,12,10
+1780,India,West_Bengal,Howrah,"Ghusuri, Howrah - WBPCB",OZONE,21-10-2021 01:00,15,35,20
+1787,India,West_Bengal,Howrah,"Padmapukur, Howrah - WBPCB",OZONE,21-10-2021 01:00,5,44,19
+1794,India,West_Bengal,Kolkata,"Ballygunge, Kolkata - WBPCB",OZONE,21-10-2021 01:00,15,99,45
+1801,India,West_Bengal,Kolkata,"Bidhannagar, Kolkata - WBPCB",OZONE,21-10-2021 01:00,1,84,36
+1808,India,West_Bengal,Kolkata,"Fort William, Kolkata - WBPCB",OZONE,21-10-2021 01:00,NA,NA,NA
+1815,India,West_Bengal,Kolkata,"Jadavpur, Kolkata - WBPCB",OZONE,21-10-2021 01:00,6,79,30
+1822,India,West_Bengal,Kolkata,"Rabindra Bharati University, Kolkata - WBPCB",OZONE,21-10-2021 01:00,22,372,81
+1829,India,West_Bengal,Kolkata,"Rabindra Sarobar, Kolkata - WBPCB",OZONE,21-10-2021 01:00,6,76,31
+1836,India,West_Bengal,Kolkata,"Victoria, Kolkata - WBPCB",OZONE,21-10-2021 01:00,10,116,43
+2,India,Andhra_Pradesh,Amaravati,"Secretariat, Amaravati - APPCB",PM10,21-10-2021 01:00,82,138,105
+9,India,Andhra_Pradesh,Rajamahendravaram,"Anand Kala Kshetram, Rajamahendravaram - APPCB",PM10,21-10-2021 01:00,49,120,86
+16,India,Andhra_Pradesh,Tirupati,"Tirumala, Tirupati - APPCB",PM10,21-10-2021 01:00,66,120,86
+23,India,Andhra_Pradesh,Visakhapatnam,"GVM Corporation, Visakhapatnam - APPCB",PM10,21-10-2021 01:00,77,276,157
+36,India,Assam,Guwahati,"Railway Colony, Guwahati - APCB",PM10,21-10-2021 01:00,6,32,14
+48,India,Bihar,Gaya,"SFTI Kusdihra, Gaya - BSPCB",PM10,21-10-2021 01:00,30,60,42
+55,India,Bihar,Hajipur,"Industrial Area, Hajipur - BSPCB",PM10,21-10-2021 01:00,35,85,60
+62,India,Bihar,Muzaffarpur,"Buddha Colony, Muzaffarpur - BSPCB",PM10,21-10-2021 01:00,43,123,65
+74,India,Bihar,Patna,"DRM Office Danapur, Patna - BSPCB",PM10,21-10-2021 01:00,76,148,114
+81,India,Bihar,Patna,"Govt. High School Shikarpur, Patna - BSPCB",PM10,21-10-2021 01:00,32,108,77
+88,India,Bihar,Patna,"Muradpur, Patna - BSPCB",PM10,21-10-2021 01:00,57,136,111
+95,India,Bihar,Patna,"Rajbansi Nagar, Patna - BSPCB",PM10,21-10-2021 01:00,50,127,95
+102,India,Bihar,Patna,"Samanpura, Patna - BSPCB",PM10,21-10-2021 01:00,41,114,94
+109,India,Chandigarh,Chandigarh,"Sector 22, Chandigarh - CPCC",PM10,21-10-2021 01:00,95,173,120
+116,India,Chandigarh,Chandigarh,"Sector-25, Chandigarh - CPCC",PM10,21-10-2021 01:00,78,125,99
+123,India,Chhattisgarh,Bilaspur,"Mangala, Bilaspur - NTPC",PM10,21-10-2021 01:00,43,121,78
+128,India,Delhi,Delhi,"Alipur, Delhi - DPCC",PM10,21-10-2021 01:00,105,403,199
+135,India,Delhi,Delhi,"Anand Vihar, Delhi - DPCC",PM10,21-10-2021 01:00,NA,NA,NA
+142,India,Delhi,Delhi,"Ashok Vihar, Delhi - DPCC",PM10,21-10-2021 01:00,129,281,190
+149,India,Delhi,Delhi,"Aya Nagar, Delhi - IMD",PM10,21-10-2021 01:00,111,206,148
+154,India,Delhi,Delhi,"Bawana, Delhi - DPCC",PM10,21-10-2021 01:00,133,423,205
+161,India,Delhi,Delhi,"CRRI Mathura Road, Delhi - IMD",PM10,21-10-2021 01:00,104,237,152
+166,India,Delhi,Delhi,"Chandni Chowk, Delhi - IITM",PM10,21-10-2021 01:00,111,408,220
+173,India,Delhi,Delhi,"DTU, Delhi - CPCB",PM10,21-10-2021 01:00,113,261,164
+180,India,Delhi,Delhi,"Dr. Karni Singh Shooting Range, Delhi - DPCC",PM10,21-10-2021 01:00,131,281,173
+187,India,Delhi,Delhi,"Dwarka-Sector 8, Delhi - DPCC ",PM10,21-10-2021 01:00,175,500,293
+194,India,Delhi,Delhi,"IGI Airport (T3), Delhi - IMD",PM10,21-10-2021 01:00,120,220,156
+199,India,Delhi,Delhi,"IHBAS, Dilshad Garden, Delhi - CPCB",PM10,21-10-2021 01:00,133,180,153
+212,India,Delhi,Delhi,"Jahangirpuri, Delhi - DPCC",PM10,21-10-2021 01:00,NA,NA,NA
+217,India,Delhi,Delhi,"Jawaharlal Nehru Stadium, Delhi - DPCC",PM10,21-10-2021 01:00,127,213,160
+224,India,Delhi,Delhi,"Lodhi Road, Delhi - IITM",PM10,21-10-2021 01:00,71,137,109
+231,India,Delhi,Delhi,"Lodhi Road, Delhi - IMD",PM10,21-10-2021 01:00,106,192,145
+236,India,Delhi,Delhi,"Major Dhyan Chand National Stadium, Delhi - DPCC",PM10,21-10-2021 01:00,137,274,184
+243,India,Delhi,Delhi,"Mandir Marg, Delhi - DPCC",PM10,21-10-2021 01:00,108,216,152
+250,India,Delhi,Delhi,"Mundka, Delhi - DPCC",PM10,21-10-2021 01:00,144,489,268
+257,India,Delhi,Delhi,"NSIT Dwarka, Delhi - CPCB",PM10,21-10-2021 01:00,136,458,213
+264,India,Delhi,Delhi,"Najafgarh, Delhi - DPCC",PM10,21-10-2021 01:00,101,159,126
+271,India,Delhi,Delhi,"Narela, Delhi - DPCC",PM10,21-10-2021 01:00,127,235,178
+278,India,Delhi,Delhi,"Nehru Nagar, Delhi - DPCC",PM10,21-10-2021 01:00,123,500,183
+285,India,Delhi,Delhi,"North Campus, DU, Delhi - IMD",PM10,21-10-2021 01:00,106,194,147
+290,India,Delhi,Delhi,"Okhla Phase-2, Delhi - DPCC",PM10,21-10-2021 01:00,135,341,196
+297,India,Delhi,Delhi,"Patparganj, Delhi - DPCC",PM10,21-10-2021 01:00,120,274,170
+304,India,Delhi,Delhi,"Punjabi Bagh, Delhi - DPCC",PM10,21-10-2021 01:00,109,244,165
+311,India,Delhi,Delhi,"Pusa, Delhi - DPCC",PM10,21-10-2021 01:00,NA,NA,NA
+318,India,Delhi,Delhi,"Pusa, Delhi - IMD",PM10,21-10-2021 01:00,110,210,154
+323,India,Delhi,Delhi,"R K Puram, Delhi - DPCC",PM10,21-10-2021 01:00,120,221,155
+330,India,Delhi,Delhi,"Rohini, Delhi - DPCC",PM10,21-10-2021 01:00,119,422,220
+337,India,Delhi,Delhi,"Shadipur, Delhi - CPCB",PM10,21-10-2021 01:00,161,473,275
+344,India,Delhi,Delhi,"Sirifort, Delhi - CPCB",PM10,21-10-2021 01:00,119,342,191
+351,India,Delhi,Delhi,"Sonia Vihar, Delhi - DPCC",PM10,21-10-2021 01:00,121,413,240
+358,India,Delhi,Delhi,"Sri Aurobindo Marg, Delhi - DPCC",PM10,21-10-2021 01:00,97,185,124
+365,India,Delhi,Delhi,"Vivek Vihar, Delhi - DPCC",PM10,21-10-2021 01:00,133,250,178
+372,India,Delhi,Delhi,"Wazirpur, Delhi - DPCC",PM10,21-10-2021 01:00,172,419,260
+379,India,Gujarat,Ahmedabad,"Gyaspur, Ahmedabad - IITM",PM10,21-10-2021 01:00,86,242,134
+385,India,Gujarat,Ahmedabad,"Maninagar, Ahmedabad - GPCB",PM10,21-10-2021 01:00,82,436,184
+391,India,Gujarat,Ahmedabad,"Rakhial, Ahmedabad - IITM",PM10,21-10-2021 01:00,78,137,102
+395,India,Gujarat,Ahmedabad,"SAC ISRO Bopal, Ahmedabad - IITM",PM10,21-10-2021 01:00,57,138,97
+402,India,Gujarat,Ahmedabad,"SAC ISRO Satellite, Ahmedabad - IITM",PM10,21-10-2021 01:00,51,154,101
+409,India,Gujarat,Ahmedabad,"SVPI Airport Hansol, Ahmedabad - IITM",PM10,21-10-2021 01:00,79,247,135
+416,India,Gujarat,Ankleshwar,"GIDC, Ankleshwar - GPCB",PM10,21-10-2021 01:00,126,220,157
+423,India,Gujarat,Gandhinagar,"GIFT City, Gandhinagar - IITM",PM10,21-10-2021 01:00,32,148,84
+430,India,Gujarat,Gandhinagar,"IIPHG Lekawada, Gandhinagar - IITM",PM10,21-10-2021 01:00,83,145,109
+437,India,Gujarat,Gandhinagar,"Sector-10, Gandhinagar - GPCB",PM10,21-10-2021 01:00,57,130,100
+444,India,Gujarat,Nandesari,"GIDC, Nandesari - Nandesari Ind. Association",PM10,21-10-2021 01:00,29,114,53
+449,India,Gujarat,Vapi,"Phase-1 GIDC, Vapi - GPCB",PM10,21-10-2021 01:00,106,313,145
+454,India,Gujarat,Vatva,"Phase-4 GIDC, Vatva - GPCB",PM10,21-10-2021 01:00,52,248,121
+461,India,Haryana,Ambala,"Patti Mehar, Ambala - HSPCB",PM10,21-10-2021 01:00,117,377,204
+468,India,Haryana,Bahadurgarh,"Arya Nagar, Bahadurgarh - HSPCB",PM10,21-10-2021 01:00,105,180,144
+475,India,Haryana,Ballabgarh,"Nathu Colony, Ballabgarh - HSPCB",PM10,21-10-2021 01:00,117,500,240
+482,India,Haryana,Bhiwani,"H.B. Colony, Bhiwani - HSPCB",PM10,21-10-2021 01:00,96,283,120
+489,India,Haryana,Charkhi Dadri,"Mini Secretariat, Charkhi Dadri - HSPCB",PM10,21-10-2021 01:00,113,408,188
+496,India,Haryana,Dharuhera,"Municipal Corporation Office, Dharuhera -  HSPCB",PM10,21-10-2021 01:00,74,153,112
+503,India,Haryana,Faridabad,"New Industrial Town, Faridabad - HSPCB",PM10,21-10-2021 01:00,91,168,127
+510,India,Haryana,Faridabad,"Sector 11, Faridabad - HSPCB",PM10,21-10-2021 01:00,100,454,250
+517,India,Haryana,Faridabad,"Sector 30, Faridabad - HSPCB",PM10,21-10-2021 01:00,103,442,182
+529,India,Haryana,Fatehabad,"Huda Sector, Fatehabad - HSPCB",PM10,21-10-2021 01:00,117,167,145
+536,India,Haryana,Gurugram,"NISE Gwal Pahari, Gurugram - IMD",PM10,21-10-2021 01:00,129,179,150
+541,India,Haryana,Gurugram,"Sector-51, Gurugram - HSPCB",PM10,21-10-2021 01:00,147,500,246
+548,India,Haryana,Gurugram,"Teri Gram, Gurugram - HSPCB",PM10,21-10-2021 01:00,144,301,206
+560,India,Haryana,Hisar,"Urban Estate-II, Hisar - HSPCB",PM10,21-10-2021 01:00,102,185,137
+567,India,Haryana,Jind,"Police Lines, Jind - HSPCB",PM10,21-10-2021 01:00,123,227,159
+574,India,Haryana,Kaithal,"Rishi Nagar, Kaithal - HSPCB",PM10,21-10-2021 01:00,131,250,166
+581,India,Haryana,Karnal,"Sector-12, Karnal - HSPCB",PM10,21-10-2021 01:00,NA,NA,NA
+588,India,Haryana,Kurukshetra,"Sector-7, Kurukshetra - HSPCB",PM10,21-10-2021 01:00,135,305,205
+595,India,Haryana,Mandikhera,"General Hospital, Mandikhera - HSPCB",PM10,21-10-2021 01:00,57,116,86
+602,India,Haryana,Manesar,"Sector-2 IMT, Manesar - HSPCB",PM10,21-10-2021 01:00,120,203,147
+609,India,Haryana,Narnaul,"Shastri Nagar, Narnaul - HSPCB",PM10,21-10-2021 01:00,31,102,66
+616,India,Haryana,Palwal,"Shyam Nagar, Palwal - HSPCB",PM10,21-10-2021 01:00,58,62,60
+628,India,Haryana,Panipat,"Sector-18, Panipat - HSPCB",PM10,21-10-2021 01:00,155,500,240
+640,India,Haryana,Sirsa,"F-Block, Sirsa - HSPCB",PM10,21-10-2021 01:00,88,251,136
+647,India,Haryana,Sonipat,"Murthal, Sonipat - HSPCB",PM10,21-10-2021 01:00,184,341,257
+654,India,Haryana,Yamunanagar,"Gobind Pura, Yamuna Nagar - HSPCB",PM10,21-10-2021 01:00,37,236,167
+661,India,Jammu_&_Kashmir,Srinagar,"Rajbagh, Srinagar - JKSPCB",PM10,21-10-2021 01:00,27,467,122
+666,India,Jharkhand,Jorapokhar,"Tata Stadium, Jorapokhar - JSPCB",PM10,21-10-2021 01:00,NA,NA,NA
+670,India,Karnataka,Bagalkot,"Vidayagiri, Bagalkot - KSPCB",PM10,21-10-2021 01:00,39,74,51
+677,India,Karnataka,Bengaluru,"BWSSB Kadabesanahalli, Bengaluru - CPCB",PM10,21-10-2021 01:00,58,116,82
+684,India,Karnataka,Bengaluru,"Bapuji Nagar, Bengaluru - KSPCB",PM10,21-10-2021 01:00,46,144,101
+690,India,Karnataka,Bengaluru,"City Railway Station, Bengaluru - KSPCB",PM10,21-10-2021 01:00,40,105,77
+695,India,Karnataka,Bengaluru,"Hebbal, Bengaluru - KSPCB",PM10,21-10-2021 01:00,58,123,85
+702,India,Karnataka,Bengaluru,"Hombegowda Nagar, Bengaluru - KSPCB",PM10,21-10-2021 01:00,38,111,75
+709,India,Karnataka,Bengaluru,"Jayanagar 5th Block, Bengaluru - KSPCB",PM10,21-10-2021 01:00,29,120,74
+721,India,Karnataka,Bengaluru,"Sanegurava Halli, Bengaluru - KSPCB",PM10,21-10-2021 01:00,18,22,18
+726,India,Karnataka,Bengaluru,"Silk Board, Bengaluru - KSPCB",PM10,21-10-2021 01:00,34,143,84
+733,India,Karnataka,Chamarajanagar,"Urban, Chamarajanagar - KSPCB",PM10,21-10-2021 01:00,39,62,48
+740,India,Karnataka,Chikkaballapur,"Chikkaballapur Rural, Chikkaballapur - KSPCB",PM10,21-10-2021 01:00,27,100,55
+747,India,Karnataka,Chikkamagaluru,"Kalyana Nagara, Chikkamagaluru - KSPCB",PM10,21-10-2021 01:00,23,55,36
+754,India,Karnataka,Davanagere,"Devaraj Urs Badavane, Davanagere - KSPCB",PM10,21-10-2021 01:00,31,108,66
+761,India,Karnataka,Hassan,"B.Katihalli, Hassan - KSPCB",PM10,21-10-2021 01:00,10,122,64
+768,India,Karnataka,Hubballi,"Deshpande Nagar, Hubballi - KSPCB",PM10,21-10-2021 01:00,68,131,98
+774,India,Karnataka,Kalaburgi,"Lal Bahadur Shastri Nagar, Kalaburagi - KSPCB",PM10,21-10-2021 01:00,70,159,106
+780,India,Karnataka,Kolar,"Tamaka Ind. Area, Kolar - KSPCB",PM10,21-10-2021 01:00,18,125,57
+787,India,Karnataka,Koppal,"Diwator Nagar, Koppal - KSPCB",PM10,21-10-2021 01:00,22,64,38
+794,India,Karnataka,Manglore,"Kadri, Mangalore - KSPCB",PM10,21-10-2021 01:00,NA,NA,NA
+801,India,Karnataka,Medikeri,"Stuart Hill, Madikeri - KSPCB",PM10,21-10-2021 01:00,NA,NA,NA
+808,India,Karnataka,Mysuru,"Hebbal 1st Stage, Mysuru - KSPCB",PM10,21-10-2021 01:00,30,71,46
+815,India,Karnataka,Raichur,"Haji Colony, Raichur - KSPCB",PM10,21-10-2021 01:00,69,218,112
+822,India,Karnataka,Ramanagara,"Vijay Nagar, Ramanagara - KSPCB",PM10,21-10-2021 01:00,28,103,57
+829,India,Karnataka,Shivamogga,"Vinoba Nagara, Shivamogga - KSPCB",PM10,21-10-2021 01:00,32,46,38
+835,India,Karnataka,Udupi,"Brahmagiri, Udupi - KSPCB",PM10,21-10-2021 01:00,1,24,15
+842,India,Karnataka,Vijayapura,"Ibrahimpur, Vijayapura - KSPCB",PM10,21-10-2021 01:00,48,51,50
+849,India,Karnataka,Yadgir,"Collector Office, Yadgir - KSPCB",PM10,21-10-2021 01:00,65,102,74
+856,India,Kerala,Eloor,"Udyogamandal, Eloor - Kerala PCB",PM10,21-10-2021 01:00,NA,NA,NA
+863,India,Kerala,Ernakulam,"Kacheripady, Ernakulam - Kerala PCB",PM10,21-10-2021 01:00,NA,NA,NA
+869,India,Kerala,Kannur,"Thavakkara, Kannur - Kerala PCB",PM10,21-10-2021 01:00,31,127,69
+876,India,Kerala,Kochi,"Vyttila, Kochi - Kerala PCB",PM10,21-10-2021 01:00,24,53,40
+883,India,Kerala,Kollam,"Polayathode, Kollam - Kerala PCB",PM10,21-10-2021 01:00,NA,NA,NA
+889,India,Kerala,Kozhikode,"Palayam, Kozhikode - Kerala PCB",PM10,21-10-2021 01:00,36,111,54
+896,India,Kerala,Thiruvananthapuram,"Kariavattom, Thiruvananthapuram - Kerala PCB",PM10,21-10-2021 01:00,38,119,80
+903,India,Kerala,Thiruvananthapuram,"Plammoodu, Thiruvananthapuram - Kerala PCB",PM10,21-10-2021 01:00,10,104,46
+910,India,Madhya Pradesh,Bhopal,"T T Nagar, Bhopal - MPPCB",PM10,21-10-2021 01:00,78,173,122
+917,India,Madhya Pradesh,Damoh,"Shrivastav Colony, Damoh - MPPCB",PM10,21-10-2021 01:00,13,41,30
+921,India,Madhya Pradesh,Dewas,"Bhopal Chauraha, Dewas - MPPCB",PM10,21-10-2021 01:00,51,189,108
+928,India,Madhya Pradesh,Gwalior,"City Center, Gwalior - MPPCB",PM10,21-10-2021 01:00,76,184,116
+935,India,Madhya Pradesh,Gwalior,"Phool Bagh, Gwalior - Mondelez Ind. Food",PM10,21-10-2021 01:00,NA,NA,NA
+938,India,Madhya Pradesh,Indore,"Chhoti Gwaltoli, Indore - MPPCB",PM10,21-10-2021 01:00,57,417,178
+945,India,Madhya Pradesh,Jabalpur,"Marhatal, Jabalpur - MPPCB",PM10,21-10-2021 01:00,73,214,126
+952,India,Madhya Pradesh,Katni,"Gole Bazar, Katni - MPPCB",PM10,21-10-2021 01:00,70,374,161
+959,India,Madhya Pradesh,Mandideep,"Sector-D Industrial Area, Mandideep - MPPCB",PM10,21-10-2021 01:00,NA,NA,NA
+966,India,Madhya Pradesh,Pithampur,"Sector-2 Industrial Area, Pithampur - MPPCB",PM10,21-10-2021 01:00,65,133,92
+973,India,Madhya Pradesh,Ratlam,"Shasthri Nagar, Ratlam - IPCA Lab",PM10,21-10-2021 01:00,46,208,111
+977,India,Madhya Pradesh,Sagar,"Deen Dayal Nagar, Sagar - MPPCB",PM10,21-10-2021 01:00,NA,NA,NA
+982,India,Madhya Pradesh,Satna,"Bandhavgar Colony, Satna - Birla Cement",PM10,21-10-2021 01:00,47,90,64
+986,India,Madhya Pradesh,Singrauli,"Suryakiran Bhawan NCL, Singrauli - MPPCB",PM10,21-10-2021 01:00,50,320,126
+993,India,Madhya Pradesh,Ujjain,"Mahakaleshwar Temple, Ujjain - MPPCB",PM10,21-10-2021 01:00,61,216,131
+1000,India,Maharashtra,Aurangabad,"More Chowk Waluj, Aurangabad - MPCB",PM10,21-10-2021 01:00,56,107,85
+1007,India,Maharashtra,Chandrapur,"Chandrapur, Chandrapur - MPCB",PM10,21-10-2021 01:00,72,179,121
+1014,India,Maharashtra,Chandrapur,"MIDC Khutala, Chandrapur - MPCB",PM10,21-10-2021 01:00,76,144,107
+1021,India,Maharashtra,Kalyan,"Khadakpada, Kalyan - MPCB",PM10,21-10-2021 01:00,NA,NA,NA
+1027,India,Maharashtra,Mumbai,"Bandra Kurla Complex, Mumbai - IITM",PM10,21-10-2021 01:00,99,215,137
+1034,India,Maharashtra,Mumbai,"Bandra, Mumbai - MPCB",PM10,21-10-2021 01:00,91,117,102
+1039,India,Maharashtra,Mumbai,"Borivali East, Mumbai - IITM",PM10,21-10-2021 01:00,79,110,98
+1044,India,Maharashtra,Mumbai,"Borivali East, Mumbai - MPCB",PM10,21-10-2021 01:00,40,89,57
+1051,India,Maharashtra,Mumbai,"Chakala-Andheri East, Mumbai - IITM",PM10,21-10-2021 01:00,58,129,94
+1058,India,Maharashtra,Mumbai,"Chhatrapati Shivaji Intl. Airport (T2), Mumbai - MPCB",PM10,21-10-2021 01:00,107,156,125
+1070,India,Maharashtra,Mumbai,"Deonar, Mumbai - IITM",PM10,21-10-2021 01:00,71,135,101
+1077,India,Maharashtra,Mumbai,"Kandivali East, Mumbai - MPCB",PM10,21-10-2021 01:00,80,150,101
+1084,India,Maharashtra,Mumbai,"Khindipada-Bhandup West, Mumbai - IITM",PM10,21-10-2021 01:00,37,141,69
+1091,India,Maharashtra,Mumbai,"Mazgaon, Mumbai - IITM",PM10,21-10-2021 01:00,87,211,118
+1098,India,Maharashtra,Mumbai,"Mulund West, Mumbai - MPCB",PM10,21-10-2021 01:00,77,159,104
+1105,India,Maharashtra,Mumbai,"Powai, Mumbai - MPCB",PM10,21-10-2021 01:00,60,138,84
+1112,India,Maharashtra,Mumbai,"Siddharth Nagar-Worli, Mumbai - IITM",PM10,21-10-2021 01:00,39,106,55
+1117,India,Maharashtra,Mumbai,"Sion, Mumbai - MPCB",PM10,21-10-2021 01:00,93,173,116
+1129,India,Maharashtra,Mumbai,"Vile Parle West, Mumbai - MPCB",PM10,21-10-2021 01:00,93,160,115
+1141,India,Maharashtra,Nashik,"Gangapur Road, Nashik - MPCB",PM10,21-10-2021 01:00,37,114,67
+1148,India,Maharashtra,Navi Mumbai,"Mahape, Navi Mumbai - MPCB",PM10,21-10-2021 01:00,55,92,67
+1155,India,Maharashtra,Navi Mumbai,"Nerul, Navi Mumbai - MPCB",PM10,21-10-2021 01:00,99,159,124
+1161,India,Maharashtra,Navi Mumbai,"Sector-19A Nerul, Navi Mumbai - IITM",PM10,21-10-2021 01:00,62,218,110
+1168,India,Maharashtra,Pune,"Bhosari, Pune - IITM",PM10,21-10-2021 01:00,70,125,90
+1171,India,Maharashtra,Pune,"Hadapsar, Pune - IITM",PM10,21-10-2021 01:00,14,107,41
+1176,India,Maharashtra,Pune,"Karve Road, Pune - MPCB",PM10,21-10-2021 01:00,NA,NA,NA
+1182,India,Maharashtra,Pune,"MIT-Kothrud, Pune - IITM",PM10,21-10-2021 01:00,24,56,39
+1187,India,Maharashtra,Pune,"Revenue Colony-Shivajinagar, Pune - IITM",PM10,21-10-2021 01:00,57,160,102
+1192,India,Maharashtra,Thane,"Pimpleshwar Mandir, Thane - MPCB",PM10,21-10-2021 01:00,129,185,173
+1199,India,Meghalaya,Shillong,"Lumpyngngad, Shillong - Meghalaya PCB",PM10,21-10-2021 01:00,1,27,6
+1205,India,Mizoram,Aizawl,"Sikulpuikawn, Aizawl - Mizoram PCB",PM10,21-10-2021 01:00,NA,NA,NA
+1212,India,Nagaland,Kohima,"PWD Juction, Kohima - NPCB",PM10,21-10-2021 01:00,3,44,21
+1218,India,Odisha,Brajrajnagar,"GM Office, Brajrajnagar - OSPCB",PM10,21-10-2021 01:00,22,135,46
+1225,India,Odisha,Talcher,"Talcher Coalfields,Talcher - OSPCB",PM10,21-10-2021 01:00,21,117,70
+1232,India,Puducherry,Puducherry,"Jawahar Nagar, Puducherry - PPCC",PM10,21-10-2021 01:00,26,120,59
+1239,India,Punjab,Amritsar,"Golden Temple, Amritsar - PPCB",PM10,21-10-2021 01:00,74,201,152
+1246,India,Punjab,Bathinda,"Hardev Nagar, Bathinda - PPCB",PM10,21-10-2021 01:00,29,250,109
+1251,India,Punjab,Jalandhar,"Civil Line, Jalandhar - PPCB",PM10,21-10-2021 01:00,61,233,124
+1258,India,Punjab,Khanna,"Kalal Majra, Khanna - PPCB",PM10,21-10-2021 01:00,77,225,164
+1265,India,Punjab,Ludhiana,"Punjab Agricultural University, Ludhiana - PPCB",PM10,21-10-2021 01:00,77,167,134
+1272,India,Punjab,Mandi Gobindgarh,"RIMT University, Mandi Gobindgarh - PPCB",PM10,21-10-2021 01:00,31,408,154
+1279,India,Punjab,Patiala,"Model Town, Patiala - PPCB",PM10,21-10-2021 01:00,107,169,136
+1285,India,Punjab,Rupnagar,"Ratanpura, Rupnagar - Ambuja Cements",PM10,21-10-2021 01:00,52,169,111
+1290,India,Rajasthan,Ajmer,"Civil Lines,  Ajmer - RSPCB",PM10,21-10-2021 01:00,45,155,89
+1297,India,Rajasthan,Alwar,"Moti Doongri, Alwar - RSPCB",PM10,21-10-2021 01:00,59,98,75
+1304,India,Rajasthan,Bhiwadi,"RIICO Ind. Area III, Bhiwadi - RSPCB",PM10,21-10-2021 01:00,84,416,219
+1311,India,Rajasthan,Jaipur,"Adarsh Nagar, Jaipur - RSPCB",PM10,21-10-2021 01:00,87,204,124
+1318,India,Rajasthan,Jaipur,"Police Commissionerate, Jaipur - RSPCB",PM10,21-10-2021 01:00,109,266,162
+1325,India,Rajasthan,Jaipur,"Shastri Nagar, Jaipur - RSPCB",PM10,21-10-2021 01:00,87,224,116
+1332,India,Rajasthan,Jodhpur,"Collectorate, Jodhpur - RSPCB",PM10,21-10-2021 01:00,76,157,126
+1338,India,Rajasthan,Kota,"Shrinath Puram, Kota - RSPCB",PM10,21-10-2021 01:00,59,115,80
+1345,India,Rajasthan,Pali,"Indira Colony Vistar, Pali - RSPCB",PM10,21-10-2021 01:00,42,166,95
+1352,India,Rajasthan,Udaipur,"Ashok Nagar, Udaipur - RSPCB",PM10,21-10-2021 01:00,58,172,102
+1359,India,TamilNadu,Chennai,"Alandur Bus Depot, Chennai - CPCB",PM10,21-10-2021 01:00,54,87,74
+1366,India,TamilNadu,Chennai,"Arumbakkam, Chennai - TNPCB",PM10,21-10-2021 01:00,64,128,94
+1369,India,TamilNadu,Chennai,"Kodungaiyur, Chennai - TNPCB",PM10,21-10-2021 01:00,59,134,94
+1376,India,TamilNadu,Chennai,"Manali, Chennai - CPCB",PM10,21-10-2021 01:00,54,98,76
+1383,India,TamilNadu,Chennai,"Perungudi, Chennai - TNPCB",PM10,21-10-2021 01:00,63,126,78
+1390,India,TamilNadu,Chennai,"Royapuram, Chennai - TNPCB",PM10,21-10-2021 01:00,50,167,86
+1396,India,TamilNadu,Chennai,"Velachery Res. Area, Chennai - CPCB",PM10,21-10-2021 01:00,62,87,70
+1403,India,TamilNadu,Gummidipoondi,"Anthoni Pillai Nagar, Gummidipoondi - TNPCB",PM10,21-10-2021 01:00,75,242,134
+1407,India,TamilNadu,Thoothukudi,"Meelavittan, Thoothukudi - TNPCB",PM10,21-10-2021 01:00,18,66,36
+1413,India,Telangana,Hyderabad,"Bollaram Industrial Area, Hyderabad - TSPCB",PM10,21-10-2021 01:00,NA,NA,NA
+1420,India,Telangana,Hyderabad,"Central University, Hyderabad - TSPCB",PM10,21-10-2021 01:00,70,147,112
+1427,India,Telangana,Hyderabad,"ICRISAT Patancheru, Hyderabad - TSPCB",PM10,21-10-2021 01:00,70,156,118
+1434,India,Telangana,Hyderabad,"IDA Pashamylaram, Hyderabad - TSPCB",PM10,21-10-2021 01:00,126,158,146
+1446,India,Telangana,Hyderabad,"Zoo Park, Hyderabad - TSPCB",PM10,21-10-2021 01:00,80,153,122
+1453,India,Tripura,Agartala,"Kunjaban, Agartala - Tripura SPCB",PM10,21-10-2021 01:00,NA,NA,NA
+1460,India,Uttar_Pradesh,Agra,"Manoharpur, Agra - UPPCB",PM10,21-10-2021 01:00,104,302,156
+1467,India,Uttar_Pradesh,Agra,"Sanjay Palace, Agra - UPPCB",PM10,21-10-2021 01:00,151,464,247
+1473,India,Uttar_Pradesh,Agra,"Sector-3B Avas Vikas Colony, Agra - UPPCB",PM10,21-10-2021 01:00,122,477,224
+1480,India,Uttar_Pradesh,Agra,"Shahjahan Garden, Agra - UPPCB",PM10,21-10-2021 01:00,82,254,165
+1487,India,Uttar_Pradesh,Agra,"Shastripuram, Agra - UPPCB",PM10,21-10-2021 01:00,110,304,150
+1494,India,Uttar_Pradesh,Baghpat,"New Collectorate, Baghpat - UPPCB",PM10,21-10-2021 01:00,133,274,184
+1501,India,Uttar_Pradesh,Bulandshahr,"Yamunapuram, Bulandshahr - UPPCB",PM10,21-10-2021 01:00,117,242,165
+1508,India,Uttar_Pradesh,Firozabad,"Nagla Bhau, Firozabad - UPPCB",PM10,21-10-2021 01:00,103,346,139
+1515,India,Uttar_Pradesh,Ghaziabad,"Indirapuram, Ghaziabad - UPPCB",PM10,21-10-2021 01:00,141,487,232
+1522,India,Uttar_Pradesh,Ghaziabad,"Loni, Ghaziabad - UPPCB",PM10,21-10-2021 01:00,127,422,250
+1529,India,Uttar_Pradesh,Ghaziabad,"Sanjay Nagar, Ghaziabad - UPPCB",PM10,21-10-2021 01:00,145,466,290
+1536,India,Uttar_Pradesh,Ghaziabad,"Vasundhara, Ghaziabad - UPPCB",PM10,21-10-2021 01:00,152,406,239
+1543,India,Uttar_Pradesh,Gorakhpur,"Madan Mohan Malaviya University of Technology, Gorakhpur - UPPCB",PM10,21-10-2021 01:00,54,144,99
+1550,India,Uttar_Pradesh,Greater Noida,"Knowledge Park - III, Greater Noida - UPPCB",PM10,21-10-2021 01:00,147,500,229
+1557,India,Uttar_Pradesh,Greater Noida,"Knowledge Park - V, Greater Noida - UPPCB",PM10,21-10-2021 01:00,141,295,202
+1564,India,Uttar_Pradesh,Hapur,"Anand Vihar, Hapur - UPPCB",PM10,21-10-2021 01:00,108,303,194
+1571,India,Uttar_Pradesh,Kanpur,"FTI Kidwai Nagar, Kanpur - UPPCB",PM10,21-10-2021 01:00,39,78,57
+1581,India,Uttar_Pradesh,Kanpur,"NSI Kalyanpur, Kanpur - UPPCB",PM10,21-10-2021 01:00,47,92,65
+1588,India,Uttar_Pradesh,Kanpur,"Nehru Nagar, Kanpur - UPPCB",PM10,21-10-2021 01:00,107,384,191
+1593,India,Uttar_Pradesh,Lucknow,"B R Ambedkar University, Lucknow - UPPCB",PM10,21-10-2021 01:00,110,170,133
+1600,India,Uttar_Pradesh,Lucknow,"Central School, Lucknow - CPCB",PM10,21-10-2021 01:00,68,109,86
+1607,India,Uttar_Pradesh,Lucknow,"Gomti Nagar, Lucknow - UPPCB",PM10,21-10-2021 01:00,109,168,136
+1613,India,Uttar_Pradesh,Lucknow,"Kukrail Picnic Spot-1, Lucknow - UPPCB",PM10,21-10-2021 01:00,112,168,130
+1620,India,Uttar_Pradesh,Lucknow,"Lalbagh, Lucknow - CPCB",PM10,21-10-2021 01:00,128,181,153
+1627,India,Uttar_Pradesh,Lucknow,"Talkatora District Industries Center, Lucknow - CPCB",PM10,21-10-2021 01:00,117,288,179
+1634,India,Uttar_Pradesh,Meerut,"Ganga Nagar, Meerut - UPPCB",PM10,21-10-2021 01:00,146,281,204
+1640,India,Uttar_Pradesh,Meerut,"Jai Bhim Nagar, Meerut - UPPCB",PM10,21-10-2021 01:00,136,285,223
+1647,India,Uttar_Pradesh,Meerut,"Pallavpuram Phase 2, Meerut - UPPCB",PM10,21-10-2021 01:00,143,256,194
+1654,India,Uttar_Pradesh,Moradabad,"Lajpat Nagar, Moradabad - UPPCB",PM10,21-10-2021 01:00,130,352,229
+1661,India,Uttar_Pradesh,Muzaffarnagar,"New Mandi, Muzaffarnagar - UPPCB",PM10,21-10-2021 01:00,123,495,289
+1668,India,Uttar_Pradesh,Noida,"Sector - 125, Noida - UPPCB",PM10,21-10-2021 01:00,136,352,210
+1675,India,Uttar_Pradesh,Noida,"Sector - 62, Noida - IMD",PM10,21-10-2021 01:00,131,368,202
+1680,India,Uttar_Pradesh,Noida,"Sector-1, Noida - UPPCB",PM10,21-10-2021 01:00,152,377,215
+1687,India,Uttar_Pradesh,Noida,"Sector-116, Noida - UPPCB",PM10,21-10-2021 01:00,134,358,194
+1694,India,Uttar_Pradesh,Prayagraj,"Jhunsi, Prayagraj - UPPCB",PM10,21-10-2021 01:00,52,155,88
+1701,India,Uttar_Pradesh,Prayagraj,"Motilal Nehru NIT, Prayagraj - UPPCB",PM10,21-10-2021 01:00,55,121,73
+1708,India,Uttar_Pradesh,Prayagraj,"Nagar Nigam, Prayagraj - UPPCB",PM10,21-10-2021 01:00,40,112,70
+1715,India,Uttar_Pradesh,Varanasi,"Ardhali Bazar, Varanasi - UPPCB",PM10,21-10-2021 01:00,44,115,72
+1721,India,Uttar_Pradesh,Varanasi,"Bhelupur, Varanasi - UPPCB",PM10,21-10-2021 01:00,36,85,55
+1728,India,Uttar_Pradesh,Varanasi,"IESD Banaras Hindu University, Varanasi - UPPCB",PM10,21-10-2021 01:00,33,80,53
+1735,India,Uttar_Pradesh,Varanasi,"Maldahiya, Varanasi - UPPCB",PM10,21-10-2021 01:00,32,83,55
+1742,India,Uttar_Pradesh,Vrindavan,"Omex Eternity, Vrindavan - UPPCB",PM10,21-10-2021 01:00,110,450,219
+1749,India,West_Bengal,Asansol,"Asansol Court Area, Asansol - WBPCB",PM10,21-10-2021 01:00,NA,NA,NA
+1756,India,West_Bengal,Durgapur,"Sidhu Kanhu Indoor Stadium, Durgapur - WBPCB",PM10,21-10-2021 01:00,NA,NA,NA
+1761,India,West_Bengal,Haldia,"Haldia, Haldia - WBPCB",PM10,21-10-2021 01:00,21,114,63
+1768,India,West_Bengal,Howrah,"Belur Math, Howrah - WBPCB",PM10,21-10-2021 01:00,63,124,92
+1775,India,West_Bengal,Howrah,"Ghusuri, Howrah - WBPCB",PM10,21-10-2021 01:00,58,284,116
+1782,India,West_Bengal,Howrah,"Padmapukur, Howrah - WBPCB",PM10,21-10-2021 01:00,32,89,57
+1789,India,West_Bengal,Kolkata,"Ballygunge, Kolkata - WBPCB",PM10,21-10-2021 01:00,63,102,82
+1796,India,West_Bengal,Kolkata,"Bidhannagar, Kolkata - WBPCB",PM10,21-10-2021 01:00,60,114,91
+1803,India,West_Bengal,Kolkata,"Fort William, Kolkata - WBPCB",PM10,21-10-2021 01:00,NA,NA,NA
+1810,India,West_Bengal,Kolkata,"Jadavpur, Kolkata - WBPCB",PM10,21-10-2021 01:00,47,103,84
+1817,India,West_Bengal,Kolkata,"Rabindra Bharati University, Kolkata - WBPCB",PM10,21-10-2021 01:00,NA,NA,NA
+1824,India,West_Bengal,Kolkata,"Rabindra Sarobar, Kolkata - WBPCB",PM10,21-10-2021 01:00,50,91,74
+1831,India,West_Bengal,Kolkata,"Victoria, Kolkata - WBPCB",PM10,21-10-2021 01:00,36,101,74
+1,India,Andhra_Pradesh,Amaravati,"Secretariat, Amaravati - APPCB",PM2.5,21-10-2021 01:00,69,109,86
+8,India,Andhra_Pradesh,Rajamahendravaram,"Anand Kala Kshetram, Rajamahendravaram - APPCB",PM2.5,21-10-2021 01:00,47,111,71
+15,India,Andhra_Pradesh,Tirupati,"Tirumala, Tirupati - APPCB",PM2.5,21-10-2021 01:00,76,131,92
+22,India,Andhra_Pradesh,Visakhapatnam,"GVM Corporation, Visakhapatnam - APPCB",PM2.5,21-10-2021 01:00,78,312,202
+29,India,Assam,Guwahati,"Pan Bazaar, Guwahati - APCB",PM2.5,21-10-2021 01:00,1,31,11
+35,India,Assam,Guwahati,"Railway Colony, Guwahati - APCB",PM2.5,21-10-2021 01:00,2,38,11
+42,India,Bihar,Gaya,"Collectorate, Gaya - BSPCB",PM2.5,21-10-2021 01:00,52,282,101
+47,India,Bihar,Gaya,"SFTI Kusdihra, Gaya - BSPCB",PM2.5,21-10-2021 01:00,18,70,45
+54,India,Bihar,Hajipur,"Industrial Area, Hajipur - BSPCB",PM2.5,21-10-2021 01:00,35,131,83
+61,India,Bihar,Muzaffarpur,"Buddha Colony, Muzaffarpur - BSPCB",PM2.5,21-10-2021 01:00,34,95,51
+68,India,Bihar,Muzaffarpur,"Muzaffarpur Collectorate, Muzaffarpur - BSPCB",PM2.5,21-10-2021 01:00,10,474,77
+73,India,Bihar,Patna,"DRM Office Danapur, Patna - BSPCB",PM2.5,21-10-2021 01:00,35,76,55
+80,India,Bihar,Patna,"Govt. High School Shikarpur, Patna - BSPCB",PM2.5,21-10-2021 01:00,32,97,65
+87,India,Bihar,Patna,"Muradpur, Patna - BSPCB",PM2.5,21-10-2021 01:00,21,64,46
+94,India,Bihar,Patna,"Rajbansi Nagar, Patna - BSPCB",PM2.5,21-10-2021 01:00,51,144,84
+101,India,Bihar,Patna,"Samanpura, Patna - BSPCB",PM2.5,21-10-2021 01:00,61,166,107
+108,India,Chandigarh,Chandigarh,"Sector 22, Chandigarh - CPCC",PM2.5,21-10-2021 01:00,87,260,138
+115,India,Chandigarh,Chandigarh,"Sector-25, Chandigarh - CPCC",PM2.5,21-10-2021 01:00,51,86,66
+122,India,Chhattisgarh,Bilaspur,"Mangala, Bilaspur - NTPC",PM2.5,21-10-2021 01:00,31,162,61
+127,India,Delhi,Delhi,"Alipur, Delhi - DPCC",PM2.5,21-10-2021 01:00,88,315,223
+134,India,Delhi,Delhi,"Anand Vihar, Delhi - DPCC",PM2.5,21-10-2021 01:00,113,344,235
+141,India,Delhi,Delhi,"Ashok Vihar, Delhi - DPCC",PM2.5,21-10-2021 01:00,85,233,139
+148,India,Delhi,Delhi,"Aya Nagar, Delhi - IMD",PM2.5,21-10-2021 01:00,60,274,136
+153,India,Delhi,Delhi,"Bawana, Delhi - DPCC",PM2.5,21-10-2021 01:00,83,348,240
+160,India,Delhi,Delhi,"CRRI Mathura Road, Delhi - IMD",PM2.5,21-10-2021 01:00,54,321,177
+165,India,Delhi,Delhi,"Chandni Chowk, Delhi - IITM",PM2.5,21-10-2021 01:00,43,247,137
+172,India,Delhi,Delhi,"DTU, Delhi - CPCB",PM2.5,21-10-2021 01:00,86,336,199
+179,India,Delhi,Delhi,"Dr. Karni Singh Shooting Range, Delhi - DPCC",PM2.5,21-10-2021 01:00,70,303,174
+186,India,Delhi,Delhi,"Dwarka-Sector 8, Delhi - DPCC ",PM2.5,21-10-2021 01:00,67,333,208
+193,India,Delhi,Delhi,"IGI Airport (T3), Delhi - IMD",PM2.5,21-10-2021 01:00,14,96,49
+198,India,Delhi,Delhi,"IHBAS, Dilshad Garden, Delhi - CPCB",PM2.5,21-10-2021 01:00,66,367,280
+205,India,Delhi,Delhi,"ITO, Delhi - CPCB",PM2.5,21-10-2021 01:00,68,304,159
+211,India,Delhi,Delhi,"Jahangirpuri, Delhi - DPCC",PM2.5,21-10-2021 01:00,NA,NA,NA
+216,India,Delhi,Delhi,"Jawaharlal Nehru Stadium, Delhi - DPCC",PM2.5,21-10-2021 01:00,73,315,173
+223,India,Delhi,Delhi,"Lodhi Road, Delhi - IITM",PM2.5,21-10-2021 01:00,82,223,157
+230,India,Delhi,Delhi,"Lodhi Road, Delhi - IMD",PM2.5,21-10-2021 01:00,70,304,153
+235,India,Delhi,Delhi,"Major Dhyan Chand National Stadium, Delhi - DPCC",PM2.5,21-10-2021 01:00,73,308,170
+242,India,Delhi,Delhi,"Mandir Marg, Delhi - DPCC",PM2.5,21-10-2021 01:00,35,348,185
+249,India,Delhi,Delhi,"Mundka, Delhi - DPCC",PM2.5,21-10-2021 01:00,87,362,212
+256,India,Delhi,Delhi,"NSIT Dwarka, Delhi - CPCB",PM2.5,21-10-2021 01:00,193,396,297
+263,India,Delhi,Delhi,"Najafgarh, Delhi - DPCC",PM2.5,21-10-2021 01:00,55,273,136
+270,India,Delhi,Delhi,"Narela, Delhi - DPCC",PM2.5,21-10-2021 01:00,80,345,216
+277,India,Delhi,Delhi,"Nehru Nagar, Delhi - DPCC",PM2.5,21-10-2021 01:00,63,500,190
+284,India,Delhi,Delhi,"North Campus, DU, Delhi - IMD",PM2.5,21-10-2021 01:00,63,308,165
+289,India,Delhi,Delhi,"Okhla Phase-2, Delhi - DPCC",PM2.5,21-10-2021 01:00,60,312,164
+296,India,Delhi,Delhi,"Patparganj, Delhi - DPCC",PM2.5,21-10-2021 01:00,77,321,182
+303,India,Delhi,Delhi,"Punjabi Bagh, Delhi - DPCC",PM2.5,21-10-2021 01:00,85,348,201
+310,India,Delhi,Delhi,"Pusa, Delhi - DPCC",PM2.5,21-10-2021 01:00,95,324,201
+317,India,Delhi,Delhi,"Pusa, Delhi - IMD",PM2.5,21-10-2021 01:00,82,470,194
+322,India,Delhi,Delhi,"R K Puram, Delhi - DPCC",PM2.5,21-10-2021 01:00,23,147,65
+329,India,Delhi,Delhi,"Rohini, Delhi - DPCC",PM2.5,21-10-2021 01:00,87,318,195
+336,India,Delhi,Delhi,"Shadipur, Delhi - CPCB",PM2.5,21-10-2021 01:00,55,306,154
+343,India,Delhi,Delhi,"Sirifort, Delhi - CPCB",PM2.5,21-10-2021 01:00,70,309,165
+350,India,Delhi,Delhi,"Sonia Vihar, Delhi - DPCC",PM2.5,21-10-2021 01:00,93,323,205
+357,India,Delhi,Delhi,"Sri Aurobindo Marg, Delhi - DPCC",PM2.5,21-10-2021 01:00,67,217,132
+364,India,Delhi,Delhi,"Vivek Vihar, Delhi - DPCC",PM2.5,21-10-2021 01:00,NA,NA,NA
+371,India,Delhi,Delhi,"Wazirpur, Delhi - DPCC",PM2.5,21-10-2021 01:00,NA,NA,NA
+378,India,Gujarat,Ahmedabad,"Gyaspur, Ahmedabad - IITM",PM2.5,21-10-2021 01:00,76,339,179
+384,India,Gujarat,Ahmedabad,"Maninagar, Ahmedabad - GPCB",PM2.5,21-10-2021 01:00,40,347,141
+390,India,Gujarat,Ahmedabad,"Rakhial, Ahmedabad - IITM",PM2.5,21-10-2021 01:00,63,174,98
+394,India,Gujarat,Ahmedabad,"SAC ISRO Bopal, Ahmedabad - IITM",PM2.5,21-10-2021 01:00,54,248,129
+401,India,Gujarat,Ahmedabad,"SAC ISRO Satellite, Ahmedabad - IITM",PM2.5,21-10-2021 01:00,41,239,106
+408,India,Gujarat,Ahmedabad,"SVPI Airport Hansol, Ahmedabad - IITM",PM2.5,21-10-2021 01:00,71,318,157
+415,India,Gujarat,Ankleshwar,"GIDC, Ankleshwar - GPCB",PM2.5,21-10-2021 01:00,104,368,250
+422,India,Gujarat,Gandhinagar,"GIFT City, Gandhinagar - IITM",PM2.5,21-10-2021 01:00,30,204,73
+429,India,Gujarat,Gandhinagar,"IIPHG Lekawada, Gandhinagar - IITM",PM2.5,21-10-2021 01:00,73,314,189
+436,India,Gujarat,Gandhinagar,"Sector-10, Gandhinagar - GPCB",PM2.5,21-10-2021 01:00,44,88,69
+443,India,Gujarat,Nandesari,"GIDC, Nandesari - Nandesari Ind. Association",PM2.5,21-10-2021 01:00,32,187,68
+448,India,Gujarat,Vapi,"Phase-1 GIDC, Vapi - GPCB",PM2.5,21-10-2021 01:00,89,330,140
+453,India,Gujarat,Vatva,"Phase-4 GIDC, Vatva - GPCB",PM2.5,21-10-2021 01:00,38,288,116
+460,India,Haryana,Ambala,"Patti Mehar, Ambala - HSPCB",PM2.5,21-10-2021 01:00,70,306,179
+467,India,Haryana,Bahadurgarh,"Arya Nagar, Bahadurgarh - HSPCB",PM2.5,21-10-2021 01:00,113,304,228
+474,India,Haryana,Ballabgarh,"Nathu Colony, Ballabgarh - HSPCB",PM2.5,21-10-2021 01:00,53,403,309
+481,India,Haryana,Bhiwani,"H.B. Colony, Bhiwani - HSPCB",PM2.5,21-10-2021 01:00,69,195,108
+488,India,Haryana,Charkhi Dadri,"Mini Secretariat, Charkhi Dadri - HSPCB",PM2.5,21-10-2021 01:00,91,422,282
+495,India,Haryana,Dharuhera,"Municipal Corporation Office, Dharuhera -  HSPCB",PM2.5,21-10-2021 01:00,99,320,201
+502,India,Haryana,Faridabad,"New Industrial Town, Faridabad - HSPCB",PM2.5,21-10-2021 01:00,38,304,130
+509,India,Haryana,Faridabad,"Sector 11, Faridabad - HSPCB",PM2.5,21-10-2021 01:00,217,406,314
+516,India,Haryana,Faridabad,"Sector 30, Faridabad - HSPCB",PM2.5,21-10-2021 01:00,88,361,210
+523,India,Haryana,Faridabad,"Sector- 16A, Faridabad - HSPCB",PM2.5,21-10-2021 01:00,60,316,174
+528,India,Haryana,Fatehabad,"Huda Sector, Fatehabad - HSPCB",PM2.5,21-10-2021 01:00,74,209,121
+535,India,Haryana,Gurugram,"NISE Gwal Pahari, Gurugram - IMD",PM2.5,21-10-2021 01:00,81,236,162
+540,India,Haryana,Gurugram,"Sector-51, Gurugram - HSPCB",PM2.5,21-10-2021 01:00,3,500,142
+547,India,Haryana,Gurugram,"Teri Gram, Gurugram - HSPCB",PM2.5,21-10-2021 01:00,200,314,265
+554,India,Haryana,Gurugram,"Vikas Sadan, Gurugram - HSPCB",PM2.5,21-10-2021 01:00,NA,NA,NA
+559,India,Haryana,Hisar,"Urban Estate-II, Hisar - HSPCB",PM2.5,21-10-2021 01:00,70,266,143
+566,India,Haryana,Jind,"Police Lines, Jind - HSPCB",PM2.5,21-10-2021 01:00,111,309,210
+573,India,Haryana,Kaithal,"Rishi Nagar, Kaithal - HSPCB",PM2.5,21-10-2021 01:00,146,344,215
+580,India,Haryana,Karnal,"Sector-12, Karnal - HSPCB",PM2.5,21-10-2021 01:00,109,329,182
+587,India,Haryana,Kurukshetra,"Sector-7, Kurukshetra - HSPCB",PM2.5,21-10-2021 01:00,126,350,277
+594,India,Haryana,Mandikhera,"General Hospital, Mandikhera - HSPCB",PM2.5,21-10-2021 01:00,77,218,129
+601,India,Haryana,Manesar,"Sector-2 IMT, Manesar - HSPCB",PM2.5,21-10-2021 01:00,155,327,247
+608,India,Haryana,Narnaul,"Shastri Nagar, Narnaul - HSPCB",PM2.5,21-10-2021 01:00,32,114,69
+615,India,Haryana,Palwal,"Shyam Nagar, Palwal - HSPCB",PM2.5,21-10-2021 01:00,49,51,50
+622,India,Haryana,Panchkula,"Sector-6, Panchkula - HSPCB ",PM2.5,21-10-2021 01:00,95,219,151
+627,India,Haryana,Panipat,"Sector-18, Panipat - HSPCB",PM2.5,21-10-2021 01:00,85,326,167
+634,India,Haryana,Rohtak,"MD University, Rohtak - HSPCB",PM2.5,21-10-2021 01:00,85,311,212
+639,India,Haryana,Sirsa,"F-Block, Sirsa - HSPCB",PM2.5,21-10-2021 01:00,54,298,138
+646,India,Haryana,Sonipat,"Murthal, Sonipat - HSPCB",PM2.5,21-10-2021 01:00,67,164,106
+653,India,Haryana,Yamunanagar,"Gobind Pura, Yamuna Nagar - HSPCB",PM2.5,21-10-2021 01:00,40,330,226
+660,India,Jammu_&_Kashmir,Srinagar,"Rajbagh, Srinagar - JKSPCB",PM2.5,21-10-2021 01:00,4,53,35
+669,India,Karnataka,Bagalkot,"Vidayagiri, Bagalkot - KSPCB",PM2.5,21-10-2021 01:00,42,86,58
+676,India,Karnataka,Bengaluru,"BWSSB Kadabesanahalli, Bengaluru - CPCB",PM2.5,21-10-2021 01:00,28,34,33
+683,India,Karnataka,Bengaluru,"Bapuji Nagar, Bengaluru - KSPCB",PM2.5,21-10-2021 01:00,42,198,109
+694,India,Karnataka,Bengaluru,"Hebbal, Bengaluru - KSPCB",PM2.5,21-10-2021 01:00,36,108,59
+701,India,Karnataka,Bengaluru,"Hombegowda Nagar, Bengaluru - KSPCB",PM2.5,21-10-2021 01:00,30,66,47
+708,India,Karnataka,Bengaluru,"Jayanagar 5th Block, Bengaluru - KSPCB",PM2.5,21-10-2021 01:00,20,97,63
+715,India,Karnataka,Bengaluru,"Peenya, Bengaluru - CPCB",PM2.5,21-10-2021 01:00,38,234,111
+725,India,Karnataka,Bengaluru,"Silk Board, Bengaluru - KSPCB",PM2.5,21-10-2021 01:00,18,87,47
+732,India,Karnataka,Chamarajanagar,"Urban, Chamarajanagar - KSPCB",PM2.5,21-10-2021 01:00,17,78,45
+739,India,Karnataka,Chikkaballapur,"Chikkaballapur Rural, Chikkaballapur - KSPCB",PM2.5,21-10-2021 01:00,23,83,51
+746,India,Karnataka,Chikkamagaluru,"Kalyana Nagara, Chikkamagaluru - KSPCB",PM2.5,21-10-2021 01:00,14,64,33
+753,India,Karnataka,Davanagere,"Devaraj Urs Badavane, Davanagere - KSPCB",PM2.5,21-10-2021 01:00,37,83,57
+760,India,Karnataka,Hassan,"B.Katihalli, Hassan - KSPCB",PM2.5,21-10-2021 01:00,15,92,54
+767,India,Karnataka,Hubballi,"Deshpande Nagar, Hubballi - KSPCB",PM2.5,21-10-2021 01:00,53,98,69
+779,India,Karnataka,Kolar,"Tamaka Ind. Area, Kolar - KSPCB",PM2.5,21-10-2021 01:00,17,73,51
+786,India,Karnataka,Koppal,"Diwator Nagar, Koppal - KSPCB",PM2.5,21-10-2021 01:00,16,52,29
+793,India,Karnataka,Manglore,"Kadri, Mangalore - KSPCB",PM2.5,21-10-2021 01:00,7,65,39
+800,India,Karnataka,Medikeri,"Stuart Hill, Madikeri - KSPCB",PM2.5,21-10-2021 01:00,3,32,17
+807,India,Karnataka,Mysuru,"Hebbal 1st Stage, Mysuru - KSPCB",PM2.5,21-10-2021 01:00,11,53,29
+814,India,Karnataka,Raichur,"Haji Colony, Raichur - KSPCB",PM2.5,21-10-2021 01:00,49,118,70
+821,India,Karnataka,Ramanagara,"Vijay Nagar, Ramanagara - KSPCB",PM2.5,21-10-2021 01:00,17,78,47
+828,India,Karnataka,Shivamogga,"Vinoba Nagara, Shivamogga - KSPCB",PM2.5,21-10-2021 01:00,21,38,29
+841,India,Karnataka,Vijayapura,"Ibrahimpur, Vijayapura - KSPCB",PM2.5,21-10-2021 01:00,30,70,50
+848,India,Karnataka,Yadgir,"Collector Office, Yadgir - KSPCB",PM2.5,21-10-2021 01:00,38,77,48
+855,India,Kerala,Eloor,"Udyogamandal, Eloor - Kerala PCB",PM2.5,21-10-2021 01:00,NA,NA,NA
+862,India,Kerala,Ernakulam,"Kacheripady, Ernakulam - Kerala PCB",PM2.5,21-10-2021 01:00,NA,NA,NA
+868,India,Kerala,Kannur,"Thavakkara, Kannur - Kerala PCB",PM2.5,21-10-2021 01:00,4,64,32
+875,India,Kerala,Kochi,"Vyttila, Kochi - Kerala PCB",PM2.5,21-10-2021 01:00,17,55,27
+882,India,Kerala,Kollam,"Polayathode, Kollam - Kerala PCB",PM2.5,21-10-2021 01:00,NA,NA,NA
+888,India,Kerala,Kozhikode,"Palayam, Kozhikode - Kerala PCB",PM2.5,21-10-2021 01:00,26,78,39
+895,India,Kerala,Thiruvananthapuram,"Kariavattom, Thiruvananthapuram - Kerala PCB",PM2.5,21-10-2021 01:00,22,77,52
+902,India,Kerala,Thiruvananthapuram,"Plammoodu, Thiruvananthapuram - Kerala PCB",PM2.5,21-10-2021 01:00,2,80,32
+909,India,Madhya Pradesh,Bhopal,"T T Nagar, Bhopal - MPPCB",PM2.5,21-10-2021 01:00,39,132,75
+916,India,Madhya Pradesh,Damoh,"Shrivastav Colony, Damoh - MPPCB",PM2.5,21-10-2021 01:00,17,58,43
+920,India,Madhya Pradesh,Dewas,"Bhopal Chauraha, Dewas - MPPCB",PM2.5,21-10-2021 01:00,36,282,121
+927,India,Madhya Pradesh,Gwalior,"City Center, Gwalior - MPPCB",PM2.5,21-10-2021 01:00,37,228,80
+934,India,Madhya Pradesh,Gwalior,"Phool Bagh, Gwalior - Mondelez Ind. Food",PM2.5,21-10-2021 01:00,NA,NA,NA
+937,India,Madhya Pradesh,Indore,"Chhoti Gwaltoli, Indore - MPPCB",PM2.5,21-10-2021 01:00,31,335,161
+944,India,Madhya Pradesh,Jabalpur,"Marhatal, Jabalpur - MPPCB",PM2.5,21-10-2021 01:00,42,220,97
+951,India,Madhya Pradesh,Katni,"Gole Bazar, Katni - MPPCB",PM2.5,21-10-2021 01:00,17,192,76
+958,India,Madhya Pradesh,Mandideep,"Sector-D Industrial Area, Mandideep - MPPCB",PM2.5,21-10-2021 01:00,NA,NA,NA
+965,India,Madhya Pradesh,Pithampur,"Sector-2 Industrial Area, Pithampur - MPPCB",PM2.5,21-10-2021 01:00,41,302,104
+972,India,Madhya Pradesh,Ratlam,"Shasthri Nagar, Ratlam - IPCA Lab",PM2.5,21-10-2021 01:00,11,155,91
+976,India,Madhya Pradesh,Sagar,"Deen Dayal Nagar, Sagar - MPPCB",PM2.5,21-10-2021 01:00,11,67,38
+981,India,Madhya Pradesh,Satna,"Bandhavgar Colony, Satna - Birla Cement",PM2.5,21-10-2021 01:00,29,53,33
+985,India,Madhya Pradesh,Singrauli,"Suryakiran Bhawan NCL, Singrauli - MPPCB",PM2.5,21-10-2021 01:00,29,268,87
+992,India,Madhya Pradesh,Ujjain,"Mahakaleshwar Temple, Ujjain - MPPCB",PM2.5,21-10-2021 01:00,22,150,56
+999,India,Maharashtra,Aurangabad,"More Chowk Waluj, Aurangabad - MPCB",PM2.5,21-10-2021 01:00,9,79,35
+1006,India,Maharashtra,Chandrapur,"Chandrapur, Chandrapur - MPCB",PM2.5,21-10-2021 01:00,42,179,88
+1013,India,Maharashtra,Chandrapur,"MIDC Khutala, Chandrapur - MPCB",PM2.5,21-10-2021 01:00,55,222,103
+1020,India,Maharashtra,Kalyan,"Khadakpada, Kalyan - MPCB",PM2.5,21-10-2021 01:00,NA,NA,NA
+1026,India,Maharashtra,Mumbai,"Bandra Kurla Complex, Mumbai - IITM",PM2.5,21-10-2021 01:00,84,310,161
+1033,India,Maharashtra,Mumbai,"Bandra, Mumbai - MPCB",PM2.5,21-10-2021 01:00,63,63,63
+1038,India,Maharashtra,Mumbai,"Borivali East, Mumbai - IITM",PM2.5,21-10-2021 01:00,25,61,40
+1043,India,Maharashtra,Mumbai,"Borivali East, Mumbai - MPCB",PM2.5,21-10-2021 01:00,29,71,43
+1050,India,Maharashtra,Mumbai,"Chakala-Andheri East, Mumbai - IITM",PM2.5,21-10-2021 01:00,44,124,77
+1057,India,Maharashtra,Mumbai,"Chhatrapati Shivaji Intl. Airport (T2), Mumbai - MPCB",PM2.5,21-10-2021 01:00,44,90,60
+1064,India,Maharashtra,Mumbai,"Colaba, Mumbai - MPCB",PM2.5,21-10-2021 01:00,40,117,60
+1069,India,Maharashtra,Mumbai,"Deonar, Mumbai - IITM",PM2.5,21-10-2021 01:00,56,164,92
+1076,India,Maharashtra,Mumbai,"Kandivali East, Mumbai - MPCB",PM2.5,21-10-2021 01:00,31,90,59
+1083,India,Maharashtra,Mumbai,"Khindipada-Bhandup West, Mumbai - IITM",PM2.5,21-10-2021 01:00,32,196,66
+1090,India,Maharashtra,Mumbai,"Mazgaon, Mumbai - IITM",PM2.5,21-10-2021 01:00,126,347,187
+1097,India,Maharashtra,Mumbai,"Mulund West, Mumbai - MPCB",PM2.5,21-10-2021 01:00,46,151,82
+1104,India,Maharashtra,Mumbai,"Powai, Mumbai - MPCB",PM2.5,21-10-2021 01:00,47,156,71
+1111,India,Maharashtra,Mumbai,"Siddharth Nagar-Worli, Mumbai - IITM",PM2.5,21-10-2021 01:00,40,124,58
+1116,India,Maharashtra,Mumbai,"Sion, Mumbai - MPCB",PM2.5,21-10-2021 01:00,43,95,64
+1123,India,Maharashtra,Mumbai,"Vasai West, Mumbai - MPCB",PM2.5,21-10-2021 01:00,41,77,61
+1128,India,Maharashtra,Mumbai,"Vile Parle West, Mumbai - MPCB",PM2.5,21-10-2021 01:00,46,121,70
+1134,India,Maharashtra,Mumbai,"Worli, Mumbai - MPCB",PM2.5,21-10-2021 01:00,43,73,56
+1140,India,Maharashtra,Nashik,"Gangapur Road, Nashik - MPCB",PM2.5,21-10-2021 01:00,36,82,59
+1147,India,Maharashtra,Navi Mumbai,"Mahape, Navi Mumbai - MPCB",PM2.5,21-10-2021 01:00,53,149,85
+1154,India,Maharashtra,Navi Mumbai,"Nerul, Navi Mumbai - MPCB",PM2.5,21-10-2021 01:00,50,187,102
+1160,India,Maharashtra,Navi Mumbai,"Sector-19A Nerul, Navi Mumbai - IITM",PM2.5,21-10-2021 01:00,29,115,68
+1167,India,Maharashtra,Pune,"Bhosari, Pune - IITM",PM2.5,21-10-2021 01:00,68,162,93
+1170,India,Maharashtra,Pune,"Hadapsar, Pune - IITM",PM2.5,21-10-2021 01:00,19,136,47
+1175,India,Maharashtra,Pune,"Karve Road, Pune - MPCB",PM2.5,21-10-2021 01:00,NA,NA,NA
+1181,India,Maharashtra,Pune,"MIT-Kothrud, Pune - IITM",PM2.5,21-10-2021 01:00,28,62,45
+1186,India,Maharashtra,Pune,"Revenue Colony-Shivajinagar, Pune - IITM",PM2.5,21-10-2021 01:00,61,301,141
+1198,India,Meghalaya,Shillong,"Lumpyngngad, Shillong - Meghalaya PCB",PM2.5,21-10-2021 01:00,NA,NA,NA
+1204,India,Mizoram,Aizawl,"Sikulpuikawn, Aizawl - Mizoram PCB",PM2.5,21-10-2021 01:00,NA,NA,NA
+1211,India,Nagaland,Kohima,"PWD Juction, Kohima - NPCB",PM2.5,21-10-2021 01:00,3,60,26
+1224,India,Odisha,Talcher,"Talcher Coalfields,Talcher - OSPCB",PM2.5,21-10-2021 01:00,8,171,84
+1231,India,Puducherry,Puducherry,"Jawahar Nagar, Puducherry - PPCC",PM2.5,21-10-2021 01:00,31,208,63
+1238,India,Punjab,Amritsar,"Golden Temple, Amritsar - PPCB",PM2.5,21-10-2021 01:00,21,286,162
+1245,India,Punjab,Bathinda,"Hardev Nagar, Bathinda - PPCB",PM2.5,21-10-2021 01:00,31,83,56
+1250,India,Punjab,Jalandhar,"Civil Line, Jalandhar - PPCB",PM2.5,21-10-2021 01:00,74,341,206
+1257,India,Punjab,Khanna,"Kalal Majra, Khanna - PPCB",PM2.5,21-10-2021 01:00,57,320,241
+1264,India,Punjab,Ludhiana,"Punjab Agricultural University, Ludhiana - PPCB",PM2.5,21-10-2021 01:00,50,239,152
+1271,India,Punjab,Mandi Gobindgarh,"RIMT University, Mandi Gobindgarh - PPCB",PM2.5,21-10-2021 01:00,21,371,163
+1278,India,Punjab,Patiala,"Model Town, Patiala - PPCB",PM2.5,21-10-2021 01:00,63,187,136
+1289,India,Rajasthan,Ajmer,"Civil Lines,  Ajmer - RSPCB",PM2.5,21-10-2021 01:00,38,327,131
+1296,India,Rajasthan,Alwar,"Moti Doongri, Alwar - RSPCB",PM2.5,21-10-2021 01:00,50,89,65
+1303,India,Rajasthan,Bhiwadi,"RIICO Ind. Area III, Bhiwadi - RSPCB",PM2.5,21-10-2021 01:00,24,360,223
+1310,India,Rajasthan,Jaipur,"Adarsh Nagar, Jaipur - RSPCB",PM2.5,21-10-2021 01:00,49,328,133
+1317,India,Rajasthan,Jaipur,"Police Commissionerate, Jaipur - RSPCB",PM2.5,21-10-2021 01:00,72,332,192
+1324,India,Rajasthan,Jaipur,"Shastri Nagar, Jaipur - RSPCB",PM2.5,21-10-2021 01:00,44,291,98
+1331,India,Rajasthan,Jodhpur,"Collectorate, Jodhpur - RSPCB",PM2.5,21-10-2021 01:00,50,281,132
+1337,India,Rajasthan,Kota,"Shrinath Puram, Kota - RSPCB",PM2.5,21-10-2021 01:00,53,141,75
+1344,India,Rajasthan,Pali,"Indira Colony Vistar, Pali - RSPCB",PM2.5,21-10-2021 01:00,9,277,111
+1351,India,Rajasthan,Udaipur,"Ashok Nagar, Udaipur - RSPCB",PM2.5,21-10-2021 01:00,57,196,94
+1358,India,TamilNadu,Chennai,"Alandur Bus Depot, Chennai - CPCB",PM2.5,21-10-2021 01:00,45,72,62
+1365,India,TamilNadu,Chennai,"Arumbakkam, Chennai - TNPCB",PM2.5,21-10-2021 01:00,52,148,84
+1368,India,TamilNadu,Chennai,"Kodungaiyur, Chennai - TNPCB",PM2.5,21-10-2021 01:00,86,175,117
+1375,India,TamilNadu,Chennai,"Manali, Chennai - CPCB",PM2.5,21-10-2021 01:00,40,91,65
+1382,India,TamilNadu,Chennai,"Perungudi, Chennai - TNPCB",PM2.5,21-10-2021 01:00,48,94,65
+1389,India,TamilNadu,Chennai,"Royapuram, Chennai - TNPCB",PM2.5,21-10-2021 01:00,45,148,75
+1395,India,TamilNadu,Chennai,"Velachery Res. Area, Chennai - CPCB",PM2.5,21-10-2021 01:00,11,65,32
+1402,India,TamilNadu,Gummidipoondi,"Anthoni Pillai Nagar, Gummidipoondi - TNPCB",PM2.5,21-10-2021 01:00,70,321,166
+1412,India,Telangana,Hyderabad,"Bollaram Industrial Area, Hyderabad - TSPCB",PM2.5,21-10-2021 01:00,NA,NA,NA
+1419,India,Telangana,Hyderabad,"Central University, Hyderabad - TSPCB",PM2.5,21-10-2021 01:00,43,128,83
+1426,India,Telangana,Hyderabad,"ICRISAT Patancheru, Hyderabad - TSPCB",PM2.5,21-10-2021 01:00,47,179,106
+1433,India,Telangana,Hyderabad,"IDA Pashamylaram, Hyderabad - TSPCB",PM2.5,21-10-2021 01:00,71,185,138
+1440,India,Telangana,Hyderabad,"Sanathnagar, Hyderabad - TSPCB",PM2.5,21-10-2021 01:00,58,238,141
+1445,India,Telangana,Hyderabad,"Zoo Park, Hyderabad - TSPCB",PM2.5,21-10-2021 01:00,68,178,124
+1452,India,Tripura,Agartala,"Kunjaban, Agartala - Tripura SPCB",PM2.5,21-10-2021 01:00,NA,NA,NA
+1459,India,Uttar_Pradesh,Agra,"Manoharpur, Agra - UPPCB",PM2.5,21-10-2021 01:00,44,346,180
+1466,India,Uttar_Pradesh,Agra,"Sanjay Palace, Agra - UPPCB",PM2.5,21-10-2021 01:00,48,386,199
+1472,India,Uttar_Pradesh,Agra,"Sector-3B Avas Vikas Colony, Agra - UPPCB",PM2.5,21-10-2021 01:00,68,459,240
+1479,India,Uttar_Pradesh,Agra,"Shahjahan Garden, Agra - UPPCB",PM2.5,21-10-2021 01:00,62,314,189
+1486,India,Uttar_Pradesh,Agra,"Shastripuram, Agra - UPPCB",PM2.5,21-10-2021 01:00,58,347,179
+1493,India,Uttar_Pradesh,Baghpat,"New Collectorate, Baghpat - UPPCB",PM2.5,21-10-2021 01:00,84,310,204
+1500,India,Uttar_Pradesh,Bulandshahr,"Yamunapuram, Bulandshahr - UPPCB",PM2.5,21-10-2021 01:00,74,316,218
+1507,India,Uttar_Pradesh,Firozabad,"Nagla Bhau, Firozabad - UPPCB",PM2.5,21-10-2021 01:00,65,353,173
+1514,India,Uttar_Pradesh,Ghaziabad,"Indirapuram, Ghaziabad - UPPCB",PM2.5,21-10-2021 01:00,87,393,195
+1521,India,Uttar_Pradesh,Ghaziabad,"Loni, Ghaziabad - UPPCB",PM2.5,21-10-2021 01:00,118,433,270
+1528,India,Uttar_Pradesh,Ghaziabad,"Sanjay Nagar, Ghaziabad - UPPCB",PM2.5,21-10-2021 01:00,90,363,259
+1535,India,Uttar_Pradesh,Ghaziabad,"Vasundhara, Ghaziabad - UPPCB",PM2.5,21-10-2021 01:00,102,335,215
+1542,India,Uttar_Pradesh,Gorakhpur,"Madan Mohan Malaviya University of Technology, Gorakhpur - UPPCB",PM2.5,21-10-2021 01:00,42,270,132
+1549,India,Uttar_Pradesh,Greater Noida,"Knowledge Park - III, Greater Noida - UPPCB",PM2.5,21-10-2021 01:00,NA,NA,NA
+1556,India,Uttar_Pradesh,Greater Noida,"Knowledge Park - V, Greater Noida - UPPCB",PM2.5,21-10-2021 01:00,65,308,178
+1563,India,Uttar_Pradesh,Hapur,"Anand Vihar, Hapur - UPPCB",PM2.5,21-10-2021 01:00,90,361,236
+1570,India,Uttar_Pradesh,Kanpur,"FTI Kidwai Nagar, Kanpur - UPPCB",PM2.5,21-10-2021 01:00,49,92,70
+1577,India,Uttar_Pradesh,Kanpur,"IITK, Kanpur - IITK",PM2.5,21-10-2021 01:00,31,244,107
+1580,India,Uttar_Pradesh,Kanpur,"NSI Kalyanpur, Kanpur - UPPCB",PM2.5,21-10-2021 01:00,72,151,94
+1587,India,Uttar_Pradesh,Kanpur,"Nehru Nagar, Kanpur - UPPCB",PM2.5,21-10-2021 01:00,92,378,229
+1592,India,Uttar_Pradesh,Lucknow,"B R Ambedkar University, Lucknow - UPPCB",PM2.5,21-10-2021 01:00,64,144,93
+1599,India,Uttar_Pradesh,Lucknow,"Central School, Lucknow - CPCB",PM2.5,21-10-2021 01:00,86,214,128
+1606,India,Uttar_Pradesh,Lucknow,"Gomti Nagar, Lucknow - UPPCB",PM2.5,21-10-2021 01:00,102,317,240
+1612,India,Uttar_Pradesh,Lucknow,"Kukrail Picnic Spot-1, Lucknow - UPPCB",PM2.5,21-10-2021 01:00,121,272,169
+1619,India,Uttar_Pradesh,Lucknow,"Lalbagh, Lucknow - CPCB",PM2.5,21-10-2021 01:00,82,209,153
+1626,India,Uttar_Pradesh,Lucknow,"Talkatora District Industries Center, Lucknow - CPCB",PM2.5,21-10-2021 01:00,18,287,145
+1633,India,Uttar_Pradesh,Meerut,"Ganga Nagar, Meerut - UPPCB",PM2.5,21-10-2021 01:00,115,340,250
+1639,India,Uttar_Pradesh,Meerut,"Jai Bhim Nagar, Meerut - UPPCB",PM2.5,21-10-2021 01:00,105,330,258
+1646,India,Uttar_Pradesh,Meerut,"Pallavpuram Phase 2, Meerut - UPPCB",PM2.5,21-10-2021 01:00,153,362,280
+1653,India,Uttar_Pradesh,Moradabad,"Lajpat Nagar, Moradabad - UPPCB",PM2.5,21-10-2021 01:00,182,392,308
+1660,India,Uttar_Pradesh,Muzaffarnagar,"New Mandi, Muzaffarnagar - UPPCB",PM2.5,21-10-2021 01:00,93,469,284
+1667,India,Uttar_Pradesh,Noida,"Sector - 125, Noida - UPPCB",PM2.5,21-10-2021 01:00,55,324,176
+1674,India,Uttar_Pradesh,Noida,"Sector - 62, Noida - IMD",PM2.5,21-10-2021 01:00,73,313,158
+1679,India,Uttar_Pradesh,Noida,"Sector-1, Noida - UPPCB",PM2.5,21-10-2021 01:00,72,322,176
+1686,India,Uttar_Pradesh,Noida,"Sector-116, Noida - UPPCB",PM2.5,21-10-2021 01:00,65,315,170
+1693,India,Uttar_Pradesh,Prayagraj,"Jhunsi, Prayagraj - UPPCB",PM2.5,21-10-2021 01:00,49,301,91
+1700,India,Uttar_Pradesh,Prayagraj,"Motilal Nehru NIT, Prayagraj - UPPCB",PM2.5,21-10-2021 01:00,41,101,58
+1707,India,Uttar_Pradesh,Prayagraj,"Nagar Nigam, Prayagraj - UPPCB",PM2.5,21-10-2021 01:00,53,218,90
+1714,India,Uttar_Pradesh,Varanasi,"Ardhali Bazar, Varanasi - UPPCB",PM2.5,21-10-2021 01:00,41,88,57
+1720,India,Uttar_Pradesh,Varanasi,"Bhelupur, Varanasi - UPPCB",PM2.5,21-10-2021 01:00,28,70,44
+1727,India,Uttar_Pradesh,Varanasi,"IESD Banaras Hindu University, Varanasi - UPPCB",PM2.5,21-10-2021 01:00,20,55,32
+1734,India,Uttar_Pradesh,Varanasi,"Maldahiya, Varanasi - UPPCB",PM2.5,21-10-2021 01:00,32,65,47
+1741,India,Uttar_Pradesh,Vrindavan,"Omex Eternity, Vrindavan - UPPCB",PM2.5,21-10-2021 01:00,81,339,208
+1748,India,West_Bengal,Asansol,"Asansol Court Area, Asansol - WBPCB",PM2.5,21-10-2021 01:00,NA,NA,NA
+1755,India,West_Bengal,Durgapur,"Sidhu Kanhu Indoor Stadium, Durgapur - WBPCB",PM2.5,21-10-2021 01:00,NA,NA,NA
+1760,India,West_Bengal,Haldia,"Haldia, Haldia - WBPCB",PM2.5,21-10-2021 01:00,18,85,47
+1767,India,West_Bengal,Howrah,"Belur Math, Howrah - WBPCB",PM2.5,21-10-2021 01:00,45,125,70
+1774,India,West_Bengal,Howrah,"Ghusuri, Howrah - WBPCB",PM2.5,21-10-2021 01:00,51,300,123
+1781,India,West_Bengal,Howrah,"Padmapukur, Howrah - WBPCB",PM2.5,21-10-2021 01:00,26,85,57
+1788,India,West_Bengal,Kolkata,"Ballygunge, Kolkata - WBPCB",PM2.5,21-10-2021 01:00,36,86,67
+1795,India,West_Bengal,Kolkata,"Bidhannagar, Kolkata - WBPCB",PM2.5,21-10-2021 01:00,55,210,131
+1802,India,West_Bengal,Kolkata,"Fort William, Kolkata - WBPCB",PM2.5,21-10-2021 01:00,NA,NA,NA
+1809,India,West_Bengal,Kolkata,"Jadavpur, Kolkata - WBPCB",PM2.5,21-10-2021 01:00,48,144,91
+1816,India,West_Bengal,Kolkata,"Rabindra Bharati University, Kolkata - WBPCB",PM2.5,21-10-2021 01:00,NA,NA,NA
+1823,India,West_Bengal,Kolkata,"Rabindra Sarobar, Kolkata - WBPCB",PM2.5,21-10-2021 01:00,32,69,51
+1830,India,West_Bengal,Kolkata,"Victoria, Kolkata - WBPCB",PM2.5,21-10-2021 01:00,28,75,54
+5,India,Andhra_Pradesh,Amaravati,"Secretariat, Amaravati - APPCB",SO2,21-10-2021 01:00,16,42,27
+12,India,Andhra_Pradesh,Rajamahendravaram,"Anand Kala Kshetram, Rajamahendravaram - APPCB",SO2,21-10-2021 01:00,1,9,5
+19,India,Andhra_Pradesh,Tirupati,"Tirumala, Tirupati - APPCB",SO2,21-10-2021 01:00,4,10,7
+26,India,Andhra_Pradesh,Visakhapatnam,"GVM Corporation, Visakhapatnam - APPCB",SO2,21-10-2021 01:00,2,15,10
+32,India,Assam,Guwahati,"Pan Bazaar, Guwahati - APCB",SO2,21-10-2021 01:00,82,101,88
+39,India,Assam,Guwahati,"Railway Colony, Guwahati - APCB",SO2,21-10-2021 01:00,37,40,38
+44,India,Bihar,Gaya,"Collectorate, Gaya - BSPCB",SO2,21-10-2021 01:00,13,17,15
+51,India,Bihar,Gaya,"SFTI Kusdihra, Gaya - BSPCB",SO2,21-10-2021 01:00,1,6,3
+58,India,Bihar,Hajipur,"Industrial Area, Hajipur - BSPCB",SO2,21-10-2021 01:00,2,11,7
+65,India,Bihar,Muzaffarpur,"Buddha Colony, Muzaffarpur - BSPCB",SO2,21-10-2021 01:00,1,106,10
+70,India,Bihar,Muzaffarpur,"Muzaffarpur Collectorate, Muzaffarpur - BSPCB",SO2,21-10-2021 01:00,4,12,8
+77,India,Bihar,Patna,"DRM Office Danapur, Patna - BSPCB",SO2,21-10-2021 01:00,4,5,4
+84,India,Bihar,Patna,"Govt. High School Shikarpur, Patna - BSPCB",SO2,21-10-2021 01:00,8,24,16
+91,India,Bihar,Patna,"Muradpur, Patna - BSPCB",SO2,21-10-2021 01:00,5,10,8
+98,India,Bihar,Patna,"Rajbansi Nagar, Patna - BSPCB",SO2,21-10-2021 01:00,1,6,3
+105,India,Bihar,Patna,"Samanpura, Patna - BSPCB",SO2,21-10-2021 01:00,2,13,6
+112,India,Chandigarh,Chandigarh,"Sector 22, Chandigarh - CPCC",SO2,21-10-2021 01:00,7,35,15
+119,India,Chandigarh,Chandigarh,"Sector-25, Chandigarh - CPCC",SO2,21-10-2021 01:00,2,11,6
+125,India,Chhattisgarh,Bilaspur,"Mangala, Bilaspur - NTPC",SO2,21-10-2021 01:00,9,15,12
+131,India,Delhi,Delhi,"Alipur, Delhi - DPCC",SO2,21-10-2021 01:00,6,15,9
+138,India,Delhi,Delhi,"Anand Vihar, Delhi - DPCC",SO2,21-10-2021 01:00,15,33,24
+145,India,Delhi,Delhi,"Ashok Vihar, Delhi - DPCC",SO2,21-10-2021 01:00,12,38,25
+157,India,Delhi,Delhi,"Bawana, Delhi - DPCC",SO2,21-10-2021 01:00,4,16,5
+169,India,Delhi,Delhi,"Chandni Chowk, Delhi - IITM",SO2,21-10-2021 01:00,6,22,11
+176,India,Delhi,Delhi,"DTU, Delhi - CPCB",SO2,21-10-2021 01:00,6,8,7
+183,India,Delhi,Delhi,"Dr. Karni Singh Shooting Range, Delhi - DPCC",SO2,21-10-2021 01:00,5,11,8
+190,India,Delhi,Delhi,"Dwarka-Sector 8, Delhi - DPCC ",SO2,21-10-2021 01:00,1,8,4
+202,India,Delhi,Delhi,"IHBAS, Dilshad Garden, Delhi - CPCB",SO2,21-10-2021 01:00,5,21,13
+208,India,Delhi,Delhi,"ITO, Delhi - CPCB",SO2,21-10-2021 01:00,6,19,12
+220,India,Delhi,Delhi,"Jawaharlal Nehru Stadium, Delhi - DPCC",SO2,21-10-2021 01:00,1,23,10
+227,India,Delhi,Delhi,"Lodhi Road, Delhi - IITM",SO2,21-10-2021 01:00,3,3,4
+239,India,Delhi,Delhi,"Major Dhyan Chand National Stadium, Delhi - DPCC",SO2,21-10-2021 01:00,4,8,6
+246,India,Delhi,Delhi,"Mandir Marg, Delhi - DPCC",SO2,21-10-2021 01:00,4,38,22
+253,India,Delhi,Delhi,"Mundka, Delhi - DPCC",SO2,21-10-2021 01:00,27,60,39
+260,India,Delhi,Delhi,"NSIT Dwarka, Delhi - CPCB",SO2,21-10-2021 01:00,1,28,10
+267,India,Delhi,Delhi,"Najafgarh, Delhi - DPCC",SO2,21-10-2021 01:00,1,6,3
+274,India,Delhi,Delhi,"Narela, Delhi - DPCC",SO2,21-10-2021 01:00,8,58,18
+281,India,Delhi,Delhi,"Nehru Nagar, Delhi - DPCC",SO2,21-10-2021 01:00,4,19,11
+293,India,Delhi,Delhi,"Okhla Phase-2, Delhi - DPCC",SO2,21-10-2021 01:00,4,17,11
+300,India,Delhi,Delhi,"Patparganj, Delhi - DPCC",SO2,21-10-2021 01:00,6,25,12
+307,India,Delhi,Delhi,"Punjabi Bagh, Delhi - DPCC",SO2,21-10-2021 01:00,19,40,28
+314,India,Delhi,Delhi,"Pusa, Delhi - DPCC",SO2,21-10-2021 01:00,1,11,7
+326,India,Delhi,Delhi,"R K Puram, Delhi - DPCC",SO2,21-10-2021 01:00,1,36,10
+333,India,Delhi,Delhi,"Rohini, Delhi - DPCC",SO2,21-10-2021 01:00,2,21,6
+340,India,Delhi,Delhi,"Shadipur, Delhi - CPCB",SO2,21-10-2021 01:00,2,16,7
+347,India,Delhi,Delhi,"Sirifort, Delhi - CPCB",SO2,21-10-2021 01:00,11,18,14
+354,India,Delhi,Delhi,"Sonia Vihar, Delhi - DPCC",SO2,21-10-2021 01:00,4,17,9
+361,India,Delhi,Delhi,"Sri Aurobindo Marg, Delhi - DPCC",SO2,21-10-2021 01:00,4,8,6
+368,India,Delhi,Delhi,"Vivek Vihar, Delhi - DPCC",SO2,21-10-2021 01:00,1,3,2
+375,India,Delhi,Delhi,"Wazirpur, Delhi - DPCC",SO2,21-10-2021 01:00,1,7,5
+381,India,Gujarat,Ahmedabad,"Gyaspur, Ahmedabad - IITM",SO2,21-10-2021 01:00,3,14,8
+387,India,Gujarat,Ahmedabad,"Maninagar, Ahmedabad - GPCB",SO2,21-10-2021 01:00,46,76,60
+392,India,Gujarat,Ahmedabad,"Rakhial, Ahmedabad - IITM",SO2,21-10-2021 01:00,4,9,7
+398,India,Gujarat,Ahmedabad,"SAC ISRO Bopal, Ahmedabad - IITM",SO2,21-10-2021 01:00,11,12,11
+405,India,Gujarat,Ahmedabad,"SAC ISRO Satellite, Ahmedabad - IITM",SO2,21-10-2021 01:00,6,11,7
+412,India,Gujarat,Ahmedabad,"SVPI Airport Hansol, Ahmedabad - IITM",SO2,21-10-2021 01:00,3,3,3
+419,India,Gujarat,Ankleshwar,"GIDC, Ankleshwar - GPCB",SO2,21-10-2021 01:00,30,95,56
+426,India,Gujarat,Gandhinagar,"GIFT City, Gandhinagar - IITM",SO2,21-10-2021 01:00,4,8,5
+433,India,Gujarat,Gandhinagar,"IIPHG Lekawada, Gandhinagar - IITM",SO2,21-10-2021 01:00,1,3,3
+440,India,Gujarat,Gandhinagar,"Sector-10, Gandhinagar - GPCB",SO2,21-10-2021 01:00,8,12,10
+446,India,Gujarat,Nandesari,"GIDC, Nandesari - Nandesari Ind. Association",SO2,21-10-2021 01:00,1,2,2
+451,India,Gujarat,Vapi,"Phase-1 GIDC, Vapi - GPCB",SO2,21-10-2021 01:00,21,21,21
+457,India,Gujarat,Vatva,"Phase-4 GIDC, Vatva - GPCB",SO2,21-10-2021 01:00,7,32,17
+464,India,Haryana,Ambala,"Patti Mehar, Ambala - HSPCB",SO2,21-10-2021 01:00,2,74,14
+471,India,Haryana,Bahadurgarh,"Arya Nagar, Bahadurgarh - HSPCB",SO2,21-10-2021 01:00,8,23,12
+478,India,Haryana,Ballabgarh,"Nathu Colony, Ballabgarh - HSPCB",SO2,21-10-2021 01:00,3,27,9
+485,India,Haryana,Bhiwani,"H.B. Colony, Bhiwani - HSPCB",SO2,21-10-2021 01:00,15,36,20
+492,India,Haryana,Charkhi Dadri,"Mini Secretariat, Charkhi Dadri - HSPCB",SO2,21-10-2021 01:00,4,6,5
+499,India,Haryana,Dharuhera,"Municipal Corporation Office, Dharuhera -  HSPCB",SO2,21-10-2021 01:00,7,25,12
+506,India,Haryana,Faridabad,"New Industrial Town, Faridabad - HSPCB",SO2,21-10-2021 01:00,6,7,6
+513,India,Haryana,Faridabad,"Sector 11, Faridabad - HSPCB",SO2,21-10-2021 01:00,1,4,2
+520,India,Haryana,Faridabad,"Sector 30, Faridabad - HSPCB",SO2,21-10-2021 01:00,7,11,9
+525,India,Haryana,Faridabad,"Sector- 16A, Faridabad - HSPCB",SO2,21-10-2021 01:00,19,39,28
+532,India,Haryana,Fatehabad,"Huda Sector, Fatehabad - HSPCB",SO2,21-10-2021 01:00,12,23,18
+544,India,Haryana,Gurugram,"Sector-51, Gurugram - HSPCB",SO2,21-10-2021 01:00,1,7,4
+551,India,Haryana,Gurugram,"Teri Gram, Gurugram - HSPCB",SO2,21-10-2021 01:00,2,5,4
+556,India,Haryana,Gurugram,"Vikas Sadan, Gurugram - HSPCB",SO2,21-10-2021 01:00,NA,NA,NA
+563,India,Haryana,Hisar,"Urban Estate-II, Hisar - HSPCB",SO2,21-10-2021 01:00,1,16,9
+570,India,Haryana,Jind,"Police Lines, Jind - HSPCB",SO2,21-10-2021 01:00,4,86,15
+577,India,Haryana,Kaithal,"Rishi Nagar, Kaithal - HSPCB",SO2,21-10-2021 01:00,2,53,14
+584,India,Haryana,Karnal,"Sector-12, Karnal - HSPCB",SO2,21-10-2021 01:00,11,61,30
+591,India,Haryana,Kurukshetra,"Sector-7, Kurukshetra - HSPCB",SO2,21-10-2021 01:00,9,36,19
+598,India,Haryana,Mandikhera,"General Hospital, Mandikhera - HSPCB",SO2,21-10-2021 01:00,5,20,16
+605,India,Haryana,Manesar,"Sector-2 IMT, Manesar - HSPCB",SO2,21-10-2021 01:00,4,10,7
+612,India,Haryana,Narnaul,"Shastri Nagar, Narnaul - HSPCB",SO2,21-10-2021 01:00,5,6,5
+619,India,Haryana,Palwal,"Shyam Nagar, Palwal - HSPCB",SO2,21-10-2021 01:00,1,9,7
+624,India,Haryana,Panchkula,"Sector-6, Panchkula - HSPCB ",SO2,21-10-2021 01:00,1,4,4
+631,India,Haryana,Panipat,"Sector-18, Panipat - HSPCB",SO2,21-10-2021 01:00,12,28,19
+636,India,Haryana,Rohtak,"MD University, Rohtak - HSPCB",SO2,21-10-2021 01:00,2,34,9
+643,India,Haryana,Sirsa,"F-Block, Sirsa - HSPCB",SO2,21-10-2021 01:00,9,33,27
+650,India,Haryana,Sonipat,"Murthal, Sonipat - HSPCB",SO2,21-10-2021 01:00,3,7,5
+657,India,Haryana,Yamunanagar,"Gobind Pura, Yamuna Nagar - HSPCB",SO2,21-10-2021 01:00,1,15,5
+664,India,Jammu_&_Kashmir,Srinagar,"Rajbagh, Srinagar - JKSPCB",SO2,21-10-2021 01:00,17,74,21
+667,India,Jharkhand,Jorapokhar,"Tata Stadium, Jorapokhar - JSPCB",SO2,21-10-2021 01:00,NA,NA,NA
+673,India,Karnataka,Bagalkot,"Vidayagiri, Bagalkot - KSPCB",SO2,21-10-2021 01:00,6,31,13
+680,India,Karnataka,Bengaluru,"BWSSB Kadabesanahalli, Bengaluru - CPCB",SO2,21-10-2021 01:00,1,43,16
+687,India,Karnataka,Bengaluru,"Bapuji Nagar, Bengaluru - KSPCB",SO2,21-10-2021 01:00,4,6,5
+692,India,Karnataka,Bengaluru,"City Railway Station, Bengaluru - KSPCB",SO2,21-10-2021 01:00,10,15,12
+698,India,Karnataka,Bengaluru,"Hebbal, Bengaluru - KSPCB",SO2,21-10-2021 01:00,7,9,8
+705,India,Karnataka,Bengaluru,"Hombegowda Nagar, Bengaluru - KSPCB",SO2,21-10-2021 01:00,4,8,7
+712,India,Karnataka,Bengaluru,"Jayanagar 5th Block, Bengaluru - KSPCB",SO2,21-10-2021 01:00,3,7,6
+718,India,Karnataka,Bengaluru,"Peenya, Bengaluru - CPCB",SO2,21-10-2021 01:00,2,4,2
+723,India,Karnataka,Bengaluru,"Sanegurava Halli, Bengaluru - KSPCB",SO2,21-10-2021 01:00,4,31,11
+729,India,Karnataka,Bengaluru,"Silk Board, Bengaluru - KSPCB",SO2,21-10-2021 01:00,5,6,5
+736,India,Karnataka,Chamarajanagar,"Urban, Chamarajanagar - KSPCB",SO2,21-10-2021 01:00,2,8,4
+743,India,Karnataka,Chikkaballapur,"Chikkaballapur Rural, Chikkaballapur - KSPCB",SO2,21-10-2021 01:00,2,5,3
+750,India,Karnataka,Chikkamagaluru,"Kalyana Nagara, Chikkamagaluru - KSPCB",SO2,21-10-2021 01:00,1,5,2
+757,India,Karnataka,Davanagere,"Devaraj Urs Badavane, Davanagere - KSPCB",SO2,21-10-2021 01:00,6,8,7
+764,India,Karnataka,Hassan,"B.Katihalli, Hassan - KSPCB",SO2,21-10-2021 01:00,19,26,23
+771,India,Karnataka,Hubballi,"Deshpande Nagar, Hubballi - KSPCB",SO2,21-10-2021 01:00,4,5,5
+783,India,Karnataka,Kolar,"Tamaka Ind. Area, Kolar - KSPCB",SO2,21-10-2021 01:00,24,168,69
+790,India,Karnataka,Koppal,"Diwator Nagar, Koppal - KSPCB",SO2,21-10-2021 01:00,15,25,20
+797,India,Karnataka,Manglore,"Kadri, Mangalore - KSPCB",SO2,21-10-2021 01:00,37,39,38
+804,India,Karnataka,Medikeri,"Stuart Hill, Madikeri - KSPCB",SO2,21-10-2021 01:00,3,15,12
+811,India,Karnataka,Mysuru,"Hebbal 1st Stage, Mysuru - KSPCB",SO2,21-10-2021 01:00,1,19,3
+818,India,Karnataka,Raichur,"Haji Colony, Raichur - KSPCB",SO2,21-10-2021 01:00,7,11,8
+825,India,Karnataka,Ramanagara,"Vijay Nagar, Ramanagara - KSPCB",SO2,21-10-2021 01:00,17,26,21
+832,India,Karnataka,Shivamogga,"Vinoba Nagara, Shivamogga - KSPCB",SO2,21-10-2021 01:00,2,7,4
+838,India,Karnataka,Udupi,"Brahmagiri, Udupi - KSPCB",SO2,21-10-2021 01:00,4,52,13
+845,India,Karnataka,Vijayapura,"Ibrahimpur, Vijayapura - KSPCB",SO2,21-10-2021 01:00,5,7,5
+852,India,Karnataka,Yadgir,"Collector Office, Yadgir - KSPCB",SO2,21-10-2021 01:00,11,121,29
+859,India,Kerala,Eloor,"Udyogamandal, Eloor - Kerala PCB",SO2,21-10-2021 01:00,NA,NA,NA
+866,India,Kerala,Ernakulam,"Kacheripady, Ernakulam - Kerala PCB",SO2,21-10-2021 01:00,NA,NA,NA
+872,India,Kerala,Kannur,"Thavakkara, Kannur - Kerala PCB",SO2,21-10-2021 01:00,1,3,2
+879,India,Kerala,Kochi,"Vyttila, Kochi - Kerala PCB",SO2,21-10-2021 01:00,NA,NA,NA
+885,India,Kerala,Kollam,"Polayathode, Kollam - Kerala PCB",SO2,21-10-2021 01:00,1,6,3
+892,India,Kerala,Kozhikode,"Palayam, Kozhikode - Kerala PCB",SO2,21-10-2021 01:00,5,9,7
+899,India,Kerala,Thiruvananthapuram,"Kariavattom, Thiruvananthapuram - Kerala PCB",SO2,21-10-2021 01:00,1,6,3
+906,India,Kerala,Thiruvananthapuram,"Plammoodu, Thiruvananthapuram - Kerala PCB",SO2,21-10-2021 01:00,4,15,11
+913,India,Madhya Pradesh,Bhopal,"T T Nagar, Bhopal - MPPCB",SO2,21-10-2021 01:00,9,26,20
+924,India,Madhya Pradesh,Dewas,"Bhopal Chauraha, Dewas - MPPCB",SO2,21-10-2021 01:00,4,82,15
+931,India,Madhya Pradesh,Gwalior,"City Center, Gwalior - MPPCB",SO2,21-10-2021 01:00,14,19,18
+941,India,Madhya Pradesh,Indore,"Chhoti Gwaltoli, Indore - MPPCB",SO2,21-10-2021 01:00,10,33,18
+948,India,Madhya Pradesh,Jabalpur,"Marhatal, Jabalpur - MPPCB",SO2,21-10-2021 01:00,5,12,10
+955,India,Madhya Pradesh,Katni,"Gole Bazar, Katni - MPPCB",SO2,21-10-2021 01:00,5,109,47
+962,India,Madhya Pradesh,Mandideep,"Sector-D Industrial Area, Mandideep - MPPCB",SO2,21-10-2021 01:00,NA,NA,NA
+969,India,Madhya Pradesh,Pithampur,"Sector-2 Industrial Area, Pithampur - MPPCB",SO2,21-10-2021 01:00,17,46,28
+975,India,Madhya Pradesh,Ratlam,"Shasthri Nagar, Ratlam - IPCA Lab",SO2,21-10-2021 01:00,5,9,7
+979,India,Madhya Pradesh,Sagar,"Deen Dayal Nagar, Sagar - MPPCB",SO2,21-10-2021 01:00,8,13,10
+983,India,Madhya Pradesh,Satna,"Bandhavgar Colony, Satna - Birla Cement",SO2,21-10-2021 01:00,25,28,27
+989,India,Madhya Pradesh,Singrauli,"Suryakiran Bhawan NCL, Singrauli - MPPCB",SO2,21-10-2021 01:00,8,26,18
+996,India,Madhya Pradesh,Ujjain,"Mahakaleshwar Temple, Ujjain - MPPCB",SO2,21-10-2021 01:00,4,11,6
+1003,India,Maharashtra,Aurangabad,"More Chowk Waluj, Aurangabad - MPCB",SO2,21-10-2021 01:00,11,30,23
+1010,India,Maharashtra,Chandrapur,"Chandrapur, Chandrapur - MPCB",SO2,21-10-2021 01:00,3,8,6
+1017,India,Maharashtra,Chandrapur,"MIDC Khutala, Chandrapur - MPCB",SO2,21-10-2021 01:00,1,6,3
+1030,India,Maharashtra,Mumbai,"Bandra Kurla Complex, Mumbai - IITM",SO2,21-10-2021 01:00,28,63,40
+1035,India,Maharashtra,Mumbai,"Bandra, Mumbai - MPCB",SO2,21-10-2021 01:00,52,56,54
+1047,India,Maharashtra,Mumbai,"Borivali East, Mumbai - MPCB",SO2,21-10-2021 01:00,NA,NA,NA
+1054,India,Maharashtra,Mumbai,"Chakala-Andheri East, Mumbai - IITM",SO2,21-10-2021 01:00,10,15,12
+1061,India,Maharashtra,Mumbai,"Chhatrapati Shivaji Intl. Airport (T2), Mumbai - MPCB",SO2,21-10-2021 01:00,3,6,5
+1073,India,Maharashtra,Mumbai,"Deonar, Mumbai - IITM",SO2,21-10-2021 01:00,1,8,4
+1080,India,Maharashtra,Mumbai,"Kandivali East, Mumbai - MPCB",SO2,21-10-2021 01:00,7,10,8
+1087,India,Maharashtra,Mumbai,"Khindipada-Bhandup West, Mumbai - IITM",SO2,21-10-2021 01:00,1,5,3
+1094,India,Maharashtra,Mumbai,"Mazgaon, Mumbai - IITM",SO2,21-10-2021 01:00,1,10,4
+1101,India,Maharashtra,Mumbai,"Mulund West, Mumbai - MPCB",SO2,21-10-2021 01:00,18,26,22
+1108,India,Maharashtra,Mumbai,"Powai, Mumbai - MPCB",SO2,21-10-2021 01:00,2,4,4
+1120,India,Maharashtra,Mumbai,"Sion, Mumbai - MPCB",SO2,21-10-2021 01:00,1,6,4
+1126,India,Maharashtra,Mumbai,"Vasai West, Mumbai - MPCB",SO2,21-10-2021 01:00,25,26,25
+1137,India,Maharashtra,Mumbai,"Worli, Mumbai - MPCB",SO2,21-10-2021 01:00,17,114,32
+1144,India,Maharashtra,Nashik,"Gangapur Road, Nashik - MPCB",SO2,21-10-2021 01:00,1,3,2
+1151,India,Maharashtra,Navi Mumbai,"Mahape, Navi Mumbai - MPCB",SO2,21-10-2021 01:00,2,10,6
+1158,India,Maharashtra,Navi Mumbai,"Nerul, Navi Mumbai - MPCB",SO2,21-10-2021 01:00,31,34,33
+1164,India,Maharashtra,Navi Mumbai,"Sector-19A Nerul, Navi Mumbai - IITM",SO2,21-10-2021 01:00,1,6,3
+1178,India,Maharashtra,Pune,"Karve Road, Pune - MPCB",SO2,21-10-2021 01:00,NA,NA,NA
+1189,India,Maharashtra,Pune,"Revenue Colony-Shivajinagar, Pune - IITM",SO2,21-10-2021 01:00,2,131,59
+1195,India,Maharashtra,Thane,"Pimpleshwar Mandir, Thane - MPCB",SO2,21-10-2021 01:00,1,31,6
+1202,India,Meghalaya,Shillong,"Lumpyngngad, Shillong - Meghalaya PCB",SO2,21-10-2021 01:00,14,34,18
+1208,India,Mizoram,Aizawl,"Sikulpuikawn, Aizawl - Mizoram PCB",SO2,21-10-2021 01:00,1,26,23
+1215,India,Nagaland,Kohima,"PWD Juction, Kohima - NPCB",SO2,21-10-2021 01:00,36,37,36
+1221,India,Odisha,Brajrajnagar,"GM Office, Brajrajnagar - OSPCB",SO2,21-10-2021 01:00,30,101,49
+1228,India,Odisha,Talcher,"Talcher Coalfields,Talcher - OSPCB",SO2,21-10-2021 01:00,6,23,12
+1235,India,Puducherry,Puducherry,"Jawahar Nagar, Puducherry - PPCC",SO2,21-10-2021 01:00,1,55,14
+1242,India,Punjab,Amritsar,"Golden Temple, Amritsar - PPCB",SO2,21-10-2021 01:00,5,49,22
+1248,India,Punjab,Bathinda,"Hardev Nagar, Bathinda - PPCB",SO2,21-10-2021 01:00,5,11,8
+1254,India,Punjab,Jalandhar,"Civil Line, Jalandhar - PPCB",SO2,21-10-2021 01:00,8,15,12
+1261,India,Punjab,Khanna,"Kalal Majra, Khanna - PPCB",SO2,21-10-2021 01:00,12,105,29
+1268,India,Punjab,Ludhiana,"Punjab Agricultural University, Ludhiana - PPCB",SO2,21-10-2021 01:00,3,23,7
+1275,India,Punjab,Mandi Gobindgarh,"RIMT University, Mandi Gobindgarh - PPCB",SO2,21-10-2021 01:00,7,103,20
+1282,India,Punjab,Patiala,"Model Town, Patiala - PPCB",SO2,21-10-2021 01:00,5,11,7
+1287,India,Punjab,Rupnagar,"Ratanpura, Rupnagar - Ambuja Cements",SO2,21-10-2021 01:00,9,14,12
+1293,India,Rajasthan,Ajmer,"Civil Lines,  Ajmer - RSPCB",SO2,21-10-2021 01:00,4,23,12
+1300,India,Rajasthan,Alwar,"Moti Doongri, Alwar - RSPCB",SO2,21-10-2021 01:00,7,22,13
+1307,India,Rajasthan,Bhiwadi,"RIICO Ind. Area III, Bhiwadi - RSPCB",SO2,21-10-2021 01:00,8,70,29
+1314,India,Rajasthan,Jaipur,"Adarsh Nagar, Jaipur - RSPCB",SO2,21-10-2021 01:00,11,24,18
+1321,India,Rajasthan,Jaipur,"Police Commissionerate, Jaipur - RSPCB",SO2,21-10-2021 01:00,NA,NA,NA
+1328,India,Rajasthan,Jaipur,"Shastri Nagar, Jaipur - RSPCB",SO2,21-10-2021 01:00,14,39,23
+1334,India,Rajasthan,Jodhpur,"Collectorate, Jodhpur - RSPCB",SO2,21-10-2021 01:00,5,20,12
+1341,India,Rajasthan,Kota,"Shrinath Puram, Kota - RSPCB",SO2,21-10-2021 01:00,10,14,12
+1348,India,Rajasthan,Pali,"Indira Colony Vistar, Pali - RSPCB",SO2,21-10-2021 01:00,4,10,8
+1355,India,Rajasthan,Udaipur,"Ashok Nagar, Udaipur - RSPCB",SO2,21-10-2021 01:00,8,19,12
+1362,India,TamilNadu,Chennai,"Alandur Bus Depot, Chennai - CPCB",SO2,21-10-2021 01:00,14,19,16
+1367,India,TamilNadu,Chennai,"Arumbakkam, Chennai - TNPCB",SO2,21-10-2021 01:00,13,25,22
+1372,India,TamilNadu,Chennai,"Kodungaiyur, Chennai - TNPCB",SO2,21-10-2021 01:00,16,19,17
+1379,India,TamilNadu,Chennai,"Manali, Chennai - CPCB",SO2,21-10-2021 01:00,1,10,6
+1386,India,TamilNadu,Chennai,"Perungudi, Chennai - TNPCB",SO2,21-10-2021 01:00,2,6,4
+1393,India,TamilNadu,Chennai,"Royapuram, Chennai - TNPCB",SO2,21-10-2021 01:00,3,25,8
+1399,India,TamilNadu,Chennai,"Velachery Res. Area, Chennai - CPCB",SO2,21-10-2021 01:00,8,13,11
+1406,India,TamilNadu,Gummidipoondi,"Anthoni Pillai Nagar, Gummidipoondi - TNPCB",SO2,21-10-2021 01:00,4,19,9
+1409,India,TamilNadu,Thoothukudi,"Meelavittan, Thoothukudi - TNPCB",SO2,21-10-2021 01:00,5,13,9
+1416,India,Telangana,Hyderabad,"Bollaram Industrial Area, Hyderabad - TSPCB",SO2,21-10-2021 01:00,NA,NA,NA
+1423,India,Telangana,Hyderabad,"Central University, Hyderabad - TSPCB",SO2,21-10-2021 01:00,2,16,7
+1430,India,Telangana,Hyderabad,"ICRISAT Patancheru, Hyderabad - TSPCB",SO2,21-10-2021 01:00,6,24,10
+1437,India,Telangana,Hyderabad,"IDA Pashamylaram, Hyderabad - TSPCB",SO2,21-10-2021 01:00,2,8,4
+1442,India,Telangana,Hyderabad,"Sanathnagar, Hyderabad - TSPCB",SO2,21-10-2021 01:00,8,34,18
+1449,India,Telangana,Hyderabad,"Zoo Park, Hyderabad - TSPCB",SO2,21-10-2021 01:00,2,6,4
+1456,India,Tripura,Agartala,"Kunjaban, Agartala - Tripura SPCB",SO2,21-10-2021 01:00,NA,NA,NA
+1463,India,Uttar_Pradesh,Agra,"Manoharpur, Agra - UPPCB",SO2,21-10-2021 01:00,12,13,12
+1469,India,Uttar_Pradesh,Agra,"Sanjay Palace, Agra - UPPCB",SO2,21-10-2021 01:00,2,60,23
+1476,India,Uttar_Pradesh,Agra,"Sector-3B Avas Vikas Colony, Agra - UPPCB",SO2,21-10-2021 01:00,10,12,11
+1483,India,Uttar_Pradesh,Agra,"Shahjahan Garden, Agra - UPPCB",SO2,21-10-2021 01:00,8,10,9
+1490,India,Uttar_Pradesh,Agra,"Shastripuram, Agra - UPPCB",SO2,21-10-2021 01:00,13,28,19
+1497,India,Uttar_Pradesh,Baghpat,"New Collectorate, Baghpat - UPPCB",SO2,21-10-2021 01:00,6,17,10
+1504,India,Uttar_Pradesh,Bulandshahr,"Yamunapuram, Bulandshahr - UPPCB",SO2,21-10-2021 01:00,10,18,15
+1511,India,Uttar_Pradesh,Firozabad,"Nagla Bhau, Firozabad - UPPCB",SO2,21-10-2021 01:00,10,62,20
+1518,India,Uttar_Pradesh,Ghaziabad,"Indirapuram, Ghaziabad - UPPCB",SO2,21-10-2021 01:00,5,16,11
+1525,India,Uttar_Pradesh,Ghaziabad,"Loni, Ghaziabad - UPPCB",SO2,21-10-2021 01:00,12,30,18
+1532,India,Uttar_Pradesh,Ghaziabad,"Sanjay Nagar, Ghaziabad - UPPCB",SO2,21-10-2021 01:00,21,52,31
+1539,India,Uttar_Pradesh,Ghaziabad,"Vasundhara, Ghaziabad - UPPCB",SO2,21-10-2021 01:00,10,26,16
+1546,India,Uttar_Pradesh,Gorakhpur,"Madan Mohan Malaviya University of Technology, Gorakhpur - UPPCB",SO2,21-10-2021 01:00,8,27,18
+1553,India,Uttar_Pradesh,Greater Noida,"Knowledge Park - III, Greater Noida - UPPCB",SO2,21-10-2021 01:00,16,27,21
+1560,India,Uttar_Pradesh,Greater Noida,"Knowledge Park - V, Greater Noida - UPPCB",SO2,21-10-2021 01:00,10,22,17
+1567,India,Uttar_Pradesh,Hapur,"Anand Vihar, Hapur - UPPCB",SO2,21-10-2021 01:00,4,58,21
+1574,India,Uttar_Pradesh,Kanpur,"FTI Kidwai Nagar, Kanpur - UPPCB",SO2,21-10-2021 01:00,5,6,5
+1584,India,Uttar_Pradesh,Kanpur,"NSI Kalyanpur, Kanpur - UPPCB",SO2,21-10-2021 01:00,11,13,12
+1589,India,Uttar_Pradesh,Kanpur,"Nehru Nagar, Kanpur - UPPCB",SO2,21-10-2021 01:00,15,131,69
+1596,India,Uttar_Pradesh,Lucknow,"B R Ambedkar University, Lucknow - UPPCB",SO2,21-10-2021 01:00,5,6,6
+1603,India,Uttar_Pradesh,Lucknow,"Central School, Lucknow - CPCB",SO2,21-10-2021 01:00,4,13,7
+1609,India,Uttar_Pradesh,Lucknow,"Gomti Nagar, Lucknow - UPPCB",SO2,21-10-2021 01:00,26,38,31
+1616,India,Uttar_Pradesh,Lucknow,"Kukrail Picnic Spot-1, Lucknow - UPPCB",SO2,21-10-2021 01:00,8,10,8
+1623,India,Uttar_Pradesh,Lucknow,"Lalbagh, Lucknow - CPCB",SO2,21-10-2021 01:00,3,22,11
+1630,India,Uttar_Pradesh,Lucknow,"Talkatora District Industries Center, Lucknow - CPCB",SO2,21-10-2021 01:00,3,17,9
+1637,India,Uttar_Pradesh,Meerut,"Ganga Nagar, Meerut - UPPCB",SO2,21-10-2021 01:00,2,137,9
+1643,India,Uttar_Pradesh,Meerut,"Jai Bhim Nagar, Meerut - UPPCB",SO2,21-10-2021 01:00,29,40,32
+1650,India,Uttar_Pradesh,Meerut,"Pallavpuram Phase 2, Meerut - UPPCB",SO2,21-10-2021 01:00,19,38,27
+1657,India,Uttar_Pradesh,Moradabad,"Lajpat Nagar, Moradabad - UPPCB",SO2,21-10-2021 01:00,3,45,18
+1664,India,Uttar_Pradesh,Muzaffarnagar,"New Mandi, Muzaffarnagar - UPPCB",SO2,21-10-2021 01:00,3,29,12
+1671,India,Uttar_Pradesh,Noida,"Sector - 125, Noida - UPPCB",SO2,21-10-2021 01:00,7,17,12
+1683,India,Uttar_Pradesh,Noida,"Sector-1, Noida - UPPCB",SO2,21-10-2021 01:00,3,24,12
+1690,India,Uttar_Pradesh,Noida,"Sector-116, Noida - UPPCB",SO2,21-10-2021 01:00,5,22,11
+1697,India,Uttar_Pradesh,Prayagraj,"Jhunsi, Prayagraj - UPPCB",SO2,21-10-2021 01:00,15,15,15
+1704,India,Uttar_Pradesh,Prayagraj,"Motilal Nehru NIT, Prayagraj - UPPCB",SO2,21-10-2021 01:00,14,15,15
+1711,India,Uttar_Pradesh,Prayagraj,"Nagar Nigam, Prayagraj - UPPCB",SO2,21-10-2021 01:00,6,11,8
+1717,India,Uttar_Pradesh,Varanasi,"Ardhali Bazar, Varanasi - UPPCB",SO2,21-10-2021 01:00,10,28,19
+1724,India,Uttar_Pradesh,Varanasi,"Bhelupur, Varanasi - UPPCB",SO2,21-10-2021 01:00,12,12,12
+1731,India,Uttar_Pradesh,Varanasi,"IESD Banaras Hindu University, Varanasi - UPPCB",SO2,21-10-2021 01:00,19,21,20
+1738,India,Uttar_Pradesh,Varanasi,"Maldahiya, Varanasi - UPPCB",SO2,21-10-2021 01:00,12,12,12
+1745,India,Uttar_Pradesh,Vrindavan,"Omex Eternity, Vrindavan - UPPCB",SO2,21-10-2021 01:00,8,17,13
+1752,India,West_Bengal,Asansol,"Asansol Court Area, Asansol - WBPCB",SO2,21-10-2021 01:00,NA,NA,NA
+1759,India,West_Bengal,Durgapur,"Sidhu Kanhu Indoor Stadium, Durgapur - WBPCB",SO2,21-10-2021 01:00,4,36,23
+1764,India,West_Bengal,Haldia,"Haldia, Haldia - WBPCB",SO2,21-10-2021 01:00,15,25,19
+1771,India,West_Bengal,Howrah,"Belur Math, Howrah - WBPCB",SO2,21-10-2021 01:00,8,15,9
+1778,India,West_Bengal,Howrah,"Ghusuri, Howrah - WBPCB",SO2,21-10-2021 01:00,1,23,7
+1785,India,West_Bengal,Howrah,"Padmapukur, Howrah - WBPCB",SO2,21-10-2021 01:00,3,10,4
+1792,India,West_Bengal,Kolkata,"Ballygunge, Kolkata - WBPCB",SO2,21-10-2021 01:00,8,28,14
+1799,India,West_Bengal,Kolkata,"Bidhannagar, Kolkata - WBPCB",SO2,21-10-2021 01:00,1,26,12
+1806,India,West_Bengal,Kolkata,"Fort William, Kolkata - WBPCB",SO2,21-10-2021 01:00,NA,NA,NA
+1813,India,West_Bengal,Kolkata,"Jadavpur, Kolkata - WBPCB",SO2,21-10-2021 01:00,6,16,8
+1820,India,West_Bengal,Kolkata,"Rabindra Bharati University, Kolkata - WBPCB",SO2,21-10-2021 01:00,NA,NA,NA
+1827,India,West_Bengal,Kolkata,"Rabindra Sarobar, Kolkata - WBPCB",SO2,21-10-2021 01:00,2,15,4
+1834,India,West_Bengal,Kolkata,"Victoria, Kolkata - WBPCB",SO2,21-10-2021 01:00,6,28,10
